@@ -17,20 +17,20 @@ A curated list of awesome Haskell frameworks, libraries and software.
 * [gibiansky/IHaskell](https://github.com/gibiansky/IHaskell) - A Haskell kernel for IPython.
 * [wireapp/wire-server](https://github.com/wireapp/wire-server) - 🇪🇺 Wire back-end services
 * [ekmett/lens](https://github.com/ekmett/lens) - Lenses, Folds, and Traversals - Join us on freenode #haskell-lens
-* [valderman/haste-compiler](https://github.com/valderman/haste-compiler) - A GHC-based Haskell to JavaScript compiler
 * [sdiehl/wiwinwlh](https://github.com/sdiehl/wiwinwlh) - What I Wish I Knew When Learning Haskell
+* [valderman/haste-compiler](https://github.com/valderman/haste-compiler) - A GHC-based Haskell to JavaScript compiler
 * [scotty-web/scotty](https://github.com/scotty-web/scotty) - Haskell web framework inspired by Ruby's Sinatra, using WAI and Warp (Official Repository)
 * [yi-editor/yi](https://github.com/yi-editor/yi) - The Haskell-Scriptable Editor
 * [faylang/fay](https://github.com/faylang/fay) - A proper subset of Haskell that compiles to JavaScript
 * [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
-* [HuwCampbell/grenade](https://github.com/HuwCampbell/grenade) - Deep Learning in Haskell
 * [haskell/haskell-ide-engine](https://github.com/haskell/haskell-ide-engine) - The engine for haskell ide-integration. Not an IDE
-* [huangz1990/real-world-haskell-cn](https://github.com/huangz1990/real-world-haskell-cn) - 《Real World Haskell》中文翻译项目
+* [HuwCampbell/grenade](https://github.com/HuwCampbell/grenade) - Deep Learning in Haskell
 * [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell front-end framework
+* [huangz1990/real-world-haskell-cn](https://github.com/huangz1990/real-world-haskell-cn) - 《Real World Haskell》中文翻译项目
 * [tensorflow/haskell](https://github.com/tensorflow/haskell) - Haskell bindings for TensorFlow
 * [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
-* [GaloisInc/HaLVM](https://github.com/GaloisInc/HaLVM) - The Haskell Lightweight Virtual Machine (HaLVM): GHC running on Xen
 * [haskell/cabal](https://github.com/haskell/cabal) - Official upstream development repository for Cabal and cabal-install
+* [GaloisInc/HaLVM](https://github.com/GaloisInc/HaLVM) - The Haskell Lightweight Virtual Machine (HaLVM): GHC running on Xen
 * [hzlmn/haskell-must-watch](https://github.com/hzlmn/haskell-must-watch) - Huge list of  videos, talks, courses for Haskell programming language.
 * [commercialhaskell/intero](https://github.com/commercialhaskell/intero) - Complete interactive development program for Haskell
 * [simonmichael/hledger](https://github.com/simonmichael/hledger) - The hledger command-line/curses/web accounting tool, a Haskell rewrite of ledger.
@@ -40,15 +40,15 @@ A curated list of awesome Haskell frameworks, libraries and software.
 * [quchen/articles](https://github.com/quchen/articles) - Miscellaneous articles. The readme is the table of contents.
 * [tidalcycles/Tidal](https://github.com/tidalcycles/Tidal) - Pattern language
 * [aurapm/aura](https://github.com/aurapm/aura) - A secure, multilingual package manager for Arch Linux and the AUR.
-* [colah/ImplicitCAD](https://github.com/colah/ImplicitCAD) - A math-inspired CAD program in haskell. CSG, bevels, and shells; 2D & 3D; gcode generation...
 * [ndmitchell/hlint](https://github.com/ndmitchell/hlint) - Haskell source code suggestions
+* [colah/ImplicitCAD](https://github.com/colah/ImplicitCAD) - A math-inspired CAD program in haskell. CSG, bevels, and shells; 2D & 3D; gcode generation...
 * [DanielG/ghc-mod](https://github.com/DanielG/ghc-mod) - Happy Haskell Hacking for editors. CI: https://gitlab.com/dxld/ghc-mod/pipelines
 * [joshuaclayton/unused](https://github.com/joshuaclayton/unused) - A command line tool to identify unused code.
 * [sdiehl/kaleidoscope](https://github.com/sdiehl/kaleidoscope) - Haskell LLVM JIT Compiler Tutorial
-* [bos/stanford-cs240h](https://github.com/bos/stanford-cs240h) - Course materials for Stanford CS240h, "Functional Systems in Haskell"
-* [aviaviavi/legion](https://github.com/aviaviavi/legion) - Simple blockchain server written in haskell. Feedback welcome.
-* [reflex-frp/reflex](https://github.com/reflex-frp/reflex) - Reflex FRP is a composable, cross-platform functional reactive programming framework for Haskell.  It allows you to build interactive components in pure functional style, working in harmony with established Haskell techniques and improving the quality and elegance of your applications.
 * [evincarofautumn/kitten](https://github.com/evincarofautumn/kitten) - A statically typed concatenative systems programming language.
+* [bos/stanford-cs240h](https://github.com/bos/stanford-cs240h) - Course materials for Stanford CS240h, "Functional Systems in Haskell"
+* [reflex-frp/reflex](https://github.com/reflex-frp/reflex) - Reflex FRP is a composable, cross-platform functional reactive programming framework for Haskell.  It allows you to build interactive components in pure functional style, working in harmony with established Haskell techniques and improving the quality and elegance of your applications.
+* [aviaviavi/legion](https://github.com/aviaviavi/legion) - Simple blockchain server written in haskell. Feedback welcome.
 * [Gabriel439/Haskell-Turtle-Library](https://github.com/Gabriel439/Haskell-Turtle-Library) - Shell programming, Haskell style
 * [AccelerateHS/accelerate](https://github.com/AccelerateHS/accelerate) - Embedded language for high-performance array computations
 * [haskell-distributed/distributed-process](https://github.com/haskell-distributed/distributed-process) - Cloud Haskell core library
@@ -57,70 +57,812 @@ A curated list of awesome Haskell frameworks, libraries and software.
 * [jtdaugherty/brick](https://github.com/jtdaugherty/brick) - A declarative terminal UI programming library written in Haskell
 * [ChrisPenner/rasa](https://github.com/ChrisPenner/rasa) - Extremely modular text editor built in Haskell
 * [transient-haskell/transient](https://github.com/transient-haskell/transient) - A full stack, reactive architecture for general purpose programming.  Algebraic and monadically composable primitives for concurrency, parallelism, event handling, transactions, multithreading, Web, and distributed computing with complete de-inversion of control (No callbacks, no blocking, pure state)
-* [mattgreen/hython](https://github.com/mattgreen/hython) - Haskell-powered Python 3 interpreter
 * [jaspervdj/stylish-haskell](https://github.com/jaspervdj/stylish-haskell) - Haskell code prettifier
-* [kirel/detexify-hs-backend](https://github.com/kirel/detexify-hs-backend) - Detexify Backend written in Haskell
+* [mattgreen/hython](https://github.com/mattgreen/hython) - Haskell-powered Python 3 interpreter
 * [agrafix/Spock](https://github.com/agrafix/Spock) - Another Haskell web framework for rapid development
+* [kirel/detexify-hs-backend](https://github.com/kirel/detexify-hs-backend) - Detexify Backend written in Haskell
 * [yesodweb/wai](https://github.com/yesodweb/wai) - Haskell Web Application Interface
 * [pcapriotti/optparse-applicative](https://github.com/pcapriotti/optparse-applicative) - Applicative option parser
 * [hspec/hspec](https://github.com/hspec/hspec) - A Testing Framework for Haskell
-* [haskoin/haskoin](https://github.com/haskoin/haskoin) - Haskell implementation of the Bitcoin protocol
 * [agentm/project-m36](https://github.com/agentm/project-m36) - Project: M36 Relational Algebra Engine
 * [rgleichman/glance](https://github.com/rgleichman/glance) - A visual Haskell
 * [JakeWheat/intro_to_parsing](https://github.com/JakeWheat/intro_to_parsing) - Introduction to parsing with Haskell and Parsec
 * [HeinrichApfelmus/reactive-banana](https://github.com/HeinrichApfelmus/reactive-banana) - Library for functional reactive programming in Haskell.
 * [nick8325/quickcheck](https://github.com/nick8325/quickcheck) - Automatic testing of Haskell programs.
 * [matterhorn-chat/matterhorn](https://github.com/matterhorn-chat/matterhorn) - A terminal client for the Mattermost chat system
-* [pushcx/hpffp-resources](https://github.com/pushcx/hpffp-resources) - Haskell Programming From First Principles - Follow-up Resources
 * [koka-lang/koka](https://github.com/koka-lang/koka) - Koka language compiler and interpreter
+* [pushcx/hpffp-resources](https://github.com/pushcx/hpffp-resources) - Haskell Programming From First Principles - Follow-up Resources
 * [sleexyz/hylogen](https://github.com/sleexyz/hylogen) - GLSL embedded in Haskell
 * [Gabriel439/Haskell-Pipes-Library](https://github.com/Gabriel439/Haskell-Pipes-Library) - Compositional pipelines
+* [tweag/HaskellR](https://github.com/tweag/HaskellR) - The full power of R in Haskell.
 * [seagreen/Son](https://github.com/seagreen/Son) - A minimal subset of JSON for machine-to-machine communication
 * [jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet) - Purely functional artificial neural network library implemented in Haskell.
-* [tweag/HaskellR](https://github.com/tweag/HaskellR) - The full power of R in Haskell.
 * [dhall-lang/dhall-haskell](https://github.com/dhall-lang/dhall-haskell) - A configuration language guaranteed to terminate
 * [mrkkrp/megaparsec](https://github.com/mrkkrp/megaparsec) - Industrial-strength monadic parser combinator library
 * [haskell-foundation/foundation](https://github.com/haskell-foundation/foundation) - Empire strikes back
-* [commercialhaskell/hindent](https://github.com/commercialhaskell/hindent) - Haskell pretty printer
+* [smallhadroncollider/taskell](https://github.com/smallhadroncollider/taskell) - Command-line Kanban board/task manager with support for Trello boards and GitHub projects
 * [bos/attoparsec](https://github.com/bos/attoparsec) - A fast Haskell library for parsing ByteStrings
-* [bitemyapp/bloodhound](https://github.com/bitemyapp/bloodhound) - Haskell Elasticsearch client and query DSL
+* [commercialhaskell/hindent](https://github.com/commercialhaskell/hindent) - Haskell pretty printer
 * [tweag/sparkle](https://github.com/tweag/sparkle) - Haskell on Apache Spark.
-* [jepst/CloudHaskell](https://github.com/jepst/CloudHaskell) - A distributed computing framework for Haskell
 * [chrisdone/jl](https://github.com/chrisdone/jl) - Functional sed for JSON
+* [jepst/CloudHaskell](https://github.com/jepst/CloudHaskell) - A distributed computing framework for Haskell
+* [bitemyapp/bloodhound](https://github.com/bitemyapp/bloodhound) - Haskell Elasticsearch client and query DSL
 * [taffybar/taffybar](https://github.com/taffybar/taffybar) - A gtk based status bar for tiling window managers such as XMonad
 * [ndmitchell/hoogle](https://github.com/ndmitchell/hoogle) - Haskell API search engine
-* [vincenthz/hs-tls](https://github.com/vincenthz/hs-tls) - TLS/SSL implementation in haskell
 * [hedgehogqa/haskell-hedgehog](https://github.com/hedgehogqa/haskell-hedgehog) - Hedgehog will eat all your bugs.
+* [vincenthz/hs-tls](https://github.com/vincenthz/hs-tls) - TLS/SSL implementation in haskell
+* [feuerbach/tasty](https://github.com/feuerbach/tasty) - Modern and extensible testing framework for Haskell
 * [commercialhaskell/rio](https://github.com/commercialhaskell/rio) - A standard library for Haskell
 * [brendanhay/amazonka](https://github.com/brendanhay/amazonka) - A comprehensive Amazon Web Services SDK for Haskell.
 * [joelburget/react-haskell](https://github.com/joelburget/react-haskell) - React bindings for Haskell
-* [feuerbach/tasty](https://github.com/feuerbach/tasty) - Modern and extensible testing framework for Haskell
+* [lspitzner/brittany](https://github.com/lspitzner/brittany) - haskell source code formatter
 * [knupfer/haskell-emacs](https://github.com/knupfer/haskell-emacs) - Write Emacs extensions in Haskell
 * [yesodweb/Shelly.hs](https://github.com/yesodweb/Shelly.hs) - Haskell shell scripting
-* [lspitzner/brittany](https://github.com/lspitzner/brittany) - haskell source code formatter
 * [quchen/stgi](https://github.com/quchen/stgi) - A user-centric visual STG implementation to help understand GHC/Haskell's execution model.
 * [haskus/haskus-system](https://github.com/haskus/haskus-system) - System programming in Haskell on top of Linux
 * [theam/haskell-do](https://github.com/theam/haskell-do) - :pencil2: :bar_chart: - The Haskell code editor focused on interactive development.
 * [nh2/call-haskell-from-anything](https://github.com/nh2/call-haskell-from-anything) - Call Haskell functions from any programming language via serialization and dynamic libraries
+* [snowleopard/alga](https://github.com/snowleopard/alga) - Algebraic graphs
 * [haskell/haskell-platform](https://github.com/haskell/haskell-platform) - Distribution of Haskell with batteries included
+* [sol/hpack](https://github.com/sol/hpack) - hpack: A modern format for Haskell packages
 * [Gabriel439/Haskell-Morte-Library](https://github.com/Gabriel439/Haskell-Morte-Library) - A bare-bones calculus-of-constructions
+* [HeinrichApfelmus/threepenny-gui](https://github.com/HeinrichApfelmus/threepenny-gui) - GUI framework that uses the web browser as a display.
 * [iostreamer-X/FuncShell](https://github.com/iostreamer-X/FuncShell) - Improve your shell by making it functional through Haskell! (An update to Awkward)
 * [osener/markup.rocks](https://github.com/osener/markup.rocks) - Pandoc based document editor and converter in your browser.
-* [HeinrichApfelmus/threepenny-gui](https://github.com/HeinrichApfelmus/threepenny-gui) - GUI framework that uses the web browser as a display.
-* [smallhadroncollider/taskell](https://github.com/smallhadroncollider/taskell) - Command-line Kanban board/task manager with support for Trello
-* [dbousamra/hnes](https://github.com/dbousamra/hnes) - :video_game: NES Emulator written in Haskell
 * [yesodweb/persistent](https://github.com/yesodweb/persistent) - Persistence interface for Haskell allowing multiple storage methods.
-* [sol/hpack](https://github.com/sol/hpack) - hpack: A modern format for Haskell packages
-* [snowleopard/alga](https://github.com/snowleopard/alga) - Algebraic graphs
-* [jaspervdj/websockets](https://github.com/jaspervdj/websockets) - A Haskell library for creating WebSocket-capable servers
-* [chris-taylor/aima-haskell](https://github.com/chris-taylor/aima-haskell) - Algorithms from AIMA in Haskell
+* [tweag/asterius](https://github.com/tweag/asterius) - A Haskell to WebAssembly compiler
 * [jpmorganchase/constellation](https://github.com/jpmorganchase/constellation) - Peer-to-peer encrypted message exchange
+* [dbousamra/hnes](https://github.com/dbousamra/hnes) - :video_game: NES Emulator written in Haskell
+* [chris-taylor/aima-haskell](https://github.com/chris-taylor/aima-haskell) - Algorithms from AIMA in Haskell
+* [jaspervdj/websockets](https://github.com/jaspervdj/websockets) - A Haskell library for creating WebSocket-capable servers
 * [sdiehl/protolude](https://github.com/sdiehl/protolude) - A sensible starting Prelude template.
-* [sebastiaanvisser/clay](https://github.com/sebastiaanvisser/clay) - A CSS preprocessor as embedded Haskell.
-* [phadej/github](https://github.com/phadej/github) - The github API for Haskell
-* [nikita-volkov/hasql](https://github.com/nikita-volkov/hasql) - An efficient PostgreSQL driver with a flexible mapping API
 * [valderman/selda](https://github.com/valderman/selda) - A type-safe, high-level SQL library for Haskell
+* [sebastiaanvisser/clay](https://github.com/sebastiaanvisser/clay) - A CSS preprocessor as embedded Haskell.
+* [nikita-volkov/hasql](https://github.com/nikita-volkov/hasql) - An efficient PostgreSQL driver with a flexible mapping API
+* [phadej/github](https://github.com/phadej/github) - The github API for Haskell
 * [timbod7/haskell-chart](https://github.com/timbod7/haskell-chart) - A 2D charting library for haskell
+* [lettier/gifcurry](https://github.com/lettier/gifcurry) - :point_right: Your open source video to GIF maker built with Haskell.
+* [haskell-tools/haskell-tools](https://github.com/haskell-tools/haskell-tools) - Developer tools for Haskell
+* [byorgey/haskell-course](https://github.com/byorgey/haskell-course) - Introductory Haskell course materials (originally CIS 194 @ UPenn)
+* [hakaru-dev/hakaru](https://github.com/hakaru-dev/hakaru) - A probabilistic programming language
+* [LambdaHack/LambdaHack](https://github.com/LambdaHack/LambdaHack) - Haskell game engine library for roguelike dungeon crawlers; try out the browser version at
+* [haskell/hackage-server](https://github.com/haskell/hackage-server) - Hackage-Server: A Haskell Package Repository
+* [lukexi/halive](https://github.com/lukexi/halive) - Live recompiler for Haskell
+* [seliopou/typo](https://github.com/seliopou/typo) - A programming language that runs in Haskell's type system.
+* [itchyny/sjsp](https://github.com/itchyny/sjsp) - Simple JavaScript Profiler
+* [google/proto-lens](https://github.com/google/proto-lens) - API for protocol buffers using modern Haskell language and library patterns.
+* [informatikr/hedis](https://github.com/informatikr/hedis) - A Redis client library for Haskell.
+* [bos/statistics](https://github.com/bos/statistics) - A fast, high quality library for computing with statistics in Haskell.
+* [k0ral/hbro](https://github.com/k0ral/hbro) - A minimal web-browser written and configured in Haskell.
+* [michaelochurch/summer-2015-haskell-class](https://github.com/michaelochurch/summer-2015-haskell-class) - Summer 2015 Haskell Class
+* [jlouis/combinatorrent](https://github.com/jlouis/combinatorrent) - A bittorrent client written in Haskell
+* [reflex-frp/reflex-dom](https://github.com/reflex-frp/reflex-dom) -  Reflex FRP is a composable, cross-platform functional reactive programming framework for Haskell. It allows you to build interactive components in pure functional style, working in harmony with established Haskell techniques and improving the quality and elegance of your applications.
+* [jgoerzen/twidge](https://github.com/jgoerzen/twidge) - Command-line twitter/identica client [Haskell]
+* [nstack/nstack](https://github.com/nstack/nstack) - Type-safe, composable microservices for data analytics
+* [2mol/pboy](https://github.com/2mol/pboy) - a small .pdf management tool with a command-line UI
+* [haskell-game/sdl2](https://github.com/haskell-game/sdl2) - Haskell bindings to the SDL2 library
+* [justinethier/husk-scheme](https://github.com/justinethier/husk-scheme) - A practical implementation of the Scheme programming language for the Haskell Platform.
+* [ivanperez-keera/haskanoid](https://github.com/ivanperez-keera/haskanoid) - A breakout game in Haskell using SDL and FRP, with Wiimote and Kinect support.
+* [commercialhaskell/haskelldocumentation](https://github.com/commercialhaskell/haskelldocumentation) - Repository for collaborative Haskell documentation
+* [simonmar/parconc-examples](https://github.com/simonmar/parconc-examples) - Sample code to accompany the book "Parallel and Concurrent Programming in Haskell"
+* [exercism/haskell](https://github.com/exercism/haskell) - Exercism exercises in Haskell.
+* [llvm-hs/llvm-hs](https://github.com/llvm-hs/llvm-hs) - Haskell bindings for LLVM
+* [simonmar/par-tutorial](https://github.com/simonmar/par-tutorial) - A tutorial on Parallel and Concurrent Haskell
+* [tommythorn/Reduceron](https://github.com/tommythorn/Reduceron) - FPGA Haskell machine with game changing performance. Reduceron is Matthew Naylor, Colin Runciman and Jason Reich's high performance FPGA softcore for running lazy functional programs, including hardware garbage collection.  Reduceron has been implemented on various FPGAs with clock frequency ranging from 60 to 150 MHz depending on the FPGA.  A high degree of parallelism allows Reduceron to implement graph evaluation very efficiently. This fork aims to continue development on this, with a view to practical applications. Comments, questions, etc are welcome.
+* [k-bx/owlcloud](https://github.com/k-bx/owlcloud) - OwnCloud for owls done via The Microservice Architecture
+* [aristidb/aws](https://github.com/aristidb/aws) - Amazon Web Services for Haskell
+* [passy/givegif](https://github.com/passy/givegif) - GIFs on the command line
+* [jyh1/mmaclone](https://github.com/jyh1/mmaclone) - A simple Wolfram Language clone in Haskell
+* [acid-state/acid-state](https://github.com/acid-state/acid-state) - Add ACID guarantees to any serializable Haskell data structure
+* [fujimura/hi](https://github.com/fujimura/hi) - Generate scaffold for a Haskell project
+* [chrisdone/vado](https://github.com/chrisdone/vado) - A web browser engine written in Haskell
+* [spell-music/csound-expression](https://github.com/spell-music/csound-expression) - Haskell Framework for Electronic Music
+* [m4dc4p/cheatsheet](https://github.com/m4dc4p/cheatsheet) - A Haskell CheatSheet in PDF and literate source formats.
+* [ekmett/quine](https://github.com/ekmett/quine) - haskell, opengl, toy project
+* [VinylRecords/Vinyl](https://github.com/VinylRecords/Vinyl) - Extensible Records for Haskell. Pull requests welcome! Come visit us on #vinyl on freenode.
+* [khibino/haskell-relational-record](https://github.com/khibino/haskell-relational-record) - This repository includes a joined query generator based on typefull relational algebra, and mapping tools between SQL values list and Haskell record type.
+* [lettier/movie-monad](https://github.com/lettier/movie-monad) - :tv: A free and simple to use video player made with Haskell.
+* [nominolo/scion](https://github.com/nominolo/scion) - IDE library for Haskell based on the GHC API.
+* [lehins/massiv](https://github.com/lehins/massiv) - Efficient Haskell Arrays featuring Parallel computation
+* [hasktorch/hasktorch](https://github.com/hasktorch/hasktorch) - Tensors and neural networks in Haskell
+* [grin-tech/grin](https://github.com/grin-tech/grin) - GRIN is a compiler back-end for lazy and strict functional languages with whole program optimisation support
+* [blitzcode/hue-dashboard](https://github.com/blitzcode/hue-dashboard) - A web interface for monitoring and controlling Philips Hue lights
+* [haskell/network](https://github.com/haskell/network) - Low-level networking interface
+* [composewell/streamly](https://github.com/composewell/streamly) - Beautiful Streaming, Concurrent and Reactive Composition (Haskell)
+* [lpsmith/postgresql-simple](https://github.com/lpsmith/postgresql-simple) - Mid-level client library for accessing PostgreSQL from Haskell
+* [hercules-ci/hercules](https://github.com/hercules-ci/hercules) - Continuous Integration for Nix projects
+* [facebookarchive/lex-pass](https://github.com/facebookarchive/lex-pass) - manipulate a php codebase using haskell to transform the abstract-syntax-tree
+* [kazu-yamamoto/unit-test-example](https://github.com/kazu-yamamoto/unit-test-example) - Unit test example for Haskell
+* [jonascarpay/apecs](https://github.com/jonascarpay/apecs) - a fast, type driven, extensible ECS for game development
+* [ivanperez-keera/Yampa](https://github.com/ivanperez-keera/Yampa) - Functional Reactive Programming domain-specific language embedded in Haskell, for programming hybrid (mixed discrete-time and continuous-time) systems.
+* [CIFASIS/QuickFuzz](https://github.com/CIFASIS/QuickFuzz) - An experimental grammar fuzzer in Haskell using QuickCheck
+* [mikeizbicki/HerbiePlugin](https://github.com/mikeizbicki/HerbiePlugin) - GHC plugin that improves Haskell code's numerical stability
+* [Twinside/Juicy.Pixels](https://github.com/Twinside/Juicy.Pixels) - Haskell library to load & save pictures
+* [sweirich/dth](https://github.com/sweirich/dth) - Examples of Dependently-typed programs in Haskell
+* [mrkgnao/silica](https://github.com/mrkgnao/silica) - optics for Haskell with the most amazing type errors you've seen
+* [haskell/text](https://github.com/haskell/text) - An efficient packed, immutable Unicode text type for Haskell, with a powerful loop fusion optimization framework.
+* [fimad/scalpel](https://github.com/fimad/scalpel) - A high level web scraping library for Haskell.
+* [ndmitchell/tagsoup](https://github.com/ndmitchell/tagsoup) - Haskell library for parsing and extracting information from (possibly malformed) HTML/XML documents
+* [morphismtech/squeal](https://github.com/morphismtech/squeal) - Squeal, a deep embedding of SQL in Haskell
+* [jtdaugherty/vty](https://github.com/jtdaugherty/vty) - A high-level ncurses alternative written in Haskell
+* [jaspervdj/blaze-html](https://github.com/jaspervdj/blaze-html) - A blazingly fast HTML combinator library for Haskell.
+* [lambdacube3d/lambdacube-edsl](https://github.com/lambdacube3d/lambdacube-edsl) - Previous version of LambdaCube 3D as Embedded Domain Specific Language in Haskell. Check the latest system:
+* [def-/gifstream](https://github.com/def-/gifstream) - Make interactive games in Haskell using GIF streams that can be shown in the web browser
+* [snowleopard/hadrian](https://github.com/snowleopard/hadrian) - Hadrian: a new build system for the Glasgow Haskell Compiler
+* [brendanhay/gogol](https://github.com/brendanhay/gogol) - A comprehensive Google Services SDK for Haskell.
+* [neovimhaskell/nvim-hs](https://github.com/neovimhaskell/nvim-hs) - Neovim API for Haskell plugins as well as the plugin provider
+* [lotz84/haskell](https://github.com/lotz84/haskell) - Haskell 俯瞰まとめ
+* [takeoutweight/shade](https://github.com/takeoutweight/shade) - Interactive, client-side web apps in Haskell
+* [jdnavarro/graphql-haskell](https://github.com/jdnavarro/graphql-haskell) - Haskell GraphQL implementation
+* [harpocrates/inline-rust](https://github.com/harpocrates/inline-rust) - Use snippets of Rust inline in your Haskell programs
+* [adscib/monad-bayes](https://github.com/adscib/monad-bayes) - A library for probabilistic programming in Haskell.
+* [haskell-hvr/cassava](https://github.com/haskell-hvr/cassava) - A CSV parsing and encoding library optimized for ease of use and high performance
+* [denisshevchenko/ohaskell.guide](https://github.com/denisshevchenko/ohaskell.guide) - Ваша первая книга о языке Haskell
+* [joshcough/HaskellStarter](https://github.com/joshcough/HaskellStarter) - A project that demonstrates getting up and running with Haskell.
+* [corsis/PortFusion](https://github.com/corsis/PortFusion) - Haskell-powered cross-platform transport-layer distributed reverse / forward proxy & tunneling solution – currently available for all TCP protocols (RDP, VNC, HTTP(S), SSH, ...).
+* [sdiehl/tinyjit](https://github.com/sdiehl/tinyjit) - Haskell JIT
+* [ekmett/linear](https://github.com/ekmett/linear) - Low-dimensional linear algebra primitives for Haskell.
+* [chrisdone/hulk](https://github.com/chrisdone/hulk) - Haskell IRC daemon.
+* [twittner/zeromq-haskell](https://github.com/twittner/zeromq-haskell) - This repository has been moved to https://gitlab.com/twittner/zeromq-haskell
+* [ekmett/hask](https://github.com/ekmett/hask) - Category theory for Haskell with a lens flavor (you need GHC 7.8.3, not 7.8.2 to build this!)
+* [goldfirere/singletons](https://github.com/goldfirere/singletons) - Fake dependent types in Haskell using singletons
+* [mchakravarty/language-c-inline](https://github.com/mchakravarty/language-c-inline) - Inline C & Objective-C in Haskell
+* [tweag/inline-java](https://github.com/tweag/inline-java) - Haskell/Java interop via inline Java code in Haskell modules.
+* [Gabriel439/Haskell-Optparse-Generic-Library](https://github.com/Gabriel439/Haskell-Optparse-Generic-Library) - Auto-generate a command-line parser for your datatype
+* [mstksg/auto](https://github.com/mstksg/auto) - Haskell DSL and platform providing denotational, compositional api for discrete-step, locally stateful, interactive programs, games & automations.  http://hackage.haskell.org/package/auto
+* [kallisti-dev/hs-webdriver](https://github.com/kallisti-dev/hs-webdriver) - A Haskell client for the Selenium WebDriver protocol.
+* [egonSchiele/chips](https://github.com/egonSchiele/chips) - A clone of Chips Challenge in Haskell
+* [Lemmih/lhc](https://github.com/Lemmih/lhc) - The LLVM LHC Haskell Optimization System
+* [Gabriel439/Haskell-Typed-Spreadsheet-Library](https://github.com/Gabriel439/Haskell-Typed-Spreadsheet-Library) - Typed and composable spreadsheets
+* [bos/critbit](https://github.com/bos/critbit) - A Haskell implementation of crit-bit trees.
+* [haskell-suite/haskell-src-exts](https://github.com/haskell-suite/haskell-src-exts) - Manipulating Haskell source: abstract syntax, lexer, parser, and pretty-printer
+* [simonmar/alex](https://github.com/simonmar/alex) - A lexical analyser generator for Haskell
+* [ajhc/ajhc](https://github.com/ajhc/ajhc) - A fork of jhc. And also a Haskell compiler.
+* [abailly/aws-lambda-haskell](https://github.com/abailly/aws-lambda-haskell) - Running Haskell code on AWS Lambda
+* [w7cook/AoPL](https://github.com/w7cook/AoPL) - A book on programming languages, using Haskell
+* [mchakravarty/HaskellSpriteKit](https://github.com/mchakravarty/HaskellSpriteKit) - Haskell binding to Apple's SpriteKit framework
+* [bscarlet/llvm-general](https://github.com/bscarlet/llvm-general) - Rich LLVM bindings for Haskell (with transfer of LLVM IR to and from C++, detailed compilation pass control, etc.)
+* [gtk2hs/gtk2hs](https://github.com/gtk2hs/gtk2hs) - GUI library for Haskell based on GTK+
+* [suhailshergill/extensible-effects](https://github.com/suhailshergill/extensible-effects) - Extensible Effects: An Alternative to Monad Transformers
+* [mvdan/hint](https://github.com/mvdan/hint) - Runtime Haskell interpreter
+* [mthom/shentong](https://github.com/mthom/shentong) - A Haskell implementation of the Shen programming language.
+* [haskell/HTTP](https://github.com/haskell/HTTP) - Haskell HTTP package
+* [haskell/c2hs](https://github.com/haskell/c2hs) - c2hs is a pre-processor for Haskell FFI bindings to C libraries
+* [ocharles/engine.io](https://github.com/ocharles/engine.io) - A Haskell server implementation of the Engine.IO and Socket.IO (1.0) protocols
+* [himura/twitter-conduit](https://github.com/himura/twitter-conduit) - Twitter API package for Haskell, including enumerator interfaces and Streaming API supports.
+* [honza/redish](https://github.com/honza/redish) - A multi-threaded, TCP, key-value store inspired by Redis implemented in Haskell.
+* [haskelllive/haskelllive](https://github.com/haskelllive/haskelllive) - Source code of the Haskell Live episodes.
+* [snoyberg/haskellers](https://github.com/snoyberg/haskellers) - haskellers.com site
+* [quchen/prettyprinter](https://github.com/quchen/prettyprinter) - A modern, extensible and well-documented prettyprinter.
+* [mrkkrp/req](https://github.com/mrkkrp/req) - Easy-to-use, type-safe, expandable, high-level HTTP client library
+* [leepike/Copilot](https://github.com/leepike/Copilot) - A (Haskell DSL) stream language for generating hard real-time C code.
+* [klappvisor/haskell-telegram-api](https://github.com/klappvisor/haskell-telegram-api) - Telegram Bot API for Haskell
+* [lambdabot/lambdabot](https://github.com/lambdabot/lambdabot) - A friendly IRC bot and apprentice coder, written in Haskell.
+* [haskell/mtl](https://github.com/haskell/mtl) - The Monad Transformer Library
+* [flannelhead/blackstar](https://github.com/flannelhead/blackstar) - A black hole raytracer written in Haskell
+* [Daniel-Diaz/HaTeX](https://github.com/Daniel-Diaz/HaTeX) - The Haskell LaTeX library.
+* [wellposed/numerical](https://github.com/wellposed/numerical) - Numerical is the core library for Numerical Haskell
+* [NixOS/cabal2nix](https://github.com/NixOS/cabal2nix) - Generate Nix build instructions from a Cabal file
+* [Paczesiowa/hsenv](https://github.com/Paczesiowa/hsenv) - Virtual Haskell Environment builder
+* [jekor/redo](https://github.com/jekor/redo) - djb's redo implementation in Haskell (for Haskell from Scratch video series)
+* [advancedtelematic/quickcheck-state-machine](https://github.com/advancedtelematic/quickcheck-state-machine) - Test monadic programs using state machine based models
+* [seagreen/plate](https://github.com/seagreen/plate) - Experiment only, don't actually use.
+* [egonSchiele/HandsomeSoup](https://github.com/egonSchiele/HandsomeSoup) - Easy HTML parsing for Haskell
+* [tfausak/haskeleton](https://github.com/tfausak/haskeleton) - :skull: A Haskell package skeleton.
+* [fbsamples/ghc-hotswap](https://github.com/fbsamples/ghc-hotswap) - Example code for how we swap compiled code within a running Haskell process.
+* [bos/configurator](https://github.com/bos/configurator) - A Haskell library supporting flexible, dynamic file-based configuration.
+* [bjpop/language-python](https://github.com/bjpop/language-python) - A parser for Python 2.x and 3.x written in Haskell
+* [samtay/tetris](https://github.com/samtay/tetris) - A terminal interface for Tetris
+* [derekmcloughlin/pearls](https://github.com/derekmcloughlin/pearls) - Pearls of Functional Algorithm Design by Richard Bird - Haskell Code
+* [1HaskellADay/1HAD](https://github.com/1HaskellADay/1HAD) - 1 Haskell A Day exercises
+* [RefactoringTools/HaRe](https://github.com/RefactoringTools/HaRe) - The Haskell Refactoring Tool
+* [jxv/dino-rush](https://github.com/jxv/dino-rush) - 🌋 Endless runner game
+* [haskell-opengl/OpenGL](https://github.com/haskell-opengl/OpenGL) - Haskell bindings to OpenGL
+* [gwentacle/wisp](https://github.com/gwentacle/wisp) - small-but-featureful embeddable lisp interpreter written in haskell.
+* [winterland1989/magic-haskell](https://github.com/winterland1989/magic-haskell) - 魔力haskell官方网站
+* [well-typed/cborg](https://github.com/well-typed/cborg) - Binary serialisation in the CBOR format
+* [katychuang/getting-started-with-haskell](https://github.com/katychuang/getting-started-with-haskell) - notes on where to find Haskell tutorials and tips to complete them
+* [ocharles/micro-ci](https://github.com/ocharles/micro-ci) - A tiny CI server built around GitHub and Nix
+* [nirum-lang/nirum](https://github.com/nirum-lang/nirum) -  Nirum: IDL compiler and RPC/distributed object framework for microservices
+* [kowainik/summoner](https://github.com/kowainik/summoner) - 🔮 🔧 Tool for creating completely configured production Haskell projects
+* [vimus/vimus](https://github.com/vimus/vimus) - An MPD client with vim-like key bindings, written in Haskell
+* [frontrowed/stratosphere](https://github.com/frontrowed/stratosphere) - Haskell EDSL and type-checker for AWS CloudFormation templates
+* [jgm/texmath](https://github.com/jgm/texmath) - A Haskell library for converting LaTeX math to MathML.
+* [wavewave/hoodle](https://github.com/wavewave/hoodle) - hoodle : A pen notetaking program written in haskell
+* [Soostone/hadron](https://github.com/Soostone/hadron) - Construct and run Hadoop MapReduce programs in Haskell
+* [rdnetto/powerline-hs](https://github.com/rdnetto/powerline-hs) - A lightning fast reimplementation of the Powerline prompt generator in Haskell.
+* [alpmestan/hnn](https://github.com/alpmestan/hnn) - haskell neural network library
+* [msgpack/msgpack-haskell](https://github.com/msgpack/msgpack-haskell) - Haskell implementation of MessagePack / msgpack.org[Haskell]
+* [LumiGuide/haskell-opencv](https://github.com/LumiGuide/haskell-opencv) - Haskell binding to OpenCV-3.x
+* [krisajenkins/elm-export](https://github.com/krisajenkins/elm-export) - Create Elm types and JSON decoders from Haskell source.
+* [erikd/language-javascript](https://github.com/erikd/language-javascript) - Parser for JavaScript, in Haskell
+* [bollu/tiny-optimising-compiler](https://github.com/bollu/tiny-optimising-compiler) - A tiny *optimising* compiler for an imperative programming language written in haskell
+* [Soostone/katip](https://github.com/Soostone/katip) - A structured logging framework for Haskell
+* [opqdonut/haskell-exercises](https://github.com/opqdonut/haskell-exercises) - Haskell exercises with automatic tests
+* [palf/haskell-sdl2-examples](https://github.com/palf/haskell-sdl2-examples) - SDL2 tutorial code in Haskell
+* [mstksg/backprop](https://github.com/mstksg/backprop) - Heterogeneous automatic differentiation ("backpropagation") in Haskell
+* [meiersi/blaze-react](https://github.com/meiersi/blaze-react) - A blaze-html style ReactJS binding for Haskell using GHCJS
+* [zoomhub/zoomhub](https://github.com/zoomhub/zoomhub) - Share and view high-resolution images effortlessly
+* [mzero/haskell-amuse-bouche](https://github.com/mzero/haskell-amuse-bouche) - A short technical talk about some fun things in Haskell
+* [keera-studios/haskell-game-programming](https://github.com/keera-studios/haskell-game-programming) - A central repository of Haskell Game Programming resources, put together by Keera Studios
+* [haskell-mafia/mafia](https://github.com/haskell-mafia/mafia) - Provides protection against cabal swindling, robbing, injuring or sabotaging people with chopsticks.
+* [seek-oss/serverless-haskell](https://github.com/seek-oss/serverless-haskell) - Deploying Haskell applications to AWS Lambda with Serverless
+* [phaazon/luminance](https://github.com/phaazon/luminance) - Type-safe, type-level and stateless Haskell graphics framework
+* [kazu-yamamoto/logger](https://github.com/kazu-yamamoto/logger) - A fast logging system for Haskell
+* [bos/llvm](https://github.com/bos/llvm) - Haskell bindings to the LLVM compiler infrastructure project.
+* [barrucadu/dejafu](https://github.com/barrucadu/dejafu) - Systematic concurrency testing meets Haskell.
+* [Yuras/pdf-toolbox](https://github.com/Yuras/pdf-toolbox) - A collection of tools for processing PDF files in Haskell
+* [simonmar/happy](https://github.com/simonmar/happy) - The Happy parser generator for Haskell
+* [hreinhardt/amqp](https://github.com/hreinhardt/amqp) - Haskell AMQP client library
+* [hkgumbs/codec-beam](https://github.com/hkgumbs/codec-beam) - Generate Erlang VM byte code from Haskell
+* [GaloisInc/HaNS](https://github.com/GaloisInc/HaNS) - The haskell network stack
+* [ucsd-progsys/elsa](https://github.com/ucsd-progsys/elsa) - Elsa is a lambda calculus evaluator
+* [tfausak/flow](https://github.com/tfausak/flow) - :droplet: Write more understandable Haskell.
+* [saschagrunert/nn](https://github.com/saschagrunert/nn) - A tiny neural network 🧠
+* [haskell/fgl](https://github.com/haskell/fgl) - A Functional Graph Library for Haskell
+* [boothead/oHm](https://github.com/boothead/oHm) - Om with Haskell in it
+* [AccelerateHS/accelerate-llvm](https://github.com/AccelerateHS/accelerate-llvm) - LLVM backend for Accelerate
+* [UweSchmidt/hxt](https://github.com/UweSchmidt/hxt) - Haskell XML Toolbox
+* [haskell-gi/haskell-gi](https://github.com/haskell-gi/haskell-gi) - Generate Haskell bindings for GObject-Introspection capable libraries
+* [alanz/haskell-lsp](https://github.com/alanz/haskell-lsp) - Haskell library for the Microsoft Language Server Protocol
+* [mattjbray/servant-elm](https://github.com/mattjbray/servant-elm) - Automatically derive Elm functions to query servant webservices
+* [aisamanra/rust-haskell-ffi](https://github.com/aisamanra/rust-haskell-ffi) - Toy example of calling Rust from Haskell
+* [neurocyte/android-haskell-activity](https://github.com/neurocyte/android-haskell-activity) - An example of an Android Activity written in Haskell
+* [jyp/styx](https://github.com/jyp/styx) - A nix-based Haskell project manager
+* [rodrigosetti/master-plan](https://github.com/rodrigosetti/master-plan) - Project Management for Hackers
+* [mvoidex/hsdev](https://github.com/mvoidex/hsdev) - Haskell development tool
+* [jspahrsummers/ObjectiveHaskell](https://github.com/jspahrsummers/ObjectiveHaskell) - Tools for making it easier to integrate Haskell and Objective-C.
+* [dmjio/stripe](https://github.com/dmjio/stripe) - :moneybag: Stripe API
+* [mongodb-haskell/mongodb](https://github.com/mongodb-haskell/mongodb) - MongoDB driver for Haskell
+* [lymar/hastache](https://github.com/lymar/hastache) - Haskell implementation of Mustache template
+* [feuerbach/smallcheck](https://github.com/feuerbach/smallcheck) - smallcheck: test your Haskell code by exhaustively checking its properties
+* [egonSchiele/dominion](https://github.com/egonSchiele/dominion) - A Dominion simulator in Haskell
+* [talw/crisp-compiler](https://github.com/talw/crisp-compiler) - A compiler for Crisp (Lisp/Scheme-inspired language) in Haskell, with an LLVM backend
+* [alsonkemp/turbinado](https://github.com/alsonkemp/turbinado) - MVC Web Framework for Haskell.  See http://github.com/turbinado/turbinado-website for example code
+* [kazu-yamamoto/recursion-drill](https://github.com/kazu-yamamoto/recursion-drill) - Drill to study recursive programming in Haskell
+* [judah/haskeline](https://github.com/judah/haskeline) - A Haskell library for line input in command-line programs.
+* [boundedvariation/quantfin](https://github.com/boundedvariation/quantfin) - quant finance in pure haskell
+* [AtnNn/haskell-rethinkdb](https://github.com/AtnNn/haskell-rethinkdb) - RethinkDB client library for Haskell
+* [airalab/hs-web3](https://github.com/airalab/hs-web3) - Ethereum API for Haskell.
+* [snapframework/heist](https://github.com/snapframework/heist) - An xhtml-based templating engine, allowing Haskell functions to be bound to XML tags.
+* [smallhadroncollider/ascii-runner](https://github.com/smallhadroncollider/ascii-runner) - An infinite runner in your terminal
+* [hdbc/hdbc](https://github.com/hdbc/hdbc) - Haskell Database Connectivity
+* [gregorycollins/hashtables](https://github.com/gregorycollins/hashtables) - Mutable hash tables for Haskell, in the ST monad
+* [brunjlar/neural](https://github.com/brunjlar/neural) - Neural Nets in native Haskell
+* [grpc/grpc-haskell](https://github.com/grpc/grpc-haskell) - gRPC library binding for Haskell.
+* [danstiner/hfmt](https://github.com/danstiner/hfmt) - Format Haskell programs. Inspired by the gofmt utility.
+* [cdepillabout/pretty-simple](https://github.com/cdepillabout/pretty-simple) - pretty-printer for Haskell data types that have a Show instance
+* [bollu/cellularAutomata](https://github.com/bollu/cellularAutomata) - a collection of cellular automata written in Haskell with Diagrams
+* [well-typed/generics-sop](https://github.com/well-typed/generics-sop) - Generic Programming using True Sums of Products
+* [wavewave/fficxx](https://github.com/wavewave/fficxx) - Haskell-C++ Foreign Function Interface Generator
+* [dpp/LispHaskellIPad](https://github.com/dpp/LispHaskellIPad) - An iPad app that's a Lisp interpretter... written in Haskell (heh heh heh)
+* [albertoruiz/easyVision](https://github.com/albertoruiz/easyVision) - Haskell packages for computer vision, image processing, and pattern recognition
+* [lspitzner/exference](https://github.com/lspitzner/exference) - Haskell tool to generate expressions from types
+* [k0001/safe-money](https://github.com/k0001/safe-money) - Haskell library for type-safe and lossless encoding and manipulation of world currencies and precious metals
+* [I3ck/HGE2D](https://github.com/I3ck/HGE2D) - 2D game engine written in Haskell
+* [haskellnews/haskellnews](https://github.com/haskellnews/haskellnews) - An aggregation of all online content related to Haskell.
+* [gregorulm/h2048](https://github.com/gregorulm/h2048) - An implementation of the game 2048 in Haskell
+* [dfinity/dhc](https://github.com/dfinity/dhc) - Compiles Haskell to WebAssembly
+* [syocy/a-tour-of-go-in-haskell](https://github.com/syocy/a-tour-of-go-in-haskell) - Write "Concurrency" section of "A Tour of Go" in Haskell
+* [snowdriftcoop/snowdrift](https://github.com/snowdriftcoop/snowdrift) - Infrastructure for Snowdrift.coop. This is a MIRROR of https://git.snowdrift.coop/sd/snowdrift. Your issue reports and merge requests are welcome, but they will be moved to git.snowdrift.coop. You are encouraged to start there instead!
+* [rubik/argon](https://github.com/rubik/argon) - Monitor cyclomatic complexity in Haskell programs
+* [haskell-fswatch/hfsnotify](https://github.com/haskell-fswatch/hfsnotify) - Unified Haskell interface for basic file system notifications
+* [bos/pool](https://github.com/bos/pool) - A high-performance striped resource pooling implementation for Haskell
+* [snapframework/io-streams](https://github.com/snapframework/io-streams) - Simple, composable, and easy-to-use stream I/O for Haskell
+* [nomeata/inspection-testing](https://github.com/nomeata/inspection-testing) - Inspection Testing for Haskell
+* [janrain/riak-haskell-client](https://github.com/janrain/riak-haskell-client) - A fast Haskell client library for the Riak decentralized data store
+* [Gabriel439/Haskell-Foldl-Library](https://github.com/Gabriel439/Haskell-Foldl-Library) - Composable, streaming, and efficient left folds
+* [freizl/hoauth2](https://github.com/freizl/hoauth2) - haskell oauth2 binding
+* [diffusionkinetics/open](https://github.com/diffusionkinetics/open) - DiffusionKinetics open-source monorepo
+* [danielwaterworth/siege](https://github.com/danielwaterworth/siege) - [DEPRECATED] A DBMS written in Haskell
+* [cyga/real-world-haskell](https://github.com/cyga/real-world-haskell) - parser for code samples from the book "real world haskell" (http://book.realworldhaskell.org/read/)
+* [serokell/importify](https://github.com/serokell/importify) - :space_invader: Importi.fy — it's like Uber, but for Haskell modules.
+* [rrnewton/haskell-lockfree](https://github.com/rrnewton/haskell-lockfree) - A collection of different packages for CAS based data structures.
+* [keera-studios/keera-hails](https://github.com/keera-studios/keera-hails) - Keera Hails: Haskell on Rails - Reactive Programming Framework for Interactive Haskell applications
+* [donya/Kulitta](https://github.com/donya/Kulitta) - A Haskell-based library for algorithmic and automated composition. This library was the subject of my dissertation at Yale university and is the subject of my ongoing work.
+* [nandor/hcraft](https://github.com/nandor/hcraft) - Haskell clone of a certain game
+* [jcollard/unm-hip](https://github.com/jcollard/unm-hip) - The University of New Mexico's Haskell Image Processing Library
+* [bkirwi/ethereum-haskell](https://github.com/bkirwi/ethereum-haskell) - An independent reimplementation of Ethereum in Haskell
+* [alphaHeavy/protobuf](https://github.com/alphaHeavy/protobuf) - An implementation of Google's Protocol Buffers in Haskell.
+* [5outh/Bang](https://github.com/5outh/Bang) - A Drum Machine DSL for Haskell
+* [tanakh/Peggy](https://github.com/tanakh/Peggy) - The Parser Generator for Haskell
+* [MedeaMelana/Magic](https://github.com/MedeaMelana/Magic) - Haskell implementation of Magic: The Gathering
+* [clckwrks/clckwrks](https://github.com/clckwrks/clckwrks) - A Haskell CMS platform
+* [winterland1989/mysql-haskell](https://github.com/winterland1989/mysql-haskell) -  Pure haskell mysql driver
+* [jberryman/unagi-chan](https://github.com/jberryman/unagi-chan) - A haskell library implementing fast and scalable concurrent queues for x86, with a Chan-like API
+* [hailstorm-hs/hailstorm](https://github.com/hailstorm-hs/hailstorm) - Haskell distributed stream processing with exactly-once semantics
+* [dmvianna/haskellbook](https://github.com/dmvianna/haskellbook) - Exercise solutions for haskellbook.com
+* [aviaviavi/cryptocompare](https://github.com/aviaviavi/cryptocompare) - Haskell wrapper for the CryptoCompare API, a source of crypto-currency information and price data
+* [augustss/djinn](https://github.com/augustss/djinn) - Generate Haskell code from a type
+* [alexandersgreen/qio-haskell](https://github.com/alexandersgreen/qio-haskell) - The Quantum IO Monad, implemented in Haskell
+* [qrilka/xlsx](https://github.com/qrilka/xlsx) - Simple and incomplete Excel file parser/writer
+* [nanotech/swift-haskell-tutorial](https://github.com/nanotech/swift-haskell-tutorial) - Integrating Haskell with Swift Mac Apps
+* [MichaelBurge/haskoin](https://github.com/MichaelBurge/haskoin) - Proof-of-concept Blockchain in Haskell
+* [m4dc4p/haskelldb](https://github.com/m4dc4p/haskelldb) - A library for building re-usable and composable SQL queries.
+* [dmjio/envy](https://github.com/dmjio/envy) - :angry: Environmentally friendly environment variables
+* [awakesecurity/gRPC-haskell](https://github.com/awakesecurity/gRPC-haskell) - Haskell gRPC support
+* [acowley/roshask](https://github.com/acowley/roshask) - Haskell client library for the ROS robotics framework.
+* [willdonnelly/dyre](https://github.com/willdonnelly/dyre) - A Dynamic Reconfiguration Library for Haskell Programs
+* [dmbarbour/haskell-vcache](https://github.com/dmbarbour/haskell-vcache) - large, persistent, memcached values and structure sharing for Haskell
+* [chris-taylor/Classical-Mechanics](https://github.com/chris-taylor/Classical-Mechanics) - Haskell toolbox for research and teaching in classical mechanics. Includes modules for symbolic algebra and automatic differentiation.
+* [ChrisPenner/eve](https://github.com/ChrisPenner/eve) - An extensible event-driven application framework in haskell
+* [JakeWheat/hssqlppp](https://github.com/JakeWheat/hssqlppp) - sql parser and type checker in haskell
+* [ekmett/reflection](https://github.com/ekmett/reflection) - Reifies arbitrary Haskell terms into types that can be reflected back into terms
+* [bitc/lushtags](https://github.com/bitc/lushtags) - Create ctags compatible tags files for Haskell programs
+* [sdiehl/zurihac-crypto](https://github.com/sdiehl/zurihac-crypto) - Small minimal examples of modern cryptographic techniques in Haskell
+* [jfeltz/dash-haskell](https://github.com/jfeltz/dash-haskell) - dash docset builder for Haskell packages and cabal project dependencies
+* [ekmett/coda](https://github.com/ekmett/coda) - A language experiment, something to do on my vacation -- irc.freenode.net ##coda
+* [composewell/streaming-benchmarks](https://github.com/composewell/streaming-benchmarks) - Benchmarks to compare Haskell streaming library performance
+* [Twinside/Rasterific](https://github.com/Twinside/Rasterific) - A drawing engine in Haskell
+* [srid/slownews](https://github.com/srid/slownews) - 🐢 Bringing slow news for the nervous among us
+* [Nike-Inc/bartlett](https://github.com/Nike-Inc/bartlett) - A simple Jenkins command line client to serve your needs.
+* [MarcWeber/hasktags](https://github.com/MarcWeber/hasktags) - Produces ctags "tags" and etags "TAGS" files for Haskell programs
+* [alephnullplex/cradle](https://github.com/alephnullplex/cradle) - Let's Build a Compiler (in Haskell)
+* [agrafix/funblog](https://github.com/agrafix/funblog) - A simple blog software written in Haskell
+* [yav/graphmod](https://github.com/yav/graphmod) - A utility for displaying the module dependencies of Haskell programs.
+* [nominolo/lambdachine](https://github.com/nominolo/lambdachine) - VM and tracing JIT for Haskell (work in progress)
+* [nh2/haskell-cpu-instruction-counter](https://github.com/nh2/haskell-cpu-instruction-counter) - Measuring CPU instructions in Haskell using Linux Performance Counters
+* [hlian/linklater](https://github.com/hlian/linklater) - A Haskell library for the Slack API (including real-time messaging!)
+* [hansroland/reflex-dom-inbits](https://github.com/hansroland/reflex-dom-inbits) - A tutorial for reflex-dom with small code bits
+* [Gabriel439/Haskell-Annah-Library](https://github.com/Gabriel439/Haskell-Annah-Library) - Distributed programming language that desugars to Morte
+* [drummyfish/haskell_game](https://github.com/drummyfish/haskell_game) - Wolfenstein 3D, ray-casting FPS game I make to learn Haskell. No libraries used, rendering is done in terminal.
+* [bgamari/b-tree](https://github.com/bgamari/b-tree) - Haskell on-disk B* tree implementation
+* [judah/pier](https://github.com/judah/pier) - Yet another Haskell build system.
+* [haskell-haskey/haskey](https://github.com/haskell-haskey/haskey) - Transactional key-value store written entirely in Haskell
+* [glguy/irc-core](https://github.com/glguy/irc-core) - Haskell IRC library and console client - Join us on Freenode #haskell-irc
+* [YoEight/eventstore](https://github.com/YoEight/eventstore) - EventStore Haskell TCP Client
+* [mmirman/ImperativeHaskell](https://github.com/mmirman/ImperativeHaskell) - Proof that Haskell can look and act like an imperative language.
+* [mgajda/json-autotype](https://github.com/mgajda/json-autotype) - Automatic Haskell type inference from JSON input
+* [haskell/ThreadScope](https://github.com/haskell/ThreadScope) - A graphical tool for profiling parallel Haskell programs
+* [eckyputrady/haskell-scotty-realworld-example-app](https://github.com/eckyputrady/haskell-scotty-realworld-example-app) - Exemplary real world backend API built with Haskell/Scotty https://realworld.io
+* [chrisnc/tangaroa](https://github.com/chrisnc/tangaroa) - A toy implementation of the Raft protocol in Haskell, with an experimental BFT variant.
+* [rnons/ted2srt](https://github.com/rnons/ted2srt) - Download bilingual subtitles of TED talks
+* [jgoerzen/missingh](https://github.com/jgoerzen/missingh) - Utility library [Haskell]
+* [goldfirere/units](https://github.com/goldfirere/units) - The home of the units Haskell package
+* [eskimor/purescript-bridge](https://github.com/eskimor/purescript-bridge) - Create PureScript datatypes from Haskell datatypes
+* [def-/ghc-vis](https://github.com/def-/ghc-vis) - Visualize live Haskell data structures in GHCi
+* [abooij/sudbury](https://github.com/abooij/sudbury) - Haskell implementation of the wayland protocol
+* [turtlesoupy/haskakafka](https://github.com/turtlesoupy/haskakafka) - Kafka bindings for Haskell
+* [sol/tinc](https://github.com/sol/tinc) - A dependency manager for Haskell
+* [Paczesiowa/virthualenv](https://github.com/Paczesiowa/virthualenv) - Virtual Haskell Environment builder
+* [kolmodin/binary](https://github.com/kolmodin/binary) - Efficient, pure binary serialisation using ByteStrings in Haskell.
+* [jaredloomis/andromeda](https://github.com/jaredloomis/andromeda) - A GLSL code generating DSL embedded in Haskell
+* [HeinrichApfelmus/operational](https://github.com/HeinrichApfelmus/operational) - Implement monads by specifying instructions and their desired operational semantics.
+* [hdevtools/hdevtools](https://github.com/hdevtools/hdevtools) - Persistent GHC-powered background server for FAST haskell development tools
+* [ekmett/gl](https://github.com/ekmett/gl) - Complete raw OpenGL bindings for Haskell
+* [bendyworks/api-server](https://github.com/bendyworks/api-server) - A JSON API server written in Haskell
+* [vincenthz/hs-gauge](https://github.com/vincenthz/hs-gauge) - Lean Haskell Benchmarking
+* [thumphries/hgrep](https://github.com/thumphries/hgrep) - Search Haskell source code from the command line
+* [tfausak/rattletrap](https://github.com/tfausak/rattletrap) - :car: Parse and generate Rocket League replays.
+* [Gabriel439/Haskell-Lens-Tutorial-Library](https://github.com/Gabriel439/Haskell-Lens-Tutorial-Library) - The missing tutorial module for the lens library
+* [jdreaver/eventful](https://github.com/jdreaver/eventful) - Event Sourcing library for Haskell
+* [fumieval/extensible](https://github.com/fumieval/extensible) - Extensible records, variants, structs, effects, tangles
+* [fpco/weigh](https://github.com/fpco/weigh) - Measure allocations of a Haskell functions/values
+* [ChrisPenner/Firefly](https://github.com/ChrisPenner/Firefly) - Simple Haskell http framework
+* [jgm/skylighting](https://github.com/jgm/skylighting) - A Haskell syntax highlighting library with tokenizers derived from KDE syntax highlighting descriptions
+* [frasertweedale/hs-jose](https://github.com/frasertweedale/hs-jose) - Haskell JOSE and JWT library
+* [algas/haskell-servant-cookbook](https://github.com/algas/haskell-servant-cookbook) - Haskell Servant Cookbook
+* [agrafix/elm-bridge](https://github.com/agrafix/elm-bridge) - Haskell: Derive Elm types from Haskell types
+* [Russell91/pyfi](https://github.com/Russell91/pyfi) - PYthon Function Interface for haskell
+* [kosmikus/lhs2tex](https://github.com/kosmikus/lhs2tex) - Preprocessor for typesetting Haskell sources with LaTeX
+* [xtendo-org/chips](https://github.com/xtendo-org/chips) - A fast, lightweight, and concurrent plugin manager for the fish shell, written in Haskell
+* [iand675/haskell-checklist](https://github.com/iand675/haskell-checklist) - Preflight checklist for Haskell code. Aspire to greatness!
+* [crufter/haquery](https://github.com/crufter/haquery) - jQuery for Haskell
+* [sol/markdown-unlit](https://github.com/sol/markdown-unlit) - Literate Haskell support for Markdown
+* [sebastiaanvisser/fclabels](https://github.com/sebastiaanvisser/fclabels) - First class composable record labels for Haskell.
+* [intolerable/reddit](https://github.com/intolerable/reddit) - reddit api for haskell
+* [cpennington/h4sh](https://github.com/cpennington/h4sh) - Fork of Don Stewarts h4sh haskell shell scripts
+* [2016rshah/heckle](https://github.com/2016rshah/heckle) - :black_nib: Jekyll in Haskell (feat. LaTeX)
+* [owainlewis/http-dispatch](https://github.com/owainlewis/http-dispatch) - A high level HTTP client for Haskell that focuses on ease of use
+* [jaspervdj/fugacious](https://github.com/jaspervdj/fugacious) - An example Haskell web application
+* [lexi-lambda/higher-rank](https://github.com/lexi-lambda/higher-rank) - A small Haskell implementation of Complete and Easy Bidirectional Typechecking for Higher-Rank Polymorphism
+* [iu-parfunc/lvars](https://github.com/iu-parfunc/lvars) - The LVish Haskell library
+* [ifesdjeen/haskell-ffi-tutorial](https://github.com/ifesdjeen/haskell-ffi-tutorial) - A (missing) Haskell FFI tutorial: how to work with nested Structs and do bi-directional C<->Haskell interop
+* [IFCA/opencl](https://github.com/IFCA/opencl) - Haskell high-level wrapper for OpenCL
+* [ice1000/Kt2Dart](https://github.com/ice1000/Kt2Dart) - :flashlight: [Deprecated] Transpile Kotlin codes into Dart, Make Flutter Great Again
+* [Gabriel439/Haskell-MVC-Library](https://github.com/Gabriel439/Haskell-MVC-Library) - Model-view-controller
+* [alevy/postgresql-orm](https://github.com/alevy/postgresql-orm) - An Haskell ORM (Object Relational Mapping) and migrations DSL for PostgreSQL.
+* [soundcloud/haskell-kubernetes](https://github.com/soundcloud/haskell-kubernetes) - Haskell bindings to the v1 Kubernetes api, generated via swagger-codegen
+* [ocramz/sparse-linear-algebra](https://github.com/ocramz/sparse-linear-algebra) - Numerical computation in native Haskell
+* [lukasmartinelli/hwk](https://github.com/lukasmartinelli/hwk) - A Haskell based awk and sed alternative
+* [geekrelief/as3tohaxe](https://github.com/geekrelief/as3tohaxe) - An Actionscript 3 to haXe source converter written in Haskell
+* [sol/reserve](https://github.com/sol/reserve) - Universal and robust reloading for Haskell web applications
+* [pietervdvn/Haskell](https://github.com/pietervdvn/Haskell) - Introduction to haskell
+* [nponeccop/HNC](https://github.com/nponeccop/HNC) - HN Compiler
+* [lehins/hip](https://github.com/lehins/hip) - Haskell Image Processing Library
+* [gonimo/gonimo](https://github.com/gonimo/gonimo) - gonimo application back & front
+* [Chase-C/Flocking-Simulation](https://github.com/Chase-C/Flocking-Simulation) - A 3D Boids-like flocking simulation coded in Haskell.
+* [adamwalker/sdr](https://github.com/adamwalker/sdr) - Software defined radio library in Haskell
+* [xmonad/X11](https://github.com/xmonad/X11) - A Haskell binding to the X11 graphics library.
+* [stackbuilders/hapistrano](https://github.com/stackbuilders/hapistrano) - Deploy tool for Haskell applications, like Capistrano for Rails
+* [sjsyrek/study-haskell-nyc](https://github.com/sjsyrek/study-haskell-nyc) - Information about the "Haskell Programming from First Principles" reading group in NYC.
+* [serras/lambdaconf-2015-web](https://github.com/serras/lambdaconf-2015-web) - Projects for LambdaConf 2015 Haskell web workshop
+* [mstksg/tensor-ops](https://github.com/mstksg/tensor-ops) - Type-safe tensor manipulation operations in Haskell with tensorflow-style automatic differentiation
+* [k-bx/protocol-buffers](https://github.com/k-bx/protocol-buffers) - Haskell protocol-buffers package
+* [jtdaugherty/HaskellNet](https://github.com/jtdaugherty/HaskellNet) - Haskell library which provides client support for POP3, SMTP, and IMAP protocols.
+* [jekor/hesh](https://github.com/jekor/hesh) - Haskell Extensible Shell
+* [hspec/hspec-example](https://github.com/hspec/hspec-example) - A Haskell/Hspec skeleton project
+* [dorchard/effect-monad](https://github.com/dorchard/effect-monad) - Embeds effect systems in Haskell using 'parametric effect monads'
+* [colah/HaskSymb](https://github.com/colah/HaskSymb) - An Experiment in Haskell Symbolic Algebra
+* [serokell/universum](https://github.com/serokell/universum) - :milky_way: Prelude written in @Serokell
+* [seanhess/robotquest](https://github.com/seanhess/robotquest) - RobotQuest is a MMO, programming game. Instead of playing RobotQuest directly, you write a program that plays it for you. Your program communicates with the game server API over HTTP by sending and receiving JSON messages. Written in HTML, Haskell, with MongoDB
+* [rainbyte/frag](https://github.com/rainbyte/frag) - Frag is a 3D first person shooting game written in Haskell, by Mun Hon Cheong
+* [ocramz/xeno](https://github.com/ocramz/xeno) - Fast Haskell XML parser
+* [ngless-toolkit/ngless](https://github.com/ngless-toolkit/ngless) - NGLess: NGS with less work
+* [myfreeweb/magicbane](https://github.com/myfreeweb/magicbane) - A web framework that integrates Servant, EKG, fast-logger, wai-cli…
+* [mpickering/slack-api](https://github.com/mpickering/slack-api) - Haskell bindings to the Slack RTM API
+* [mchakravarty/lazy-lambda](https://github.com/mchakravarty/lazy-lambda) - Lazy Lambda — a Flappy Bird clone in Haskell with SpriteKit
+* [LeventErkok/hArduino](https://github.com/LeventErkok/hArduino) - Control your Arduino board from Haskell, using the Firmata protocol
+* [gwern/mueval](https://github.com/gwern/mueval) - A secure sandboxed Haskell interpreter for pure function evaluation
+* [awakesecurity/nix-deploy](https://github.com/awakesecurity/nix-deploy) - Deploy software or an entire NixOS system configuration to another NixOS system
+* [agrafix/superrecord](https://github.com/agrafix/superrecord) - Haskell: Supercharged anonymous records
+* [moonmaster9000/bird](https://github.com/moonmaster9000/bird) - A sinatra-ish framework written in haskell, riding on top of Hack
+* [madjestic/Haskell-OpenGL-Tutorial](https://github.com/madjestic/Haskell-OpenGL-Tutorial) - an attempt to create a concise modern Haskell OpenGL boilerplate with basic IO
+* [guillaume-nargeot/hpc-coveralls](https://github.com/guillaume-nargeot/hpc-coveralls) - coveralls.io support for haskell code coverage with hpc
+* [feuerbach/ansi-terminal](https://github.com/feuerbach/ansi-terminal) - ANSI terminal support for Haskell, with Windows compatibility
+* [denibertovic/docker-hs](https://github.com/denibertovic/docker-hs) - A Haskell library for the Docker Engine API
+* [AllureOfTheStars/Allure](https://github.com/AllureOfTheStars/Allure) - Allure of the Stars is a near-future Sci-Fi roguelike and tactical squad game written in Haskell
+* [ahushh/Monaba](https://github.com/ahushh/Monaba) - Imageboard engine written in Haskell and powered by Yesod
+* [vincenthz/language-java](https://github.com/vincenthz/language-java) - Java parser and printer for haskell
+* [rudymatela/fitspec](https://github.com/rudymatela/fitspec) - refine properties for testing Haskell programs
+* [rnons/shadowsocks-haskell](https://github.com/rnons/shadowsocks-haskell) - shadowsocks in haskell
+* [lambdacube3d/lambdacube-compiler](https://github.com/lambdacube3d/lambdacube-compiler) - LambdaCube 3D is a Haskell-like purely functional language for GPU. Try it out:
+* [tmcdonell/cuda](https://github.com/tmcdonell/cuda) - Haskell FFI bindings to CUDA
+* [qmuli/qmuli](https://github.com/qmuli/qmuli) - Qmuli - Serverless framework for Haskell
+* [jgoerzen/hslogger](https://github.com/jgoerzen/hslogger) - Logging infrastructure [Haskell]
+* [HaskellZhangSong/Introduction_to_Haskell](https://github.com/HaskellZhangSong/Introduction_to_Haskell) - This is source code of my book.
+* [fortytools/holumbus](https://github.com/fortytools/holumbus) - A Haskell library which provides the basic building blocks for creating powerful indexing and search applications.
+* [expipiplus1/vulkan](https://github.com/expipiplus1/vulkan) - Haskell bindings for Vulkan
+* [ekmett/structures](https://github.com/ekmett/structures) - A playground for working on advanced data structures in Haskell
+* [centromere/cacophony](https://github.com/centromere/cacophony) - A Haskell library implementing the Noise protocol.
+* [bsl/GLFW-b](https://github.com/bsl/GLFW-b) - Haskell bindings to GLFW
+* [TomSmeets/FractalArt](https://github.com/TomSmeets/FractalArt) - Generate colorful wallpapers!
+* [TiltMeSenpai/Discord.hs](https://github.com/TiltMeSenpai/Discord.hs) - Have you heard of our lord and savior Haskell?
+* [snoyberg/xml](https://github.com/snoyberg/xml) - Various XML utility packages for Haskell
+* [ndmitchell/cmdargs](https://github.com/ndmitchell/cmdargs) - Haskell library for command line argument processing
+* [mpickering/apply-refact](https://github.com/mpickering/apply-refact) - Refactor Haskell source files
+* [kim/leveldb-haskell](https://github.com/kim/leveldb-haskell) - Haskell bindings to LevelDB (https://github.com/google/leveldb)
+* [vaibhavsagar/duffer](https://github.com/vaibhavsagar/duffer) - A git-compatible content tracker in Haskell.
+* [tibbe/hyena](https://github.com/tibbe/hyena) - A Haskell web application server.
+* [ollef/Bidirectional](https://github.com/ollef/Bidirectional) - Haskell implementation of Dunfield and Krishnaswami's "Complete and easy bidirectional typechecking for higher-rank polymorphism"
+* [jvranish/MiniKanrenT](https://github.com/jvranish/MiniKanrenT) - An implementation of miniKanren in Haskell
+* [davean/waldo](https://github.com/davean/waldo) - A small Haskell server for generating visual stories based on some ascertainable data about the requester.
+* [bos/strange-loop-2011](https://github.com/bos/strange-loop-2011) - Slides and examples from my Haskell workshop at Strange Loop.
+* [tomlokhorst/AwesomePrelude](https://github.com/tomlokhorst/AwesomePrelude) - Yet another alternative Haskell Prelude, but this one is awesome!
+* [tomahawkins/improve](https://github.com/tomahawkins/improve) - An imperative programming language in Haskell for high assurance embedded applications.  ImProve programs are verified with model checking.  ImProve compiles to C and Simulink.
+* [sol/aeson-qq](https://github.com/sol/aeson-qq) - JSON quasiquoter for Haskell
+* [snoyberg/file-embed](https://github.com/snoyberg/file-embed) - Use Template Haskell to embed file contents directly.
+* [skogsbaer/hscurses](https://github.com/skogsbaer/hscurses) - ncurses binding for Haskell
+* [nikita-volkov/graph-db](https://github.com/nikita-volkov/graph-db) - An experimental native Haskell graph database
+* [IxpertaSolutions/freer-effects](https://github.com/IxpertaSolutions/freer-effects) - An implementation of "Freer Monads, More Extensible Effects".
+* [itchyny/miv](https://github.com/itchyny/miv) - Vim plugin manager written in Haskell
+* [hunt-framework/hunt](https://github.com/hunt-framework/hunt) - A flexible, lightweight search platform
+* [ekmett/comonad](https://github.com/ekmett/comonad) - Haskell 98 comonads
+* [contivero/hasmin](https://github.com/contivero/hasmin) - Hasmin - A Haskell CSS Minifier
+* [chetant/LibClang](https://github.com/chetant/LibClang) - Haskell FFI to libclang
+* [bydriv/mhc](https://github.com/bydriv/mhc) - Minimal Haskell Compiler
+* [transient-haskell/axiom](https://github.com/transient-haskell/axiom) - Client-side and server-side web framework over Transient and GHCJS  (Haskell to JavaScript compiler)
+* [raaz-crypto/raaz](https://github.com/raaz-crypto/raaz) - Cryptographic library for Haskell
+* [purebred-mua/purebred](https://github.com/purebred-mua/purebred) - A terminal based mail user agent based on notmuch
+* [poor-a/erlang-ffi](https://github.com/poor-a/erlang-ffi) - A Foreign Function Interface that lets Haskell and Erlang programs communicate.
+* [mokehehe/monao](https://github.com/mokehehe/monao) - Super monao bros. in Haskell
+* [jtdaugherty/tart](https://github.com/jtdaugherty/tart) - Tart - draw ASCII art in the terminal with your mouse!
+* [jhickner/smtp-mail](https://github.com/jhickner/smtp-mail) - Making it easy to send SMTP email from Haskell
+* [hspec/HUnit](https://github.com/hspec/HUnit) - A unit testing framework for Haskell
+* [haskell/win32](https://github.com/haskell/win32) - Haskell support for the Win32 API
+* [ezyang/compact](https://github.com/ezyang/compact) - Compact regions library for Haskell
+* [dhall-lang/dhall-to-cabal](https://github.com/dhall-lang/dhall-to-cabal) - Compile Dhall expressions to Cabal files
+* [christian-marie/git-vogue](https://github.com/christian-marie/git-vogue) - Make your Haskell git repositories fashionable.
+* [CGenie/haskell-snake](https://github.com/CGenie/haskell-snake) - Snake game implemetation in Haskell using SDL2
+* [awakesecurity/hocker](https://github.com/awakesecurity/hocker) - Utilities for interacting with the docker registry and generating nix build instructions
+* [alpmestan/servant](https://github.com/alpmestan/servant) - Moved to http://github.com/haskell-servant
+* [urv/fixhs](https://github.com/urv/fixhs) - FIX (co)parser in haskell
+* [pontarius/pontarius-xmpp](https://github.com/pontarius/pontarius-xmpp) - An XMPP client library for Haskell.
+* [patrickt/fastsum](https://github.com/patrickt/fastsum) - A fast Haskell open-union type, suitable for 100+ contained alternatives.
+* [google/haskell-indexer](https://github.com/google/haskell-indexer) - Emits code crossreference data for Haskell sources.
+* [Gabriel439/Haskell-Errors-Library](https://github.com/Gabriel439/Haskell-Errors-Library) - Type-safe error handling
+* [djv/VisualProf](https://github.com/djv/VisualProf) - http://www.reddit.com/r/haskell/comments/cr15z/visualprof_profiles_your_haskell_program_and/?sort=hot
+* [alexbecker/formal-morality](https://github.com/alexbecker/formal-morality) - A formal moral framework coded in Haskell
+* [ajtulloch/haskell-ml](https://github.com/ajtulloch/haskell-ml) - Haskell implementations of various ML algorithms.
+* [ToJans/learninghaskell](https://github.com/ToJans/learninghaskell) - Learning Haskell
+* [owickstrom/motor](https://github.com/owickstrom/motor) - Type-safe effectful state machines in Haskell
+* [Mokosha/Lambency](https://github.com/Mokosha/Lambency) - A Real-Time Rendering framework written in Haskell
+* [basvandijk/monad-control](https://github.com/basvandijk/monad-control) - Lift control operations, like exception catching, through monad transformers
+* [aleator/CV](https://github.com/aleator/CV) - Haskell wrappers and utilities for OpenCV machine vision library
+* [waldheinz/ads](https://github.com/waldheinz/ads) - A Freenet clone written in Haskell
+* [vincenthz/hs-certificate](https://github.com/vincenthz/hs-certificate) - Certificate and Key Reader/Writer in haskell
+* [ryanpbrewster/haskell](https://github.com/ryanpbrewster/haskell) - Personal haskell programs
+* [robstewart57/rdf4h](https://github.com/robstewart57/rdf4h) - rdf4h is a library for working with RDF in Haskell
+* [puffnfresh/sonic2](https://github.com/puffnfresh/sonic2) - Sonic the Hedgehog 2 in Haskell
+* [nh2/haskell-from-python](https://github.com/nh2/haskell-from-python) - Example how to call Haskell from Python easily (using ctypes.cdll.LoadLibrary)
+* [ku-fpg/hermit](https://github.com/ku-fpg/hermit) - Haskell Equational Reasoning Model-to-Implementation Tunnel
+* [kazu-yamamoto/dns](https://github.com/kazu-yamamoto/dns) - DNS libary in Haskell
+* [JustusAdam/mustache](https://github.com/JustusAdam/mustache) - Haskell implementation of mustache templates
+* [jaseemabid/Olifant](https://github.com/jaseemabid/Olifant) - A simple programming language targeting LLVM
+* [fpco/rdr2tls](https://github.com/fpco/rdr2tls) - Haskell web service that redirects all traffic from HTTP to HTTPS
+* [ekmett/semigroups](https://github.com/ekmett/semigroups) - Haskell 98 semigroups
+* [afcowie/http-streams](https://github.com/afcowie/http-streams) - Haskell HTTP client library for use with io-streams
+* [wdanilo/haskell-logger](https://github.com/wdanilo/haskell-logger) - Fast & extensible logging framework for Haskell!
+* [takenobu-hs/haskell-ethereum-assembly](https://github.com/takenobu-hs/haskell-ethereum-assembly) - EVM (Ethereum virtual machine) Assembly on Haskell DSL
+* [ocharles/what-it-do](https://github.com/ocharles/what-it-do) - Automatically trace all (showable) binds in do expressions
+* [neongreen/haskell-ex](https://github.com/neongreen/haskell-ex) - Haskell exercises I wrote for Haskell Learning Group
+* [jhartikainen/hs-language-php](https://github.com/jhartikainen/hs-language-php) - Experimental Haskell PHP parser / evaluator / code generator
+* [jdreaver/amy](https://github.com/jdreaver/amy) - Strict Haskell-like programming language that compiles to LLVM
+* [int-index/kalium](https://github.com/int-index/kalium) - Translate Pascal into Haskell
+* [HeinrichApfelmus/frp-guides](https://github.com/HeinrichApfelmus/frp-guides) - A collection of tutorials, guidelines, examples, patterns and half-baked ideas on functional reactive programming (FRP).
+* [haskell-suite/haskell-names](https://github.com/haskell-suite/haskell-names) - Haskell suite library for name resolution
+* [haskell/pretty](https://github.com/haskell/pretty) - Haskell Pretty-printer library
+* [bjpop/haskell-mpi](https://github.com/bjpop/haskell-mpi) - MPI bindings for Haskell
+* [tfausak/github-release](https://github.com/tfausak/github-release) - :octocat: Upload files to GitHub releases.
+* [roman/Haskell-capataz](https://github.com/roman/Haskell-capataz) - OTP-like supervision trees in Haskell
+* [ocharles/logging-effect](https://github.com/ocharles/logging-effect) - A very general logging effect for Haskell
+* [mrkkrp/zip](https://github.com/mrkkrp/zip) - Efficient library for manipulating zip archives
+* [maoe/influxdb-haskell](https://github.com/maoe/influxdb-haskell) - Haskell client library for InfluxDB
+* [ku-fpg/blank-canvas](https://github.com/ku-fpg/blank-canvas) - A Haskell API into HTML5 Canvas
+* [jgoerzen/hsh](https://github.com/jgoerzen/hsh) - Shell Integration Library [Haskell]
+* [hauxir/haskell-tetris](https://github.com/hauxir/haskell-tetris) - Tetris game written in Haskell using ncurses
+* [haskell-distributed/distributed-process-platform](https://github.com/haskell-distributed/distributed-process-platform) - DEPRECATED (Cloud Haskell Platform) in favor of distributed-process-extras, distributed-process-async, distributed-process-client-server, distributed-process-registry, distributed-process-supervisor, distributed-process-task and distributed-process-execution
+* [Erdwolf/prolog](https://github.com/Erdwolf/prolog) - A prolog interpreter written in Haskell.
+* [bartavelle/language-puppet](https://github.com/bartavelle/language-puppet) - A library to work with Puppet manifests, test them and eventually replace everything ruby.
+* [aristidb/http-types](https://github.com/aristidb/http-types) - Generic HTTP types for Haskell (for both client and server code)
+* [zepto-lang/zepto](https://github.com/zepto-lang/zepto) - A Schemy Lisp backed by Haskell
+* [vincenthz/hit](https://github.com/vincenthz/hit) - library to manipulate git repositories in haskell (no bindings)
+* [slyrz/hase](https://github.com/slyrz/hase) - Haskell bindings for the Senna NLP toolkit
+* [sdiehl/repline](https://github.com/sdiehl/repline) - Haskeline wrapper for GHCi-like REPL interfaces
+* [riak-haskell-client/riak-haskell-client](https://github.com/riak-haskell-client/riak-haskell-client) - A fast Haskell client library for the Riak decentralized data store
+* [parsonsmatt/rowdy](https://github.com/parsonsmatt/rowdy) - A convenient DSL for describing web routes
+* [ozataman/csv-conduit](https://github.com/ozataman/csv-conduit) - Flexible, fast and constant-space CSV library for Haskell using conduits
+* [jwiegley/putting-lenses-to-work](https://github.com/jwiegley/putting-lenses-to-work) - A presentation for BayHac 2017 on how I uses lenses at work
+* [haskell-opengl/GLUT](https://github.com/haskell-opengl/GLUT) - Haskell bindings to GLUT
+* [haskell-lisp/liskell](https://github.com/haskell-lisp/liskell) - Haskell Semantics with Lisp Syntax
+* [ekmett/unpacked-containers](https://github.com/ekmett/unpacked-containers) - Unpacked containers using backpack
+* [dmjio/google-translate](https://github.com/dmjio/google-translate) - :secret: Google Translate API
+* [crabmusket/haskell-simple-concurrency](https://github.com/crabmusket/haskell-simple-concurrency) - Small examples of concurrency in Haskell.
+* [agrafix/users](https://github.com/agrafix/users) - A library simplifying user management for Haskell web applications
+* [tranma/shitty-complexity](https://github.com/tranma/shitty-complexity) - complexity testing for haskell
+* [thephoeron/quipper-language](https://github.com/thephoeron/quipper-language) - Quipper: embedded, scalable functional programming language for quantum computing (unofficial fork)
+* [tfausak/blunt](https://github.com/tfausak/blunt) - :pencil2: Convert between pointfree and pointful Haskell expressions.
+* [samtay/conway](https://github.com/samtay/conway) - A terminal interface for Conway's Game of Life
+* [mrkkrp/facts](https://github.com/mrkkrp/facts) - Refined types
+* [m0ar/safe-streaming](https://github.com/m0ar/safe-streaming) - Adaptation of the streaming library for increased safety through linear types. Summer of Haskell 2017 project.
+* [jamesdabbs/pi-base.hs](https://github.com/jamesdabbs/pi-base.hs) - A Haskell-powered modernization of Counterexamples in Topology
+* [ilya-klyuchnikov/lambdapi](https://github.com/ilya-klyuchnikov/lambdapi) - Dependently Typed Lambda Calculus in Haskell
+* [HeinrichApfelmus/vault](https://github.com/HeinrichApfelmus/vault) - A typed, persistent store for values of arbitrary types
+* [exclipy/pdata](https://github.com/exclipy/pdata) - Purely functional, persistent and efficient vector and hash-map data structures for Haskell
+* [erikd/http-proxy](https://github.com/erikd/http-proxy) - A Haskell library for writing HTTP and HTTPS proxies.
+* [dstcruz/Write-Yourself-A-Scheme-In-48-Hours](https://github.com/dstcruz/Write-Yourself-A-Scheme-In-48-Hours) - My solutions to the popular Haskell tutorial
+* [corsis/clock](https://github.com/corsis/clock) - High-resolution clock functions: monotonic, realtime, cputime.
+* [bos/bloomfilter](https://github.com/bos/bloomfilter) - A fast Haskell Bloom filter library.
+* [bmillwood/stepeval](https://github.com/bmillwood/stepeval) - A program for evaluating a Haskell expression step-by-step
+* [bitemyapp/open-haskell](https://github.com/bitemyapp/open-haskell) - Community edited and directed course based on Spring '13 cis194.
+* [waivio/cl3](https://github.com/waivio/cl3) - Haskell Library implementing standard functions for the Algebra of Physical Space Cl(3,0)
+* [vincenthz/hs-connection](https://github.com/vincenthz/hs-connection) - simple client connection library in haskell with builtin features: SSL/TLS, SOCKS, session management.
+* [tmhedberg/here](https://github.com/tmhedberg/here) - Haskell here docs & interpolated strings via quasiquotation
+* [soimort/GrassMudHorse](https://github.com/soimort/GrassMudHorse) - An implementation of GrassMudHorse programming language in Haskell
+* [roman/Haskell-etc](https://github.com/roman/Haskell-etc) - Declarative configuration spec for Haskell projects
+* [pa-ba/compdata](https://github.com/pa-ba/compdata) - Haskell library implementing "Data Types a la Carte"
+* [ocharles/assert-explainer](https://github.com/ocharles/assert-explainer) - Py.test style assertions in Haskell
+* [mmark-md/mmark](https://github.com/mmark-md/mmark) - Strict markdown processor for writers
+* [mlite/hLLVM](https://github.com/mlite/hLLVM) - A Haskell library for analysing and transforming LLVM code
+* [JustusAdam/marvin](https://github.com/JustusAdam/marvin) - The paranoid bot (framework)
+* [jgoerzen/hpodder](https://github.com/jgoerzen/hpodder) - Podcatcher to download podcasts [Haskell] (unmaintained)
+* [input-output-hk/rscoin-haskell](https://github.com/input-output-hk/rscoin-haskell) - Haskell implementation of RSCoin
+* [ghulette/haskell-parser-examples](https://github.com/ghulette/haskell-parser-examples) - Examples of a simple parser written in both Parsec and Happy/Alex
+* [Gabriel439/Haskell-List-Transformer-Library](https://github.com/Gabriel439/Haskell-List-Transformer-Library) - List monad transformer
+* [anton-k/processing-for-haskell](https://github.com/anton-k/processing-for-haskell) - Graphics for kids and artists. Processing implemented in Haskell
+* [adjoint-io/double-ratchet](https://github.com/adjoint-io/double-ratchet) - An implementation of Double Ratchet Algorithm in Haskell
+* [winterland1989/stdio](https://github.com/winterland1989/stdio) - Haskell Standard Input and Output
+* [rampion/kinder-functor](https://github.com/rampion/kinder-functor) - An alternate definition of Haskell's Functor typeclass
+* [ninegua/lambda-viewer](https://github.com/ninegua/lambda-viewer) - Learn You a Lambda, a Haskell Tutorial
+* [nh2/link-with-lld-example](https://github.com/nh2/link-with-lld-example) - Example how to link Haskell programs very quickly with lld
+* [mzero/barley](https://github.com/mzero/barley) - Get going with Haskell ASAP
+* [keera-studios/keera-posture](https://github.com/keera-studios/keera-posture) - Alleviate your back pain using Haskell and a webcam
+* [kaizhang/SciFlow](https://github.com/kaizhang/SciFlow) - Scientific workflow management
+* [jasonstolaruk/CurryMUD](https://github.com/jasonstolaruk/CurryMUD) - A Multi-User Dungeon server in Haskell.
+* [giovanifss/Dumb](https://github.com/giovanifss/Dumb) - Dumain Bruteforcer - a fast and flexible domain bruteforcer
+* [btmura/b1](https://github.com/btmura/b1) - B1 is stock chart viewer written in Haskell using the OpenGL, GLFW, and FTGL bindings.
+* [bos/mwc-random](https://github.com/bos/mwc-random) - A very fast Haskell library for generating high quality pseudo-random numbers.
+* [alanz/ghc-exactprint](https://github.com/alanz/ghc-exactprint) - GHC version of haskell-src-exts exactPrint
+* [aelve/guide](https://github.com/aelve/guide) - Wiki for the Haskell ecosystem
+* [acfoltzer/Molog](https://github.com/acfoltzer/Molog) - A typed logic programming language embedded in Haskell
+* [vincenthz/hs-git](https://github.com/vincenthz/hs-git) - git protocol and storage in pure haskell
+* [ocharles/plhaskell](https://github.com/ocharles/plhaskell) - Write PostgreSQL functions in Haskell
+* [leventov/yarr](https://github.com/leventov/yarr) - Yer another array library
+* [kolmodin/herl](https://github.com/kolmodin/herl) - Erlang BEAM emulator in Haskell
+* [JoeyEremondi/haskelm](https://github.com/JoeyEremondi/haskelm) - Haskell to Elm translation using Template Haskell. Contains both a library and executable.
+* [JakeWheat/simple-sql-parser](https://github.com/JakeWheat/simple-sql-parser) - SQL query parser in Haskell
+* [GaloisInc/avro](https://github.com/GaloisInc/avro) - Haskell Avro Encoding and Decoding Native Support  (no RPC)
+* [erikd/haskell-big-integer-experiment](https://github.com/erikd/haskell-big-integer-experiment) - An experiment in re-implementing big integers in Haskell.
+* [dorchard/type-level-sets](https://github.com/dorchard/type-level-sets) - Type-level sets for Haskell (with value-level counterparts and various operations)
+* [blitzcode/hackage-diff](https://github.com/blitzcode/hackage-diff) - Compare the public API of different versions of a Hackage library
+* [beckyconning/haskell-snake](https://github.com/beckyconning/haskell-snake) - Simple and short implementation of a Snake game. Any pull requests which make it shorter or cleaner would be greatly appreciated : ).
+* [vmchale/command-line-tweeter](https://github.com/vmchale/command-line-tweeter) - Tweets in from a pipe
+* [roman/Haskell-Reactive-Extensions](https://github.com/roman/Haskell-Reactive-Extensions) - Implementation of Reactive Extensions in Haskell
+* [RaminHAL9001/Dao](https://github.com/RaminHAL9001/Dao) - The Dao System, a Haskell package providing a domain-specific scripting language and knowledge base designed for artificial intelligence, specifically for understanding natural language.
+* [pasqu4le/clifm](https://github.com/pasqu4le/clifm) - Command Line Interface File Manager
+* [ledger/ledger4](https://github.com/ledger/ledger4) - A rewrite of Ledger's core mathematical concepts in Haskell
+* [haskell-works/hw-kafka-client](https://github.com/haskell-works/hw-kafka-client) - Kafka client for Haskell, including auto-rebalancing consumers
+* [haskell-stdio/stdio](https://github.com/haskell-stdio/stdio) - Haskell Standard Input and Output
+* [haskell-game/fungen](https://github.com/haskell-game/fungen) - A lightweight, cross-platform, OpenGL/GLUT-based 2D game engine in Haskell
+* [connermcd/sed](https://github.com/connermcd/sed) - Haskell implementation of sed
+* [aisamanra/s-cargot](https://github.com/aisamanra/s-cargot) - Elaborate and expressive S-Expression library for Haskell
+* [tfausak/wuss](https://github.com/tfausak/wuss) - :lock: Secure WebSocket (WSS) clients in Haskell.
+* [Soostone/cassy](https://github.com/Soostone/cassy) - High level Cassandra bindings for Haskell
+* [serokell/serokell-util](https://github.com/serokell/serokell-util) - Different functions which are used across multiple @serokell packages. Also contains style-guide.
+* [serokell/o-clock](https://github.com/serokell/o-clock) - :hourglass: Time-safe library.
+* [puffnfresh/haskell-buildpack-demo](https://github.com/puffnfresh/haskell-buildpack-demo) - Demo of the Heroku Haskell Buildpack
+* [Poincare/QLearn](https://github.com/Poincare/QLearn) - A fast, easy-to-use q-learning library for Haskell
+* [nbouscal/poker.hs](https://github.com/nbouscal/poker.hs) - Texas Hold'em in Haskell
+* [michaelschade/hs-stripe](https://github.com/michaelschade/hs-stripe) - A Haskell implementation of the Stripe API.
+* [jputcu/serialport](https://github.com/jputcu/serialport) - Cross platform haskell library for using the serial port
+* [goldfirere/effects](https://github.com/goldfirere/effects) - A Haskell translation of Idris's original algebraic effects library
+* [gergoerdi/metafun](https://github.com/gergoerdi/metafun) - Compile Haskell-like code into C++ template metaprograms
+* [gazay/faker](https://github.com/gazay/faker) - Faker is pure Haskell library for generating fake data.
+* [elaforge/fast-tags](https://github.com/elaforge/fast-tags) - Incremental vi and emacs tags for haskell.
+* [ekmett/profunctors](https://github.com/ekmett/profunctors) - Haskell 98 Profunctors
+* [beijaflor-io/haskell-libui](https://github.com/beijaflor-io/haskell-libui) - Haskell bindings to the libui C library.
+* [beijaflor-io/ghcjs-commonjs](https://github.com/beijaflor-io/ghcjs-commonjs) - Seamless calls of Haskell code from JavaScript modules
+* [antonlogvinenko/javelin](https://github.com/antonlogvinenko/javelin) - JVM implementation in Haskell
+* [abailly/hevents](https://github.com/abailly/hevents) - Event Sourcing library in Haskell
+* [simonmichael/shelltestrunner](https://github.com/simonmichael/shelltestrunner) - Easy, repeatable testing of CLI programs/commands
+* [sdiehl/llvm-tutorial-standalone](https://github.com/sdiehl/llvm-tutorial-standalone) - DEPRECATED (Use: https://github.com/llvm-hs/llvm-hs-kaleidoscope )
+* [philopon/haddocset](https://github.com/philopon/haddocset) - Generate docset of Dash by Haddock haskell documentation tool
+* [pedromartins/cuboid](https://github.com/pedromartins/cuboid) - 3D puzzle game written in Haskell with Yampa/GLUT
+* [neurocyte/foreign-jni](https://github.com/neurocyte/foreign-jni) - Haskell bindings to the Java Native Interface
+* [ndmitchell/uniplate](https://github.com/ndmitchell/uniplate) - Haskell library for simple, concise and fast generic operations.
+* [myfreeweb/pcre-heavy](https://github.com/myfreeweb/pcre-heavy) - A Haskell regular expressions library that doesn't suck
+* [mrkkrp/modern-uri](https://github.com/mrkkrp/modern-uri) - Modern library for working with URIs
+* [mark-watson/haskell_tutorial_cookbook_examples](https://github.com/mark-watson/haskell_tutorial_cookbook_examples) - Code samples for my book "Haskell Tutorial and Cookbook"
+* [kazu-yamamoto/mighttpd](https://github.com/kazu-yamamoto/mighttpd) - A simple but practical HTTP server in Haskell. 'mighttpd' should be called 'mighty'.
+* [gibiansky/ghc-reskin](https://github.com/gibiansky/ghc-reskin) - A preprocessor for GHC for alternate Haskell syntaxes
+* [fimad/prometheus-haskell](https://github.com/fimad/prometheus-haskell) - Haskell client library for exposing prometheus.io metrics.
+* [facebookexperimental/hs-zstd](https://github.com/facebookexperimental/hs-zstd) - Bindings to the Zstandard library to make it usable from the Haskell programming language.
+* [Errorific/haskell-script-examples](https://github.com/Errorific/haskell-script-examples) - Examples of tools for use in basic utility scripts
+* [dmjio/hackernews](https://github.com/dmjio/hackernews) - :newspaper: HackerNews API
+* [cdepillabout/servant-checked-exceptions](https://github.com/cdepillabout/servant-checked-exceptions) - type-level errors for Servant APIs.
+* [barbuz/Husk](https://github.com/barbuz/Husk) - Functional golfing language inspired by Haskell.
+* [zalora/sproxy](https://github.com/zalora/sproxy) - See http://hackage.haskell.org/package/sproxy2
+* [yav/pretty-show](https://github.com/yav/pretty-show) - Tools for working with derived Show instances in Haskell.
+* [tweag/inline-js](https://github.com/tweag/inline-js) - Execute Node.js scripts in Haskell.
+* [tibbe/event](https://github.com/tibbe/event) - A Haskell event notification library
+* [styx/Raincat](https://github.com/styx/Raincat) - A puzzle game with a cat in lead role (Haskell)
+* [sebfisch/primes](https://github.com/sebfisch/primes) - Prime Numbers for Haskell
+* [mbeidler/cation](https://github.com/mbeidler/cation) - A full-stack Haskell web application starter project.
+* [lpeterse/haskell-socket](https://github.com/lpeterse/haskell-socket) - A Haskell binding to the POSIX sockets API
+* [llvm-hs/llvm-hs-examples](https://github.com/llvm-hs/llvm-hs-examples) - Examples for Haskell bindings to LLVM
+* [JustusAdam/language-haskell](https://github.com/JustusAdam/language-haskell) - Highlighting support for the Haskell language in visual studio code.
+* [JPMoresmau/BuildWrapper](https://github.com/JPMoresmau/BuildWrapper) - Utility to manage haskell projects for an IDE
+* [jaspervdj/psqueues](https://github.com/jaspervdj/psqueues) - Priority Search Queues in three different flavors for Haskell
+* [iand675/hs-mesos](https://github.com/iand675/hs-mesos) - Mesos bindings for Haskell
+* [Hrothen/Hubert](https://github.com/Hrothen/Hubert) - Toy web rendering engine in haskell
+* [haskell-opengl/OpenGLRaw](https://github.com/haskell-opengl/OpenGLRaw) - Haskell bindings to OpenGL (direct C bindings)
+* [haskell/hackage-security](https://github.com/haskell/hackage-security) - Hackage security framework based on TUF (The Update Framework)
+* [Euterpea/HSoM](https://github.com/Euterpea/HSoM) - Supporting Impelementation for Haskell School of Music
+* [ekmett/bifunctors](https://github.com/ekmett/bifunctors) - Haskell 98 bifunctors, bifoldables and bitraversables
+* [egonSchiele/actionkid](https://github.com/egonSchiele/actionkid) - A video game framework for haskell
+* [conscell/hugs-android](https://github.com/conscell/hugs-android) - Port of HUGS Haskell interpreter to Android
+* [batterseapower/parallel-io](https://github.com/batterseapower/parallel-io) - Haskell combinators for executing IO actions in parallel on a thread pool
+* [vimus/libmpd-haskell](https://github.com/vimus/libmpd-haskell) - A client library for MPD, the Music Player Daemon
+* [tonyday567/numhask](https://github.com/tonyday567/numhask) - A haskell numeric prelude, providing a clean structure for numbers and operations that combine them.
+* [patperry/hs-monte-carlo](https://github.com/patperry/hs-monte-carlo) - A Monte Carlo monad and transformer for Haskell.
+* [ondrap/json-stream](https://github.com/ondrap/json-stream) - Incremental applicative JSON Haskell parser
+* [nomeata/ghc-heap-view](https://github.com/nomeata/ghc-heap-view) - Extract the heap representation of Haskell values and thunks
+* [kazu-yamamoto/iproute](https://github.com/kazu-yamamoto/iproute) - IP Routing Table in Haskell
+* [jaspervdj/dcpu16-hs](https://github.com/jaspervdj/dcpu16-hs) - Haskell implementation of Notch's dcpu-16 specification (assembler, emulator)
+* [fizruk/lxc](https://github.com/fizruk/lxc) - High level Haskell bindings to LXC (Linux containers).
+* [cjdev/monad-mock](https://github.com/cjdev/monad-mock) - A Haskell package that provides a monad transformer for mocking mtl-style typeclasses
+* [bramgg/99haskell](https://github.com/bramgg/99haskell) - Live Haskell coding problems
+* [basvandijk/scientific](https://github.com/basvandijk/scientific) - Arbitrary-precision floating-point numbers represented using scientific notation
+* [adamgundry/inch](https://github.com/adamgundry/inch) - A type-checker for Haskell with integer constraints
+* [vincenthz/hs-hourglass](https://github.com/vincenthz/hs-hourglass) - efficient and simpler time API for haskell
+* [snoyberg/file-server-demo](https://github.com/snoyberg/file-server-demo) - Single-file example of a Haskell file server
+* [skogsbaer/HTF](https://github.com/skogsbaer/HTF) - Haskell Test Framework
+* [SFML-haskell/SFML](https://github.com/SFML-haskell/SFML) - Low level Haskell bindings for SFML 2.x
+* [paulgb/haskell_hadoop](https://github.com/paulgb/haskell_hadoop) - Haskell module for streaming hadoop MapReduce jobs
+* [mrkkrp/ghc-syntax-highlighter](https://github.com/mrkkrp/ghc-syntax-highlighter) - Syntax highlighter for Haskell using lexer of GHC itself
+* [liqula/react-hs](https://github.com/liqula/react-hs) - A GHCJS binding to React based on the Flux design. The flux design pushes state and complicated logic out of the view, allowing the rendering functions and event handlers to be pure Haskell functions.
+* [kazu-yamamoto/cab](https://github.com/kazu-yamamoto/cab) - A maintenance command of Haskell cabal packages
+* [jwvg0425/HaskellStudy](https://github.com/jwvg0425/HaskellStudy) - HaskellStudy
+* [jaspervdj/planet-wars-haskell](https://github.com/jaspervdj/planet-wars-haskell) - Unofficial Haskell starter package for the Planet Wars AI contest
+* [intoverflow/Potential](https://github.com/intoverflow/Potential) - x86-64 assembly as a Haskell EDSL
+* [haskell-hvr/uuid](https://github.com/haskell-hvr/uuid) - A Haskell library for creating, printing and parsing UUIDs
+* [Gabriel439/Haskell-MMorph-Library](https://github.com/Gabriel439/Haskell-MMorph-Library) - Monad morphisms
+* [froozen/kademlia](https://github.com/froozen/kademlia) - A haskell library implementing the Kademlia DHT
+* [fgaz/shine](https://github.com/fgaz/shine) - Declarative graphics for the browser
+* [evansb/cis194-hw](https://github.com/evansb/cis194-hw) - Solution to UPenn's Haskell course homework
+* [etnt/Haskerl](https://github.com/etnt/Haskerl) - Haskell subset compiled to the Beam machine.
+* [cies/haskell-fractal](https://github.com/cies/haskell-fractal) - Haskell example: A simple fractal image renderer
+* [bgamari/optimization](https://github.com/bgamari/optimization) - Some numerical optimization methods implemented in Haskell
+* [archhaskell/cblrepo](https://github.com/archhaskell/cblrepo) - Tool to simplify managing a consistent set of Haskell packages for distributions.
+* [aloiscochard/codec-jvm](https://github.com/aloiscochard/codec-jvm) - A JVM bytecode assembler written in Haskell.
+* [acowley/ffmpeg-light](https://github.com/acowley/ffmpeg-light) - Minimal Haskell bindings to the FFmpeg library
+* [ziocroc/Ombra](https://github.com/ziocroc/Ombra) - Graphics engine written in Haskell.
+* [vincenthz/hs-memory](https://github.com/vincenthz/hs-memory) - haskell memory
+* [tylerholien/milena](https://github.com/tylerholien/milena) - the (very humble) beginnings of a kafka client for haskell
+* [svenssonjoel/Obsidian](https://github.com/svenssonjoel/Obsidian) - Obsidian Language Repository
+* [spl/dlist](https://github.com/spl/dlist) - Difference lists in Haskell
+* [sellout/yaya](https://github.com/sellout/yaya) - Yet another yet another recursion scheme library in Haskell.
+* [reflex-frp/reflex-examples](https://github.com/reflex-frp/reflex-examples) -  Reflex FRP is a composable, cross-platform functional reactive programming framework for Haskell. It allows you to build interactive components in pure functional style, working in harmony with established Haskell techniques and improving the quality and elegance of your applications.
+* [parsonsmatt/kale](https://github.com/parsonsmatt/kale) - A quick, easy, and declarative task runner for Haskell code to destroy your boiler plate!
+* [owainlewis/slack](https://github.com/owainlewis/slack) - Slack Web and RTM API
+* [nbartlomiej/tfoo](https://github.com/nbartlomiej/tfoo) - Five-in-a-Row online with Haskell and Server-sent Events
+* [mgajda/homplexity](https://github.com/mgajda/homplexity) - Haskell code complexity and quality measurement
+* [markandrus/twilio-haskell](https://github.com/markandrus/twilio-haskell) - Twilio library for Haskell
+* [MaartenFaddegon/Hoed](https://github.com/MaartenFaddegon/Hoed) - Hoed - A Lightweight Haskell Tracer and Debugger
+* [llvm-hs/llvm-hs-kaleidoscope](https://github.com/llvm-hs/llvm-hs-kaleidoscope) - Kaleidoscope Tutorial using llvm-hs
+* [jspahrsummers/RxHaskell](https://github.com/jspahrsummers/RxHaskell) - Reactive Extensions for Haskell (experimental)
+* [Gabriel439/Haskell-Pipes-Concurrency-Library](https://github.com/Gabriel439/Haskell-Pipes-Concurrency-Library) - Concurrency for the pipes ecosystem
+* [dmp1ce/DMSS](https://github.com/dmp1ce/DMSS) - Dead Man's Switch System
+* [cchalmers/plots](https://github.com/cchalmers/plots) - Haskell plotting library
+* [bitemyapp/blacktip](https://github.com/bitemyapp/blacktip) - Haskell clone of Boundary's k-ordered unique id service
+* [arjunguha/haskell-couchdb](https://github.com/arjunguha/haskell-couchdb) - Haskell bindings for CouchDB
+* [andrewdougherty/svm](https://github.com/andrewdougherty/svm) - A support vector machine implemented in Haskell.
+* [alevy/simple](https://github.com/alevy/simple) - A minimal Haskell web-framework based on the WAI web server interface.
+* [zfoh/haskell-beginners-projects](https://github.com/zfoh/haskell-beginners-projects) - A couple of Haskell beginner projects, for ZuriHac 2016
+* [yamadapc/stack-run-auto](https://github.com/yamadapc/stack-run-auto) - Automatically finds dependencies and runs a Haskell file with stack (no cabal manifest, no stack.yaml, no project, no friction)
+* [WJWH/HPi](https://github.com/WJWH/HPi) - Library to access the GPIO pins on a Raspberry Pi from Haskell.
+* [utatti/line](https://github.com/utatti/line) - Haskell SDK for the LINE APIs
+* [tmishima/Hinecraft](https://github.com/tmishima/Hinecraft) - This is a simple Minecraft Clone (DEMO) written in Haskell.
+* [stackbuilders/dotenv-hs](https://github.com/stackbuilders/dotenv-hs) - Load environment variables from dotenv files for Haskell
+* [soupi/pureli](https://github.com/soupi/pureli) - A purely functional, dynamically typed, parallel evaluated Lisp-like programming language
+* [SFTtech/openage-masterserver](https://github.com/SFTtech/openage-masterserver) - Lobby and matchmaking server for openage in Haskell
+* [ryukinix/discrete-mathematics](https://github.com/ryukinix/discrete-mathematics) - A computational way to study discrete mathematics using Haskell
+* [rnons/HadouRex](https://github.com/rnons/HadouRex) - douban.fm CLI client in Haskell. You might be interested in https://github.com/rnons/lord
+* [potomak/haskell-player](https://github.com/potomak/haskell-player) - A terminal music player based on afplay
+* [mvr/cf](https://github.com/mvr/cf) - "Exact" real arithmetic for Haskell using continued fractions (Not formally proven correct)
+* [liamoc/wizards](https://github.com/liamoc/wizards) - High level, generic library for interrogative user interfaces in Haskell
+* [kokuyouwind/haskell-exercises](https://github.com/kokuyouwind/haskell-exercises) - 「すごいHaskell楽しく学ぼう！」の社内勉強会のために作成した、章末ごとの演習問題集です。
+* [jystic/hadoop-tools](https://github.com/jystic/hadoop-tools) - Tools for working with Hadoop, written with performance in mind.
+* [HaskellCNOrg/snap-web](https://github.com/HaskellCNOrg/snap-web) - Towards web with Snap in Haskell
+* [facebookarchive/futil](https://github.com/facebookarchive/futil) - utility library for haskell projects
+* [chicagohaskell/servant-presentation](https://github.com/chicagohaskell/servant-presentation) - Slides + TodoApp for Chicago Haskell Servant Presentation
+* [BardurArantsson/cqrs](https://github.com/BardurArantsson/cqrs) - CQRS Implementation for Haskell
+* [ajnsit/wai-routes](https://github.com/ajnsit/wai-routes) - Typesafe URLs for Haskell Wai applications
+* [abooij/haskell-wayland](https://github.com/abooij/haskell-wayland) - DEPRECATED Haskell bindings for the Wayland library
+* [worksap-ate/aws-sdk](https://github.com/worksap-ate/aws-sdk) - AWS SDK for Haskell
+* [OlivierSohn/hamazed](https://github.com/OlivierSohn/hamazed) - Monorepo for a multi-player game engine, and game examples
+* [ndmitchell/extra](https://github.com/ndmitchell/extra) - Extra Haskell functions
+* [mpickering/500-sql-haskell](https://github.com/mpickering/500-sql-haskell) - A Haskell implementation of "Functional pearl: a SQL to C compiler in 500 lines of code"
+* [mikeplus64/Level-0](https://github.com/mikeplus64/Level-0) - Haskell Snake clone.
+* [mikeizbicki/hmm](https://github.com/mikeizbicki/hmm) - hidden markov models in haskell
+* [lenguyenthedat/raptor](https://github.com/lenguyenthedat/raptor) - A lightweight product recommendation system (Item Based Collaborative Filtering) developed in Haskell.
+* [ivan-m/graphviz](https://github.com/ivan-m/graphviz) - Haskell bindings to the Graphviz toolkit
+* [GaloisInc/halfs](https://github.com/GaloisInc/halfs) - The Haskell File System: A file system implementation in Haskell
+* [ekmett/perhaps](https://github.com/ekmett/perhaps) - A monad, perhaps.
+* [dagit/nehe-tuts](https://github.com/dagit/nehe-tuts) - OpenGL NeHe tutorials converted to Haskell
+* [acfoltzer/gitrev](https://github.com/acfoltzer/gitrev) - Compile git revision info into Haskell projects
+* [abhin4v/link](https://github.com/abhin4v/link) - A simple multithreded chat server in haskell
+* [uhc/uhc](https://github.com/uhc/uhc) - Utrecht Haskell Compiler
+* [tfausak/strive](https://github.com/tfausak/strive) - :bicyclist: A Haskell client for the Strava V3 API.
+* [stepcut/plugins](https://github.com/stepcut/plugins) - Dynamic linking and runtime evaluation of Haskell, and C, including dependency chasing and package resolution.
+* [PatrickMaier/HdpH](https://github.com/PatrickMaier/HdpH) - Haskell distributed parallel Haskell
+* [ocharles/rel8](https://github.com/ocharles/rel8) - Hey! Hey! Can u rel8?
+* [mrkkrp/text-metrics](https://github.com/mrkkrp/text-metrics) - Calculate various string metrics efficiently in Haskell
+* [mdibaiee/sibe](https://github.com/mdibaiee/sibe) - Experimental Haskell machine learning library
+* [luqui/data-memocombinators](https://github.com/luqui/data-memocombinators) - Pure memoization combinators for Haskell
+* [kowainik/smuggler](https://github.com/kowainik/smuggler) - 🚣 Smuggle all imports
+* [ivanperez-keera/dunai](https://github.com/ivanperez-keera/dunai) - Functional Reactive Programming using Monadic Stream Functions
+* [ivan-m/haskell-docs](https://github.com/ivan-m/haskell-docs) - Get the Haskell documentation of a name from a module
+* [gcross/LogicGrowsOnTrees](https://github.com/gcross/LogicGrowsOnTrees) - A library and framework for massively parallelizing backtracking searches in Haskell.
+* [Fuuzetsu/aeson-schema](https://github.com/Fuuzetsu/aeson-schema) - Haskell JSON schema validator and parser generator
+* [fpco/odbc](https://github.com/fpco/odbc) - Haskell ODBC binding with SQL Server support
+* [dvolk/hoodie](https://github.com/dvolk/hoodie) - A toy roguelike game in Haskell
+* [crooney/cinder](https://github.com/crooney/cinder) - Markup (HTML and SVG) and DOM manipulation DSL for the Fay subset of Haskell.
+* [arcticmatt/dino-brick](https://github.com/arcticmatt/dino-brick) - dino game, terminal edition
+* [tekul/broch](https://github.com/tekul/broch) - OAuth2 and OpenID Connect in Haskell
+* [srp/mongoDB](https://github.com/srp/mongoDB) - A mongoDB driver for Haskell.
+* [soupi/chip-8](https://github.com/soupi/chip-8) - A CHIP-8 Emulator written in Haskell
+* [sebfisch/haskell-regexp](https://github.com/sebfisch/haskell-regexp) - Regular Expression Matching in Haskell
+* [nh2/hemokit](https://github.com/nh2/hemokit) - Haskell library for the Emotiv EEG, inspired by the Emokit code
+* [lpeterse/haskell-mqtt](https://github.com/lpeterse/haskell-mqtt) - An MQTT protocol implementation (client and server)
+* [jhedev/todobackend-haskell](https://github.com/jhedev/todobackend-haskell) - Todobackend implementations in Haskell using various frameworks
+* [jaspervdj/number-six](https://github.com/jaspervdj/number-six) - Number Six is a sexy Haskell IRC bot.
+* [hansonkd/Wheb-Framework](https://github.com/hansonkd/Wheb-Framework) - Haskell WAI Framework
+* [Gabriel439/Haskell-Server-Generic-Library](https://github.com/Gabriel439/Haskell-Server-Generic-Library) - Auto-generate a server for your datatype
+* [ekmett/transients](https://github.com/ekmett/transients) - Clojure-style transients for Haskell
+* [dom96/SimpleIRC](https://github.com/dom96/SimpleIRC) - IRC Library for Haskell
+* [Daniel-Diaz/matrix](https://github.com/Daniel-Diaz/matrix) - A Haskell native implementation of matrices and their operations.
+* [haskoin/haskoin](https://github.com/haskoin/haskoin) - Haskell implementation of the Bitcoin protocol
 * [ollef/Earley](https://github.com/ollef/Earley) - Parsing all context-free grammars using Earley's algorithm in Haskell.
 * [DimaSamoz/mezzo](https://github.com/DimaSamoz/mezzo) - A Haskell library for typesafe music composition
 * [HaskVan/HaskellKoans](https://github.com/HaskVan/HaskellKoans) - Haskell Koans for the Vancouver's Haskell UnMeetup
@@ -134,765 +876,29 @@ A curated list of awesome Haskell frameworks, libraries and software.
 * [GaloisInc/haskell-tor](https://github.com/GaloisInc/haskell-tor) - A Haskell implementation of the Tor protocol.
 * [anton-k/ru-haskell-book](https://github.com/anton-k/ru-haskell-book) - учебник по Haskell
 * [haskell-graphql/graphql-api](https://github.com/haskell-graphql/graphql-api) - Write type-safe GraphQL services in Haskell
-* [hakaru-dev/hakaru](https://github.com/hakaru-dev/hakaru) - A probabilistic programming language
-* [haskell-tools/haskell-tools](https://github.com/haskell-tools/haskell-tools) - Developer tools for Haskell
-* [byorgey/haskell-course](https://github.com/byorgey/haskell-course) - Introductory Haskell course materials (originally CIS 194 @ UPenn)
-* [lukexi/halive](https://github.com/lukexi/halive) - Live recompiler for Haskell
-* [LambdaHack/LambdaHack](https://github.com/LambdaHack/LambdaHack) - Haskell game engine library for roguelike dungeon crawlers; try out the browser version at
-* [seliopou/typo](https://github.com/seliopou/typo) - A programming language that runs in Haskell's type system.
-* [haskell/hackage-server](https://github.com/haskell/hackage-server) - Hackage-Server: A Haskell Package Repository
-* [itchyny/sjsp](https://github.com/itchyny/sjsp) - Simple JavaScript Profiler
-* [lettier/gifcurry](https://github.com/lettier/gifcurry) - :point_right: Your open source video to GIF maker built with Haskell.
-* [bos/statistics](https://github.com/bos/statistics) - A fast, high quality library for computing with statistics in Haskell.
-* [jlouis/combinatorrent](https://github.com/jlouis/combinatorrent) - A bittorrent client written in Haskell
-* [informatikr/hedis](https://github.com/informatikr/hedis) - A Redis client library for Haskell.
-* [google/proto-lens](https://github.com/google/proto-lens) - API for protocol buffers using modern Haskell language and library patterns.
-* [michaelochurch/summer-2015-haskell-class](https://github.com/michaelochurch/summer-2015-haskell-class) - Summer 2015 Haskell Class
-* [k0ral/hbro](https://github.com/k0ral/hbro) - A minimal web-browser written and configured in Haskell.
-* [jgoerzen/twidge](https://github.com/jgoerzen/twidge) - Command-line twitter/identica client [Haskell]
-* [nstack/nstack](https://github.com/nstack/nstack) - Type-safe, composable microservices for data analytics
-* [reflex-frp/reflex-dom](https://github.com/reflex-frp/reflex-dom) -  Reflex FRP is a composable, cross-platform functional reactive programming framework for Haskell. It allows you to build interactive components in pure functional style, working in harmony with established Haskell techniques and improving the quality and elegance of your applications.
-* [haskell-game/sdl2](https://github.com/haskell-game/sdl2) - Haskell bindings to the SDL2 library
-* [justinethier/husk-scheme](https://github.com/justinethier/husk-scheme) - A practical implementation of the Scheme programming language for the Haskell Platform.
-* [commercialhaskell/haskelldocumentation](https://github.com/commercialhaskell/haskelldocumentation) - Repository for collaborative Haskell documentation
-* [ivanperez-keera/haskanoid](https://github.com/ivanperez-keera/haskanoid) - A breakout game in Haskell using SDL and FRP, with Wiimote and Kinect support.
-* [simonmar/parconc-examples](https://github.com/simonmar/parconc-examples) - Sample code to accompany the book "Parallel and Concurrent Programming in Haskell"
-* [simonmar/par-tutorial](https://github.com/simonmar/par-tutorial) - A tutorial on Parallel and Concurrent Haskell
-* [llvm-hs/llvm-hs](https://github.com/llvm-hs/llvm-hs) - Haskell bindings for LLVM
-* [exercism/haskell](https://github.com/exercism/haskell) - Exercism exercises in Haskell.
-* [tommythorn/Reduceron](https://github.com/tommythorn/Reduceron) - FPGA Haskell machine with game changing performance. Reduceron is Matthew Naylor, Colin Runciman and Jason Reich's high performance FPGA softcore for running lazy functional programs, including hardware garbage collection.  Reduceron has been implemented on various FPGAs with clock frequency ranging from 60 to 150 MHz depending on the FPGA.  A high degree of parallelism allows Reduceron to implement graph evaluation very efficiently. This fork aims to continue development on this, with a view to practical applications. Comments, questions, etc are welcome.
-* [k-bx/owlcloud](https://github.com/k-bx/owlcloud) - OwnCloud for owls done via The Microservice Architecture
-* [jyh1/mmaclone](https://github.com/jyh1/mmaclone) - A simple Wolfram Language clone in Haskell
-* [passy/givegif](https://github.com/passy/givegif) - GIFs on the command line
-* [aristidb/aws](https://github.com/aristidb/aws) - Amazon Web Services for Haskell
-* [fujimura/hi](https://github.com/fujimura/hi) - Generate scaffold for a Haskell project
-* [chrisdone/vado](https://github.com/chrisdone/vado) - A web browser engine written in Haskell
-* [spell-music/csound-expression](https://github.com/spell-music/csound-expression) - Haskell Framework for Electronic Music
-* [m4dc4p/cheatsheet](https://github.com/m4dc4p/cheatsheet) - A Haskell CheatSheet in PDF and literate source formats.
-* [ekmett/quine](https://github.com/ekmett/quine) - haskell, opengl, toy project
-* [khibino/haskell-relational-record](https://github.com/khibino/haskell-relational-record) - This repository includes a joined query generator based on typefull relational algebra, and mapping tools between SQL values list and Haskell record type.
-* [VinylRecords/Vinyl](https://github.com/VinylRecords/Vinyl) - Extensible Records for Haskell. Pull requests welcome! Come visit us on #vinyl on freenode.
-* [nominolo/scion](https://github.com/nominolo/scion) - IDE library for Haskell based on the GHC API.
-* [acid-state/acid-state](https://github.com/acid-state/acid-state) - Add ACID guarantees to any serializable Haskell data structure
-* [blitzcode/hue-dashboard](https://github.com/blitzcode/hue-dashboard) - A web interface for monitoring and controlling Philips Hue lights
-* [grin-tech/grin](https://github.com/grin-tech/grin) - GRIN is a compiler back-end for lazy functional languages with whole program optimisation support
-* [lehins/massiv](https://github.com/lehins/massiv) - Efficient Haskell Arrays featuring Parallel computation
-* [lpsmith/postgresql-simple](https://github.com/lpsmith/postgresql-simple) - Mid-level client library for accessing PostgreSQL from Haskell
-* [kazu-yamamoto/unit-test-example](https://github.com/kazu-yamamoto/unit-test-example) - Unit test example for Haskell
-* [haskell/network](https://github.com/haskell/network) - Low-level networking interface
-* [facebookarchive/lex-pass](https://github.com/facebookarchive/lex-pass) - manipulate a php codebase using haskell to transform the abstract-syntax-tree
-* [hercules-ci/hercules](https://github.com/hercules-ci/hercules) - Continuous Integration for Nix projects
-* [lettier/movie-monad](https://github.com/lettier/movie-monad) - :tv: A free and simple to use video player made with Haskell.
-* [jonascarpay/apecs](https://github.com/jonascarpay/apecs) - a fast, type driven, extensible ECS for game development
-* [mikeizbicki/HerbiePlugin](https://github.com/mikeizbicki/HerbiePlugin) - GHC plugin that improves Haskell code's numerical stability
-* [CIFASIS/QuickFuzz](https://github.com/CIFASIS/QuickFuzz) - An experimental grammar fuzzer in Haskell using QuickCheck
-* [mrkgnao/silica](https://github.com/mrkgnao/silica) - optics for Haskell with the most amazing type errors you've seen
-* [ivanperez-keera/Yampa](https://github.com/ivanperez-keera/Yampa) - Functional Reactive Programming domain-specific language embedded in Haskell, for programming hybrid (mixed discrete-time and continuous-time) systems.
-* [fimad/scalpel](https://github.com/fimad/scalpel) - A high level web scraping library for Haskell.
-* [Twinside/Juicy.Pixels](https://github.com/Twinside/Juicy.Pixels) - Haskell library to load & save pictures
-* [ndmitchell/tagsoup](https://github.com/ndmitchell/tagsoup) - Haskell library for parsing and extracting information from (possibly malformed) HTML/XML documents
-* [haskell/text](https://github.com/haskell/text) - An efficient packed, immutable Unicode text type for Haskell, with a powerful loop fusion optimization framework.
-* [composewell/streamly](https://github.com/composewell/streamly) - Beautiful Streaming, Concurrent and Reactive Composition (Haskell)
-* [sweirich/dth](https://github.com/sweirich/dth) - Examples of Dependently-typed programs in Haskell
-* [jtdaugherty/vty](https://github.com/jtdaugherty/vty) - A high-level ncurses alternative written in Haskell
-* [morphismtech/squeal](https://github.com/morphismtech/squeal) - Squeal, a deep embedding of SQL in Haskell
-* [jaspervdj/blaze-html](https://github.com/jaspervdj/blaze-html) - A blazingly fast HTML combinator library for Haskell.
-* [lambdacube3d/lambdacube-edsl](https://github.com/lambdacube3d/lambdacube-edsl) - Previous version of LambdaCube 3D as Embedded Domain Specific Language in Haskell. Check the latest system:
-* [def-/gifstream](https://github.com/def-/gifstream) - Make interactive games in Haskell using GIF streams that can be shown in the web browser
-* [snowleopard/hadrian](https://github.com/snowleopard/hadrian) - Hadrian: a new build system for the Glasgow Haskell Compiler
-* [neovimhaskell/nvim-hs](https://github.com/neovimhaskell/nvim-hs) - Neovim API for Haskell plugins as well as the plugin provider
-* [brendanhay/gogol](https://github.com/brendanhay/gogol) - A comprehensive Google Services SDK for Haskell.
-* [lotz84/haskell](https://github.com/lotz84/haskell) - Haskell 俯瞰まとめ
-* [takeoutweight/shade](https://github.com/takeoutweight/shade) - Interactive, client-side web apps in Haskell
-* [adscib/monad-bayes](https://github.com/adscib/monad-bayes) - A library for probabilistic programming in Haskell.
-* [jdnavarro/graphql-haskell](https://github.com/jdnavarro/graphql-haskell) - Haskell GraphQL implementation
-* [harpocrates/inline-rust](https://github.com/harpocrates/inline-rust) - Use snippets of Rust inline in your Haskell programs
-* [haskell-hvr/cassava](https://github.com/haskell-hvr/cassava) - A CSV parsing and encoding library optimized for ease of use and high performance
-* [joshcough/HaskellStarter](https://github.com/joshcough/HaskellStarter) - A project that demonstrates getting up and running with Haskell.
-* [denisshevchenko/ohaskell.guide](https://github.com/denisshevchenko/ohaskell.guide) - Ваша первая книга о языке Haskell
-* [ekmett/linear](https://github.com/ekmett/linear) - Low-dimensional linear algebra primitives for Haskell.
-* [sdiehl/tinyjit](https://github.com/sdiehl/tinyjit) - Haskell JIT
-* [twittner/zeromq-haskell](https://github.com/twittner/zeromq-haskell) - This repository has been moved to https://gitlab.com/twittner/zeromq-haskell
-* [ekmett/hask](https://github.com/ekmett/hask) - Category theory for Haskell with a lens flavor (you need GHC 7.8.3, not 7.8.2 to build this!)
-* [chrisdone/hulk](https://github.com/chrisdone/hulk) - Haskell IRC daemon.
-* [corsis/PortFusion](https://github.com/corsis/PortFusion) - Haskell-powered cross-platform transport-layer distributed reverse / forward proxy & tunneling solution – currently available for all TCP protocols (RDP, VNC, HTTP(S), SSH, ...).
-* [goldfirere/singletons](https://github.com/goldfirere/singletons) - Fake dependent types in Haskell using singletons
-* [mchakravarty/language-c-inline](https://github.com/mchakravarty/language-c-inline) - Inline C & Objective-C in Haskell
-* [tweag/inline-java](https://github.com/tweag/inline-java) - Haskell/Java interop via inline Java code in Haskell modules.
-* [Gabriel439/Haskell-Optparse-Generic-Library](https://github.com/Gabriel439/Haskell-Optparse-Generic-Library) - Auto-generate a command-line parser for your datatype
-* [mstksg/auto](https://github.com/mstksg/auto) - Haskell DSL and platform providing denotational, compositional api for discrete-step, locally stateful, interactive programs, games & automations.  http://hackage.haskell.org/package/auto
-* [egonSchiele/chips](https://github.com/egonSchiele/chips) - A clone of Chips Challenge in Haskell
-* [kallisti-dev/hs-webdriver](https://github.com/kallisti-dev/hs-webdriver) - A Haskell client for the Selenium WebDriver protocol.
-* [Gabriel439/Haskell-Typed-Spreadsheet-Library](https://github.com/Gabriel439/Haskell-Typed-Spreadsheet-Library) - Typed and composable spreadsheets
-* [bos/critbit](https://github.com/bos/critbit) - A Haskell implementation of crit-bit trees.
-* [ajhc/ajhc](https://github.com/ajhc/ajhc) - A fork of jhc. And also a Haskell compiler.
-* [Lemmih/lhc](https://github.com/Lemmih/lhc) - The LLVM LHC Haskell Optimization System
-* [haskell-suite/haskell-src-exts](https://github.com/haskell-suite/haskell-src-exts) - Manipulating Haskell source: abstract syntax, lexer, parser, and pretty-printer
-* [simonmar/alex](https://github.com/simonmar/alex) - A lexical analyser generator for Haskell
-* [bscarlet/llvm-general](https://github.com/bscarlet/llvm-general) - Rich LLVM bindings for Haskell (with transfer of LLVM IR to and from C++, detailed compilation pass control, etc.)
-* [w7cook/AoPL](https://github.com/w7cook/AoPL) - A book on programming languages, using Haskell
-* [mvdan/hint](https://github.com/mvdan/hint) - Runtime Haskell interpreter
-* [mchakravarty/HaskellSpriteKit](https://github.com/mchakravarty/HaskellSpriteKit) - Haskell binding to Apple's SpriteKit framework
-* [abailly/aws-lambda-haskell](https://github.com/abailly/aws-lambda-haskell) - Running Haskell code on AWS Lambda
-* [mthom/shentong](https://github.com/mthom/shentong) - A Haskell implementation of the Shen programming language.
-* [gtk2hs/gtk2hs](https://github.com/gtk2hs/gtk2hs) - GUI library for Haskell based on GTK+
-* [haskell/HTTP](https://github.com/haskell/HTTP) - Haskell HTTP package
-* [himura/twitter-conduit](https://github.com/himura/twitter-conduit) - Twitter API package for Haskell, including enumerator interfaces and Streaming API supports.
-* [suhailshergill/extensible-effects](https://github.com/suhailshergill/extensible-effects) - Extensible Effects: An Alternative to Monad Transformers
-* [hasktorch/hasktorch](https://github.com/hasktorch/hasktorch) - Tensors and neural networks in Haskell
-* [haskelllive/haskelllive](https://github.com/haskelllive/haskelllive) - Source code of the Haskell Live episodes.
-* [snoyberg/haskellers](https://github.com/snoyberg/haskellers) - haskellers.com site
-* [honza/redish](https://github.com/honza/redish) - A multi-threaded, TCP, key-value store inspired by Redis implemented in Haskell.
-* [haskell/c2hs](https://github.com/haskell/c2hs) - c2hs is a pre-processor for Haskell FFI bindings to C libraries
-* [quchen/prettyprinter](https://github.com/quchen/prettyprinter) - A modern, extensible and well-documented prettyprinter.
-* [ocharles/engine.io](https://github.com/ocharles/engine.io) - A Haskell server implementation of the Engine.IO and Socket.IO (1.0) protocols
-* [leepike/Copilot](https://github.com/leepike/Copilot) - A (Haskell DSL) stream language for generating hard real-time C code.
-* [lambdabot/lambdabot](https://github.com/lambdabot/lambdabot) - A friendly IRC bot and apprentice coder, written in Haskell.
-* [mrkkrp/req](https://github.com/mrkkrp/req) - Easy-to-use, type-safe, expandable, high-level HTTP client library
-* [klappvisor/haskell-telegram-api](https://github.com/klappvisor/haskell-telegram-api) - Telegram Bot API for Haskell
-* [Daniel-Diaz/HaTeX](https://github.com/Daniel-Diaz/HaTeX) - The Haskell LaTeX library.
-* [flannelhead/blackstar](https://github.com/flannelhead/blackstar) - A black hole raytracer written in Haskell
-* [haskell/mtl](https://github.com/haskell/mtl) - The Monad Transformer Library
-* [Paczesiowa/hsenv](https://github.com/Paczesiowa/hsenv) - Virtual Haskell Environment builder
-* [wellposed/numerical](https://github.com/wellposed/numerical) - Numerical is the core library for Numerical Haskell
-* [jekor/redo](https://github.com/jekor/redo) - djb's redo implementation in Haskell (for Haskell from Scratch video series)
-* [egonSchiele/HandsomeSoup](https://github.com/egonSchiele/HandsomeSoup) - Easy HTML parsing for Haskell
-* [bjpop/language-python](https://github.com/bjpop/language-python) - A parser for Python 2.x and 3.x written in Haskell
-* [tfausak/haskeleton](https://github.com/tfausak/haskeleton) - :skull: A Haskell package skeleton.
-* [seagreen/plate](https://github.com/seagreen/plate) - Experiment only, don't actually use.
-* [bos/configurator](https://github.com/bos/configurator) - A Haskell library supporting flexible, dynamic file-based configuration.
-* [samtay/tetris](https://github.com/samtay/tetris) - A terminal interface for Tetris
-* [1HaskellADay/1HAD](https://github.com/1HaskellADay/1HAD) - 1 Haskell A Day exercises
-* [NixOS/cabal2nix](https://github.com/NixOS/cabal2nix) - Generate Nix build instructions from a Cabal file
-* [advancedtelematic/quickcheck-state-machine](https://github.com/advancedtelematic/quickcheck-state-machine) - Test monadic programs using state machine based models
-* [RefactoringTools/HaRe](https://github.com/RefactoringTools/HaRe) - The Haskell Refactoring Tool
-* [haskell-opengl/OpenGL](https://github.com/haskell-opengl/OpenGL) - Haskell bindings to OpenGL
-* [gwentacle/wisp](https://github.com/gwentacle/wisp) - small-but-featureful embeddable lisp interpreter written in haskell.
-* [fbsamples/ghc-hotswap](https://github.com/fbsamples/ghc-hotswap) - Example code for how we swap compiled code within a running Haskell process.
-* [derekmcloughlin/pearls](https://github.com/derekmcloughlin/pearls) - Pearls of Functional Algorithm Design by Richard Bird - Haskell Code
-* [winterland1989/magic-haskell](https://github.com/winterland1989/magic-haskell) - 魔力haskell官方网站
-* [ocharles/micro-ci](https://github.com/ocharles/micro-ci) - A tiny CI server built around GitHub and Nix
-* [katychuang/getting-started-with-haskell](https://github.com/katychuang/getting-started-with-haskell) - notes on where to find Haskell tutorials and tips to complete them
-* [jxv/dino-rush](https://github.com/jxv/dino-rush) - 🌋 Endless runner game
-* [alpmestan/hnn](https://github.com/alpmestan/hnn) - haskell neural network library
-* [well-typed/cborg](https://github.com/well-typed/cborg) - Binary serialisation in the CBOR format
-* [vimus/vimus](https://github.com/vimus/vimus) - An MPD client with vim-like key bindings, written in Haskell
-* [jgm/texmath](https://github.com/jgm/texmath) - A Haskell library for converting LaTeX math to MathML.
-* [frontrowed/stratosphere](https://github.com/frontrowed/stratosphere) - Haskell EDSL and type-checker for AWS CloudFormation templates
-* [wavewave/hoodle](https://github.com/wavewave/hoodle) - hoodle : A pen notetaking program written in haskell
-* [Soostone/hadron](https://github.com/Soostone/hadron) - Construct and run Hadoop MapReduce programs in Haskell
-* [bollu/tiny-optimising-compiler](https://github.com/bollu/tiny-optimising-compiler) - A tiny *optimising* compiler for an imperative programming language written in haskell
-* [rdnetto/powerline-hs](https://github.com/rdnetto/powerline-hs) - A lightning fast reimplementation of the Powerline prompt generator in Haskell.
-* [msgpack/msgpack-haskell](https://github.com/msgpack/msgpack-haskell) - Haskell implementation of MessagePack / msgpack.org[Haskell]
-* [Soostone/katip](https://github.com/Soostone/katip) - A structured logging framework for Haskell
-* [krisajenkins/elm-export](https://github.com/krisajenkins/elm-export) - Create Elm types and JSON decoders from Haskell source.
-* [erikd/language-javascript](https://github.com/erikd/language-javascript) - Parser for JavaScript, in Haskell
-* [opqdonut/haskell-exercises](https://github.com/opqdonut/haskell-exercises) - Haskell exercises with automatic tests
-* [meiersi/blaze-react](https://github.com/meiersi/blaze-react) - A blaze-html style ReactJS binding for Haskell using GHCJS
-* [LumiGuide/haskell-opencv](https://github.com/LumiGuide/haskell-opencv) - Haskell binding to OpenCV-3.x
-* [palf/haskell-sdl2-examples](https://github.com/palf/haskell-sdl2-examples) - SDL2 tutorial code in Haskell
-* [mzero/haskell-amuse-bouche](https://github.com/mzero/haskell-amuse-bouche) - A short technical talk about some fun things in Haskell
-* [phaazon/luminance](https://github.com/phaazon/luminance) - Type-safe, type-level and stateless Haskell graphics framework
-* [keera-studios/haskell-game-programming](https://github.com/keera-studios/haskell-game-programming) - A central repository of Haskell Game Programming resources, put together by Keera Studios
-* [haskell-mafia/mafia](https://github.com/haskell-mafia/mafia) - Provides protection against cabal swindling, robbing, injuring or sabotaging people with chopsticks.
-* [bos/llvm](https://github.com/bos/llvm) - Haskell bindings to the LLVM compiler infrastructure project.
-* [zoomhub/zoomhub](https://github.com/zoomhub/zoomhub) - Share and view high-resolution images effortlessly
-* [mstksg/backprop](https://github.com/mstksg/backprop) - Heterogeneous automatic differentiation ("backpropagation") in Haskell
-* [kazu-yamamoto/logger](https://github.com/kazu-yamamoto/logger) - A fast logging system for Haskell
-* [hreinhardt/amqp](https://github.com/hreinhardt/amqp) - Haskell AMQP client library
-* [hkgumbs/codec-beam](https://github.com/hkgumbs/codec-beam) - Generate Erlang VM byte code from Haskell
-* [GaloisInc/HaNS](https://github.com/GaloisInc/HaNS) - The haskell network stack
-* [barrucadu/dejafu](https://github.com/barrucadu/dejafu) - Systematic concurrency testing meets Haskell.
-* [AccelerateHS/accelerate-llvm](https://github.com/AccelerateHS/accelerate-llvm) - LLVM backend for Accelerate
-* [saschagrunert/nn](https://github.com/saschagrunert/nn) - A tiny neural network 🧠
-* [boothead/oHm](https://github.com/boothead/oHm) - Om with Haskell in it
-* [Yuras/pdf-toolbox](https://github.com/Yuras/pdf-toolbox) - A collection of tools for processing PDF files in Haskell
-* [haskell/fgl](https://github.com/haskell/fgl) - A Functional Graph Library for Haskell
-* [UweSchmidt/hxt](https://github.com/UweSchmidt/hxt) - Haskell XML Toolbox
-* [ucsd-progsys/elsa](https://github.com/ucsd-progsys/elsa) - Elsa is a lambda calculus evaluator
-* [simonmar/happy](https://github.com/simonmar/happy) - The Happy parser generator for Haskell
-* [mattjbray/servant-elm](https://github.com/mattjbray/servant-elm) - Automatically derive Elm functions to query servant webservices
-* [aisamanra/rust-haskell-ffi](https://github.com/aisamanra/rust-haskell-ffi) - Toy example of calling Rust from Haskell
-* [neurocyte/android-haskell-activity](https://github.com/neurocyte/android-haskell-activity) - An example of an Android Activity written in Haskell
 * [spoqa/nirum](https://github.com/spoqa/nirum) -  Nirum: IDL compiler and RPC/distributed object framework for microservices
-* [seek-oss/serverless-haskell](https://github.com/seek-oss/serverless-haskell) - Deploying Haskell applications to AWS Lambda with Serverless
-* [jyp/styx](https://github.com/jyp/styx) - A nix-based Haskell project manager
-* [jspahrsummers/ObjectiveHaskell](https://github.com/jspahrsummers/ObjectiveHaskell) - Tools for making it easier to integrate Haskell and Objective-C.
-* [haskell-gi/haskell-gi](https://github.com/haskell-gi/haskell-gi) - Generate Haskell bindings for GObject-Introspection capable libraries
-* [rodrigosetti/master-plan](https://github.com/rodrigosetti/master-plan) - Project Management for Hackers
-* [lymar/hastache](https://github.com/lymar/hastache) - Haskell implementation of Mustache template
-* [alanz/haskell-lsp](https://github.com/alanz/haskell-lsp) - Haskell library for the Microsoft Language Server Protocol
-* [mvoidex/hsdev](https://github.com/mvoidex/hsdev) - Haskell development tool
-* [feuerbach/smallcheck](https://github.com/feuerbach/smallcheck) - smallcheck: test your Haskell code by exhaustively checking its properties
-* [dmjio/stripe](https://github.com/dmjio/stripe) - :moneybag: Stripe API
-* [talw/crisp-compiler](https://github.com/talw/crisp-compiler) - A compiler for Crisp (Lisp/Scheme-inspired language) in Haskell, with an LLVM backend
-* [mongodb-haskell/mongodb](https://github.com/mongodb-haskell/mongodb) - MongoDB driver for Haskell
-* [egonSchiele/dominion](https://github.com/egonSchiele/dominion) - A Dominion simulator in Haskell
-* [alsonkemp/turbinado](https://github.com/alsonkemp/turbinado) - MVC Web Framework for Haskell.  See http://github.com/turbinado/turbinado-website for example code
-* [boundedvariation/quantfin](https://github.com/boundedvariation/quantfin) - quant finance in pure haskell
-* [AtnNn/haskell-rethinkdb](https://github.com/AtnNn/haskell-rethinkdb) - RethinkDB client library for Haskell
-* [tfausak/flow](https://github.com/tfausak/flow) - :droplet: Write more understandable Haskell.
-* [smallhadroncollider/ascii-runner](https://github.com/smallhadroncollider/ascii-runner) - An infinite runner in your terminal
-* [kowainik/summoner](https://github.com/kowainik/summoner) - 🔮 🔧 Tool for creating completely configured production Haskell projects
-* [kazu-yamamoto/recursion-drill](https://github.com/kazu-yamamoto/recursion-drill) - Drill to study recursive programming in Haskell
-* [judah/haskeline](https://github.com/judah/haskeline) - A Haskell library for line input in command-line programs.
-* [hdbc/hdbc](https://github.com/hdbc/hdbc) - Haskell Database Connectivity
-* [gregorycollins/hashtables](https://github.com/gregorycollins/hashtables) - Mutable hash tables for Haskell, in the ST monad
-* [brunjlar/neural](https://github.com/brunjlar/neural) - Neural Nets in native Haskell
-* [snapframework/heist](https://github.com/snapframework/heist) - An xhtml-based templating engine, allowing Haskell functions to be bound to XML tags.
-* [grpc/grpc-haskell](https://github.com/grpc/grpc-haskell) - gRPC library binding for Haskell.
-* [bollu/cellularAutomata](https://github.com/bollu/cellularAutomata) - a collection of cellular automata written in Haskell with Diagrams
-* [airalab/hs-web3](https://github.com/airalab/hs-web3) - Ethereum API for Haskell.
-* [well-typed/generics-sop](https://github.com/well-typed/generics-sop) - Generic Programming using True Sums of Products
-* [wavewave/fficxx](https://github.com/wavewave/fficxx) - Haskell-C++ Foreign Function Interface Generator
-* [gregorulm/h2048](https://github.com/gregorulm/h2048) - An implementation of the game 2048 in Haskell
-* [dpp/LispHaskellIPad](https://github.com/dpp/LispHaskellIPad) - An iPad app that's a Lisp interpretter... written in Haskell (heh heh heh)
-* [albertoruiz/easyVision](https://github.com/albertoruiz/easyVision) - Haskell packages for computer vision, image processing, and pattern recognition
-* [I3ck/HGE2D](https://github.com/I3ck/HGE2D) - 2D game engine written in Haskell
-* [haskellnews/haskellnews](https://github.com/haskellnews/haskellnews) - An aggregation of all online content related to Haskell.
-* [snowdriftcoop/snowdrift](https://github.com/snowdriftcoop/snowdrift) - Infrastructure for Snowdrift.coop. This is a MIRROR of https://git.snowdrift.coop/sd/snowdrift. Your issue reports and merge requests are welcome, but they will be moved to git.snowdrift.coop. You are encouraged to start there instead!
-* [snapframework/io-streams](https://github.com/snapframework/io-streams) - Simple, composable, and easy-to-use stream I/O for Haskell
-* [lspitzner/exference](https://github.com/lspitzner/exference) - Haskell tool to generate expressions from types
-* [bos/pool](https://github.com/bos/pool) - A high-performance striped resource pooling implementation for Haskell
-* [syocy/a-tour-of-go-in-haskell](https://github.com/syocy/a-tour-of-go-in-haskell) - Write "Concurrency" section of "A Tour of Go" in Haskell
-* [rubik/argon](https://github.com/rubik/argon) - Monitor cyclomatic complexity in Haskell programs
-* [nomeata/inspection-testing](https://github.com/nomeata/inspection-testing) - Inspection Testing for Haskell
-* [k0001/safe-money](https://github.com/k0001/safe-money) - Haskell library for type-safe and lossless encoding and manipulation of world currencies and precious metals
-* [janrain/riak-haskell-client](https://github.com/janrain/riak-haskell-client) - A fast Haskell client library for the Riak decentralized data store
-* [Gabriel439/Haskell-Foldl-Library](https://github.com/Gabriel439/Haskell-Foldl-Library) - Composable, streaming, and efficient left folds
-* [danielwaterworth/siege](https://github.com/danielwaterworth/siege) - [DEPRECATED] A DBMS written in Haskell
-* [cyga/real-world-haskell](https://github.com/cyga/real-world-haskell) - parser for code samples from the book "real world haskell" (http://book.realworldhaskell.org/read/)
-* [rrnewton/haskell-lockfree](https://github.com/rrnewton/haskell-lockfree) - A collection of different packages for CAS based data structures.
-* [haskell-fswatch/hfsnotify](https://github.com/haskell-fswatch/hfsnotify) - Unified Haskell interface for basic file system notifications
-* [serokell/importify](https://github.com/serokell/importify) - :space_invader: Importi.fy — it's like Uber, but for Haskell modules.
-* [jcollard/unm-hip](https://github.com/jcollard/unm-hip) - The University of New Mexico's Haskell Image Processing Library
-* [freizl/hoauth2](https://github.com/freizl/hoauth2) - haskell oauth2 binding
-* [donya/Kulitta](https://github.com/donya/Kulitta) - A Haskell-based library for algorithmic and automated composition. This library was the subject of my dissertation at Yale university and is the subject of my ongoing work.
-* [danstiner/hfmt](https://github.com/danstiner/hfmt) - Format Haskell programs. Inspired by the gofmt utility.
-* [bkirwi/ethereum-haskell](https://github.com/bkirwi/ethereum-haskell) - An independent reimplementation of Ethereum in Haskell
-* [alphaHeavy/protobuf](https://github.com/alphaHeavy/protobuf) - An implementation of Google's Protocol Buffers in Haskell.
-* [nandor/hcraft](https://github.com/nandor/hcraft) - Haskell clone of a certain game
-* [MedeaMelana/Magic](https://github.com/MedeaMelana/Magic) - Haskell implementation of Magic: The Gathering
-* [keera-studios/keera-hails](https://github.com/keera-studios/keera-hails) - Keera Hails: Haskell on Rails - Reactive Programming Framework for Interactive Haskell applications
-* [diffusionkinetics/open](https://github.com/diffusionkinetics/open) - DiffusionKinetics open-source monorepo
-* [clckwrks/clckwrks](https://github.com/clckwrks/clckwrks) - A Haskell CMS platform
-* [cdepillabout/pretty-simple](https://github.com/cdepillabout/pretty-simple) - pretty-printer for Haskell data types that have a Show instance
-* [tanakh/Peggy](https://github.com/tanakh/Peggy) - The Parser Generator for Haskell
-* [jberryman/unagi-chan](https://github.com/jberryman/unagi-chan) - A haskell library implementing fast and scalable concurrent queues for x86, with a Chan-like API
-* [hailstorm-hs/hailstorm](https://github.com/hailstorm-hs/hailstorm) - Haskell distributed stream processing with exactly-once semantics
-* [aviaviavi/cryptocompare](https://github.com/aviaviavi/cryptocompare) - Haskell wrapper for the CryptoCompare API, a source of crypto-currency information and price data
-* [alexandersgreen/qio-haskell](https://github.com/alexandersgreen/qio-haskell) - The Quantum IO Monad, implemented in Haskell
-* [winterland1989/mysql-haskell](https://github.com/winterland1989/mysql-haskell) -  Pure haskell mysql driver
-* [qrilka/xlsx](https://github.com/qrilka/xlsx) - Simple and incomplete Excel file parser/writer
-* [MichaelBurge/haskoin](https://github.com/MichaelBurge/haskoin) - Proof-of-concept Blockchain in Haskell
-* [dmvianna/haskellbook](https://github.com/dmvianna/haskellbook) - Exercise solutions for haskellbook.com
-* [dmjio/envy](https://github.com/dmjio/envy) - :angry: Environmentally friendly environment variables
-* [dfinity/dhc](https://github.com/dfinity/dhc) - Compiles Haskell to WebAssembly
-* [augustss/djinn](https://github.com/augustss/djinn) - Generate Haskell code from a type
-* [acowley/roshask](https://github.com/acowley/roshask) - Haskell client library for the ROS robotics framework.
-* [willdonnelly/dyre](https://github.com/willdonnelly/dyre) - A Dynamic Reconfiguration Library for Haskell Programs
-* [dmbarbour/haskell-vcache](https://github.com/dmbarbour/haskell-vcache) - large, persistent, memcached values and structure sharing for Haskell
-* [chris-taylor/Classical-Mechanics](https://github.com/chris-taylor/Classical-Mechanics) - Haskell toolbox for research and teaching in classical mechanics. Includes modules for symbolic algebra and automatic differentiation.
-* [awakesecurity/gRPC-haskell](https://github.com/awakesecurity/gRPC-haskell) - Haskell gRPC support
-* [nanotech/swift-haskell-tutorial](https://github.com/nanotech/swift-haskell-tutorial) - Integrating Haskell with Swift Mac Apps
-* [m4dc4p/haskelldb](https://github.com/m4dc4p/haskelldb) - A library for building re-usable and composable SQL queries.
-* [jfeltz/dash-haskell](https://github.com/jfeltz/dash-haskell) - dash docset builder for Haskell packages and cabal project dependencies
-* [JakeWheat/hssqlppp](https://github.com/JakeWheat/hssqlppp) - sql parser and type checker in haskell
-* [ekmett/reflection](https://github.com/ekmett/reflection) - Reifies arbitrary Haskell terms into types that can be reflected back into terms
-* [ChrisPenner/eve](https://github.com/ChrisPenner/eve) - An extensible event-driven application framework in haskell
-* [bitc/lushtags](https://github.com/bitc/lushtags) - Create ctags compatible tags files for Haskell programs
-* [ekmett/coda](https://github.com/ekmett/coda) - A language experiment, something to do on my vacation -- irc.freenode.net ##coda
-* [composewell/streaming-benchmarks](https://github.com/composewell/streaming-benchmarks) - Benchmarks to compare Haskell streaming library performance
-* [Twinside/Rasterific](https://github.com/Twinside/Rasterific) - A drawing engine in Haskell
-* [sdiehl/zurihac-crypto](https://github.com/sdiehl/zurihac-crypto) - Small minimal examples of modern cryptographic techniques in Haskell
-* [Nike-Inc/bartlett](https://github.com/Nike-Inc/bartlett) - A simple Jenkins command line client to serve your needs.
-* [alephnullplex/cradle](https://github.com/alephnullplex/cradle) - Let's Build a Compiler (in Haskell)
-* [5outh/Bang](https://github.com/5outh/Bang) - A Drum Machine DSL for Haskell
-* [nominolo/lambdachine](https://github.com/nominolo/lambdachine) - VM and tracing JIT for Haskell (work in progress)
-* [MarcWeber/hasktags](https://github.com/MarcWeber/hasktags) - Produces ctags "tags" and etags "TAGS" files for Haskell programs
-* [hlian/linklater](https://github.com/hlian/linklater) - A Haskell library for the Slack API (including real-time messaging!)
-* [Gabriel439/Haskell-Annah-Library](https://github.com/Gabriel439/Haskell-Annah-Library) - Distributed programming language that desugars to Morte
-* [drummyfish/haskell_game](https://github.com/drummyfish/haskell_game) - Wolfenstein 3D, ray-casting FPS game I make to learn Haskell. No libraries used, rendering is done in terminal.
-* [yav/graphmod](https://github.com/yav/graphmod) - A utility for displaying the module dependencies of Haskell programs.
-* [srid/slownews](https://github.com/srid/slownews) - 🐢 Bringing slow news for the nervous among us
-* [judah/pier](https://github.com/judah/pier) - Yet another Haskell build system.
-* [bgamari/b-tree](https://github.com/bgamari/b-tree) - Haskell on-disk B* tree implementation
-* [agrafix/funblog](https://github.com/agrafix/funblog) - A simple blog software written in Haskell
-* [YoEight/eventstore](https://github.com/YoEight/eventstore) - EventStore Haskell TCP Client
-* [nh2/haskell-cpu-instruction-counter](https://github.com/nh2/haskell-cpu-instruction-counter) - Measuring CPU instructions in Haskell using Linux Performance Counters
-* [mmirman/ImperativeHaskell](https://github.com/mmirman/ImperativeHaskell) - Proof that Haskell can look and act like an imperative language.
-* [haskell-haskey/haskey](https://github.com/haskell-haskey/haskey) - Transactional key-value store written entirely in Haskell
-* [hansroland/reflex-dom-inbits](https://github.com/hansroland/reflex-dom-inbits) - A tutorial for reflex-dom with small code bits
-* [goldfirere/units](https://github.com/goldfirere/units) - The home of the units Haskell package
-* [chrisnc/tangaroa](https://github.com/chrisnc/tangaroa) - A toy implementation of the Raft protocol in Haskell, with an experimental BFT variant.
-* [haskell/ThreadScope](https://github.com/haskell/ThreadScope) - A graphical tool for profiling parallel Haskell programs
-* [turtlesoupy/haskakafka](https://github.com/turtlesoupy/haskakafka) - Kafka bindings for Haskell
-* [thumphries/hgrep](https://github.com/thumphries/hgrep) - Search Haskell source code from the command line
-* [sol/tinc](https://github.com/sol/tinc) - A dependency manager for Haskell
-* [Paczesiowa/virthualenv](https://github.com/Paczesiowa/virthualenv) - Virtual Haskell Environment builder
-* [jgoerzen/missingh](https://github.com/jgoerzen/missingh) - Utility library [Haskell]
-* [jaredloomis/andromeda](https://github.com/jaredloomis/andromeda) - A GLSL code generating DSL embedded in Haskell
-* [HeinrichApfelmus/operational](https://github.com/HeinrichApfelmus/operational) - Implement monads by specifying instructions and their desired operational semantics.
-* [eckyputrady/haskell-scotty-realworld-example-app](https://github.com/eckyputrady/haskell-scotty-realworld-example-app) - Exemplary real world backend API built with Haskell/Scotty https://realworld.io
-* [def-/ghc-vis](https://github.com/def-/ghc-vis) - Visualize live Haskell data structures in GHCi
-* [bendyworks/api-server](https://github.com/bendyworks/api-server) - A JSON API server written in Haskell
-* [abooij/sudbury](https://github.com/abooij/sudbury) - Haskell implementation of the wayland protocol
-* [vincenthz/hs-gauge](https://github.com/vincenthz/hs-gauge) - Lean Haskell Benchmarking
-* [kolmodin/binary](https://github.com/kolmodin/binary) - Efficient, pure binary serialisation using ByteStrings in Haskell.
-* [glguy/irc-core](https://github.com/glguy/irc-core) - Haskell IRC library and console client - Join us on Freenode #haskell-irc
-* [Gabriel439/Haskell-Lens-Tutorial-Library](https://github.com/Gabriel439/Haskell-Lens-Tutorial-Library) - The missing tutorial module for the lens library
-* [eskimor/purescript-bridge](https://github.com/eskimor/purescript-bridge) - Create PureScript datatypes from Haskell datatypes
-* [ekmett/gl](https://github.com/ekmett/gl) - Complete raw OpenGL bindings for Haskell
-* [rnons/ted2srt](https://github.com/rnons/ted2srt) - Download bilingual subtitles of TED talks
-* [hdevtools/hdevtools](https://github.com/hdevtools/hdevtools) - Persistent GHC-powered background server for FAST haskell development tools
-* [fpco/weigh](https://github.com/fpco/weigh) - Measure allocations of a Haskell functions/values
-* [ChrisPenner/Firefly](https://github.com/ChrisPenner/Firefly) - Simple Haskell http framework
-* [fumieval/extensible](https://github.com/fumieval/extensible) - Extensible records, variants, structs, effects, tangles
-* [Russell91/pyfi](https://github.com/Russell91/pyfi) - PYthon Function Interface for haskell
-* [jgm/skylighting](https://github.com/jgm/skylighting) - A Haskell syntax highlighting library with tokenizers derived from KDE syntax highlighting descriptions
-* [algas/haskell-servant-cookbook](https://github.com/algas/haskell-servant-cookbook) - Haskell Servant Cookbook
-* [agrafix/elm-bridge](https://github.com/agrafix/elm-bridge) - Haskell: Derive Elm types from Haskell types
-* [kosmikus/lhs2tex](https://github.com/kosmikus/lhs2tex) - Preprocessor for typesetting Haskell sources with LaTeX
-* [jdreaver/eventful](https://github.com/jdreaver/eventful) - Event Sourcing library for Haskell
-* [iand675/haskell-checklist](https://github.com/iand675/haskell-checklist) - Preflight checklist for Haskell code. Aspire to greatness!
-* [crufter/haquery](https://github.com/crufter/haquery) - jQuery for Haskell
-* [xtendo-org/chips](https://github.com/xtendo-org/chips) - A fast, lightweight, and concurrent plugin manager for the fish shell, written in Haskell
-* [sol/markdown-unlit](https://github.com/sol/markdown-unlit) - Literate Haskell support for Markdown
-* [sebastiaanvisser/fclabels](https://github.com/sebastiaanvisser/fclabels) - First class composable record labels for Haskell.
-* [mgajda/json-autotype](https://github.com/mgajda/json-autotype) - Automatic Haskell type inference from JSON input
-* [intolerable/reddit](https://github.com/intolerable/reddit) - reddit api for haskell
-* [cpennington/h4sh](https://github.com/cpennington/h4sh) - Fork of Don Stewarts h4sh haskell shell scripts
-* [owainlewis/http-dispatch](https://github.com/owainlewis/http-dispatch) - A high level HTTP client for Haskell that focuses on ease of use
-* [2016rshah/heckle](https://github.com/2016rshah/heckle) - :black_nib: Jekyll in Haskell (feat. LaTeX)
-* [ifesdjeen/haskell-ffi-tutorial](https://github.com/ifesdjeen/haskell-ffi-tutorial) - A (missing) Haskell FFI tutorial: how to work with nested Structs and do bi-directional C<->Haskell interop
-* [IFCA/opencl](https://github.com/IFCA/opencl) - Haskell high-level wrapper for OpenCL
-* [frasertweedale/hs-jose](https://github.com/frasertweedale/hs-jose) - Haskell JOSE and JWT library
-* [tfausak/rattletrap](https://github.com/tfausak/rattletrap) - :car: Parse and generate Rocket League replays.
-* [lukasmartinelli/hwk](https://github.com/lukasmartinelli/hwk) - A Haskell based awk and sed alternative
-* [lexi-lambda/higher-rank](https://github.com/lexi-lambda/higher-rank) - A small Haskell implementation of Complete and Easy Bidirectional Typechecking for Higher-Rank Polymorphism
-* [jaspervdj/fugacious](https://github.com/jaspervdj/fugacious) - An example Haskell web application
-* [iu-parfunc/lvars](https://github.com/iu-parfunc/lvars) - The LVish Haskell library
-* [ice1000/Kt2Dart](https://github.com/ice1000/Kt2Dart) - :flashlight: [Deprecated] Transpile Kotlin codes into Dart, Make Flutter Great Again
-* [geekrelief/as3tohaxe](https://github.com/geekrelief/as3tohaxe) - An Actionscript 3 to haXe source converter written in Haskell
-* [soundcloud/haskell-kubernetes](https://github.com/soundcloud/haskell-kubernetes) - Haskell bindings to the v1 Kubernetes api, generated via swagger-codegen
-* [sol/reserve](https://github.com/sol/reserve) - Universal and robust reloading for Haskell web applications
-* [pietervdvn/Haskell](https://github.com/pietervdvn/Haskell) - Introduction to haskell
-* [nponeccop/HNC](https://github.com/nponeccop/HNC) - HN Compiler
-* [Gabriel439/Haskell-MVC-Library](https://github.com/Gabriel439/Haskell-MVC-Library) - Model-view-controller
-* [Chase-C/Flocking-Simulation](https://github.com/Chase-C/Flocking-Simulation) - A 3D Boids-like flocking simulation coded in Haskell.
-* [alevy/postgresql-orm](https://github.com/alevy/postgresql-orm) - An Haskell ORM (Object Relational Mapping) and migrations DSL for PostgreSQL.
-* [adamwalker/sdr](https://github.com/adamwalker/sdr) - Software defined radio library in Haskell
-* [sjsyrek/study-haskell-nyc](https://github.com/sjsyrek/study-haskell-nyc) - Information about the "Haskell Programming from First Principles" reading group in NYC.
-* [serras/lambdaconf-2015-web](https://github.com/serras/lambdaconf-2015-web) - Projects for LambdaConf 2015 Haskell web workshop
 * [qfpl/hpython](https://github.com/qfpl/hpython) - Haskell language tools for Python
-* [mstksg/tensor-ops](https://github.com/mstksg/tensor-ops) - Type-safe tensor manipulation operations in Haskell with tensorflow-style automatic differentiation
-* [jtdaugherty/HaskellNet](https://github.com/jtdaugherty/HaskellNet) - Haskell library which provides client support for POP3, SMTP, and IMAP protocols.
-* [jekor/hesh](https://github.com/jekor/hesh) - Haskell Extensible Shell
-* [hspec/hspec-example](https://github.com/hspec/hspec-example) - A Haskell/Hspec skeleton project
-* [dorchard/effect-monad](https://github.com/dorchard/effect-monad) - Embeds effect systems in Haskell using 'parametric effect monads'
-* [colah/HaskSymb](https://github.com/colah/HaskSymb) - An Experiment in Haskell Symbolic Algebra
-* [stackbuilders/hapistrano](https://github.com/stackbuilders/hapistrano) - Deploy tool for Haskell applications, like Capistrano for Rails
-* [seanhess/robotquest](https://github.com/seanhess/robotquest) - RobotQuest is a MMO, programming game. Instead of playing RobotQuest directly, you write a program that plays it for you. Your program communicates with the game server API over HTTP by sending and receiving JSON messages. Written in HTML, Haskell, with MongoDB
-* [rainbyte/frag](https://github.com/rainbyte/frag) - Frag is a 3D first person shooting game written in Haskell, by Mun Hon Cheong
-* [ocramz/sparse-linear-algebra](https://github.com/ocramz/sparse-linear-algebra) - Numerical computation in native Haskell
-* [myfreeweb/magicbane](https://github.com/myfreeweb/magicbane) - A web framework that integrates Servant, EKG, fast-logger, wai-cli…
-* [gwern/mueval](https://github.com/gwern/mueval) - A secure sandboxed Haskell interpreter for pure function evaluation
-* [feuerbach/ansi-terminal](https://github.com/feuerbach/ansi-terminal) - ANSI terminal support for Haskell, with Windows compatibility
-* [xmonad/X11](https://github.com/xmonad/X11) - A Haskell binding to the X11 graphics library.
-* [serokell/universum](https://github.com/serokell/universum) - :milky_way: Prelude written in @Serokell
-* [ocramz/xeno](https://github.com/ocramz/xeno) - Fast Haskell XML parser
-* [mpickering/slack-api](https://github.com/mpickering/slack-api) - Haskell bindings to the Slack RTM API
-* [moonmaster9000/bird](https://github.com/moonmaster9000/bird) - A sinatra-ish framework written in haskell, riding on top of Hack
-* [LeventErkok/hArduino](https://github.com/LeventErkok/hArduino) - Control your Arduino board from Haskell, using the Firmata protocol
-* [k-bx/protocol-buffers](https://github.com/k-bx/protocol-buffers) - Haskell protocol-buffers package
-* [guillaume-nargeot/hpc-coveralls](https://github.com/guillaume-nargeot/hpc-coveralls) - coveralls.io support for haskell code coverage with hpc
-* [gonimo/gonimo](https://github.com/gonimo/gonimo) - gonimo application back & front
-* [denibertovic/docker-hs](https://github.com/denibertovic/docker-hs) - A Haskell library for the Docker Engine API
-* [vincenthz/language-java](https://github.com/vincenthz/language-java) - Java parser and printer for haskell
-* [rudymatela/fitspec](https://github.com/rudymatela/fitspec) - refine properties for testing Haskell programs
-* [rnons/shadowsocks-haskell](https://github.com/rnons/shadowsocks-haskell) - shadowsocks in haskell
-* [ngless-toolkit/ngless](https://github.com/ngless-toolkit/ngless) - NGLess: NGS with less work
-* [madjestic/Haskell-OpenGL-Tutorial](https://github.com/madjestic/Haskell-OpenGL-Tutorial) - an attempt to create a concise modern Haskell OpenGL boilerplate with basic IO
-* [lambdacube3d/lambdacube-compiler](https://github.com/lambdacube3d/lambdacube-compiler) - LambdaCube 3D is a Haskell-like purely functional language for GPU. Try it out:
-* [ahushh/Monaba](https://github.com/ahushh/Monaba) - Imageboard engine written in Haskell and powered by Yesod
-* [tmcdonell/cuda](https://github.com/tmcdonell/cuda) - Haskell FFI bindings to CUDA
 * [jyrimatti/hseverywhere](https://github.com/jyrimatti/hseverywhere) - Haskell Everywhere!
-* [jgoerzen/hslogger](https://github.com/jgoerzen/hslogger) - Logging infrastructure [Haskell]
-* [HaskellZhangSong/Introduction_to_Haskell](https://github.com/HaskellZhangSong/Introduction_to_Haskell) - This is source code of my book.
-* [fortytools/holumbus](https://github.com/fortytools/holumbus) - A Haskell library which provides the basic building blocks for creating powerful indexing and search applications.
-* [ekmett/structures](https://github.com/ekmett/structures) - A playground for working on advanced data structures in Haskell
-* [bsl/GLFW-b](https://github.com/bsl/GLFW-b) - Haskell bindings to GLFW
-* [AllureOfTheStars/Allure](https://github.com/AllureOfTheStars/Allure) - Allure of the Stars is a near-future Sci-Fi roguelike and tactical squad game written in Haskell
-* [agrafix/superrecord](https://github.com/agrafix/superrecord) - Haskell: Supercharged anonymous records
-* [TomSmeets/FractalArt](https://github.com/TomSmeets/FractalArt) - Generate colorful wallpapers!
-* [TiltMeSenpai/Discord.hs](https://github.com/TiltMeSenpai/Discord.hs) - Have you heard of our lord and savior Haskell?
-* [snoyberg/xml](https://github.com/snoyberg/xml) - Various XML utility packages for Haskell
-* [mpickering/apply-refact](https://github.com/mpickering/apply-refact) - Refactor Haskell source files
-* [mchakravarty/lazy-lambda](https://github.com/mchakravarty/lazy-lambda) - Lazy Lambda — a Flappy Bird clone in Haskell with SpriteKit
-* [expipiplus1/vulkan](https://github.com/expipiplus1/vulkan) - Haskell bindings for Vulkan
-* [centromere/cacophony](https://github.com/centromere/cacophony) - A Haskell library implementing the Noise protocol.
 * [ShabbyX/libpandoc](https://github.com/ShabbyX/libpandoc) - C bindings to Pandoc, a markup converter library written in Haskell.
-* [kim/leveldb-haskell](https://github.com/kim/leveldb-haskell) - Haskell bindings to LevelDB (https://github.com/google/leveldb)
 * [jcmincke/Blast](https://github.com/jcmincke/Blast) - A Distributed Computing Library in Haskell
 * [FranklinChen/clojure-transducers-in-haskell](https://github.com/FranklinChen/clojure-transducers-in-haskell) - Clojure transducers in a typed setting, in Haskell
 * [yamadapc/haskell-ascii-progress](https://github.com/yamadapc/haskell-ascii-progress) - A simple Haskell progress bar for the console. Heavily borrows from TJ Holowaychuk's Node.JS project
-* [tibbe/hyena](https://github.com/tibbe/hyena) - A Haskell web application server.
 * [tfausak/hairy](https://github.com/tfausak/hairy) - :haircut: A JSON REST API built in Haskell.
 * [paulrzcz/hquantlib](https://github.com/paulrzcz/hquantlib) - HQuantLib, financial math in Haskell
-* [jvranish/MiniKanrenT](https://github.com/jvranish/MiniKanrenT) - An implementation of miniKanren in Haskell
 * [ekmett/contravariant](https://github.com/ekmett/contravariant) - Haskell 98 contravariant functors
-* [ekmett/comonad](https://github.com/ekmett/comonad) - Haskell 98 comonads
 * [dwayne/haskell-programming](https://github.com/dwayne/haskell-programming) - My notes and solutions to exercises for the book "Haskell Programming from first principles".
-* [davean/waldo](https://github.com/davean/waldo) - A small Haskell server for generating visual stories based on some ascertainable data about the requester.
-* [bos/strange-loop-2011](https://github.com/bos/strange-loop-2011) - Slides and examples from my Haskell workshop at Strange Loop.
-* [awakesecurity/nix-deploy](https://github.com/awakesecurity/nix-deploy) - Deploy software or an entire NixOS system configuration to another NixOS system
 * [abarbu/matplotlib-haskell](https://github.com/abarbu/matplotlib-haskell) - Haskell bindings for Python's Matplotlib
 * [wyager/Example-Distributed-App](https://github.com/wyager/Example-Distributed-App) - An example distributed systems application in Haskell using Cloud Haskell
-* [tomlokhorst/AwesomePrelude](https://github.com/tomlokhorst/AwesomePrelude) - Yet another alternative Haskell Prelude, but this one is awesome!
-* [skogsbaer/hscurses](https://github.com/skogsbaer/hscurses) - ncurses binding for Haskell
-* [ollef/Bidirectional](https://github.com/ollef/Bidirectional) - Haskell implementation of Dunfield and Krishnaswami's "Complete and easy bidirectional typechecking for higher-rank polymorphism"
-* [nikita-volkov/graph-db](https://github.com/nikita-volkov/graph-db) - An experimental native Haskell graph database
-* [IxpertaSolutions/freer-effects](https://github.com/IxpertaSolutions/freer-effects) - An implementation of "Freer Monads, More Extensible Effects".
-* [bydriv/mhc](https://github.com/bydriv/mhc) - Minimal Haskell Compiler
 * [basvandijk/nixtodo](https://github.com/basvandijk/nixtodo) - A demonstration on how to use Nix to build, test and deploy a Haskell application
 * [ameingast/postgresql-simple-migration](https://github.com/ameingast/postgresql-simple-migration) - PostgreSQL Schema Migrations for Haskell
-* [urv/fixhs](https://github.com/urv/fixhs) - FIX (co)parser in haskell
 * [travitch/datalog](https://github.com/travitch/datalog) - A pure Haskell implementation of Datalog
-* [transient-haskell/axiom](https://github.com/transient-haskell/axiom) - Client-side and server-side web framework over Transient and GHCJS  (Haskell to JavaScript compiler)
-* [sol/aeson-qq](https://github.com/sol/aeson-qq) - JSON quasiquoter for Haskell
-* [snoyberg/file-embed](https://github.com/snoyberg/file-embed) - Use Template Haskell to embed file contents directly.
-* [poor-a/erlang-ffi](https://github.com/poor-a/erlang-ffi) - A Foreign Function Interface that lets Haskell and Erlang programs communicate.
-* [mokehehe/monao](https://github.com/mokehehe/monao) - Super monao bros. in Haskell
-* [jhickner/smtp-mail](https://github.com/jhickner/smtp-mail) - Making it easy to send SMTP email from Haskell
-* [itchyny/miv](https://github.com/itchyny/miv) - Vim plugin manager written in Haskell
-* [hunt-framework/hunt](https://github.com/hunt-framework/hunt) - A flexible, lightweight search platform
-* [haskell/win32](https://github.com/haskell/win32) - Haskell support for the Win32 API
-* [contivero/hasmin](https://github.com/contivero/hasmin) - Hasmin - A Haskell CSS Minifier
-* [chetant/LibClang](https://github.com/chetant/LibClang) - Haskell FFI to libclang
-* [CGenie/haskell-snake](https://github.com/CGenie/haskell-snake) - Snake game implemetation in Haskell using SDL2
-* [alpmestan/servant](https://github.com/alpmestan/servant) - Moved to http://github.com/haskell-servant
-* [vaibhavsagar/duffer](https://github.com/vaibhavsagar/duffer) - A git-compatible content tracker in Haskell.
-* [tomahawkins/improve](https://github.com/tomahawkins/improve) - An imperative programming language in Haskell for high assurance embedded applications.  ImProve programs are verified with model checking.  ImProve compiles to C and Simulink.
-* [raaz-crypto/raaz](https://github.com/raaz-crypto/raaz) - Cryptographic library for Haskell
-* [pontarius/pontarius-xmpp](https://github.com/pontarius/pontarius-xmpp) - An XMPP client library for Haskell.
-* [ndmitchell/cmdargs](https://github.com/ndmitchell/cmdargs) - Haskell library for command line argument processing
-* [Gabriel439/Haskell-Errors-Library](https://github.com/Gabriel439/Haskell-Errors-Library) - Type-safe error handling
-* [djv/VisualProf](https://github.com/djv/VisualProf) - http://www.reddit.com/r/haskell/comments/cr15z/visualprof_profiles_your_haskell_program_and/?sort=hot
-* [dhall-lang/dhall-to-cabal](https://github.com/dhall-lang/dhall-to-cabal) - Compile Dhall expressions to Cabal files
-* [christian-marie/git-vogue](https://github.com/christian-marie/git-vogue) - Make your Haskell git repositories fashionable.
-* [alexbecker/formal-morality](https://github.com/alexbecker/formal-morality) - A formal moral framework coded in Haskell
-* [ajtulloch/haskell-ml](https://github.com/ajtulloch/haskell-ml) - Haskell implementations of various ML algorithms.
-* [ToJans/learninghaskell](https://github.com/ToJans/learninghaskell) - Learning Haskell
-* [ryanpbrewster/haskell](https://github.com/ryanpbrewster/haskell) - Personal haskell programs
-* [patrickt/fastsum](https://github.com/patrickt/fastsum) - A fast Haskell open-union type, suitable for 100+ contained alternatives.
-* [Mokosha/Lambency](https://github.com/Mokosha/Lambency) - A Real-Time Rendering framework written in Haskell
-* [awakesecurity/hocker](https://github.com/awakesecurity/hocker) - Utilities for interacting with the docker registry and generating nix build instructions
-* [waldheinz/ads](https://github.com/waldheinz/ads) - A Freenet clone written in Haskell
-* [vincenthz/hs-certificate](https://github.com/vincenthz/hs-certificate) - Certificate and Key Reader/Writer in haskell
-* [qmuli/qmuli](https://github.com/qmuli/qmuli) - Qmuli - Serverless framework for Haskell
-* [nh2/haskell-from-python](https://github.com/nh2/haskell-from-python) - Example how to call Haskell from Python easily (using ctypes.cdll.LoadLibrary)
-* [ku-fpg/hermit](https://github.com/ku-fpg/hermit) - Haskell Equational Reasoning Model-to-Implementation Tunnel
-* [kazu-yamamoto/dns](https://github.com/kazu-yamamoto/dns) - DNS libary in Haskell
-* [hspec/HUnit](https://github.com/hspec/HUnit) - A unit testing framework for Haskell
-* [google/haskell-indexer](https://github.com/google/haskell-indexer) - Emits code crossreference data for Haskell sources.
-* [fpco/rdr2tls](https://github.com/fpco/rdr2tls) - Haskell web service that redirects all traffic from HTTP to HTTPS
-* [ezyang/compact](https://github.com/ezyang/compact) - Compact regions library for Haskell
-* [ekmett/semigroups](https://github.com/ekmett/semigroups) - Haskell 98 semigroups
-* [aleator/CV](https://github.com/aleator/CV) - Haskell wrappers and utilities for OpenCV machine vision library
-* [afcowie/http-streams](https://github.com/afcowie/http-streams) - Haskell HTTP client library for use with io-streams
-* [wdanilo/haskell-logger](https://github.com/wdanilo/haskell-logger) - Fast & extensible logging framework for Haskell!
-* [robstewart57/rdf4h](https://github.com/robstewart57/rdf4h) - rdf4h is a library for working with RDF in Haskell
-* [owickstrom/motor](https://github.com/owickstrom/motor) - Type-safe effectful state machines in Haskell
-* [ocharles/what-it-do](https://github.com/ocharles/what-it-do) - Automatically trace all (showable) binds in do expressions
-* [neongreen/haskell-ex](https://github.com/neongreen/haskell-ex) - Haskell exercises I wrote for Haskell Learning Group
-* [JustusAdam/mustache](https://github.com/JustusAdam/mustache) - Haskell implementation of mustache templates
-* [jdreaver/amy](https://github.com/jdreaver/amy) - Strict Haskell-like programming language that compiles to LLVM
-* [jaseemabid/Olifant](https://github.com/jaseemabid/Olifant) - A simple programming language targeting LLVM
-* [haskell-suite/haskell-names](https://github.com/haskell-suite/haskell-names) - Haskell suite library for name resolution
-* [haskell/pretty](https://github.com/haskell/pretty) - Haskell Pretty-printer library
-* [bjpop/haskell-mpi](https://github.com/bjpop/haskell-mpi) - MPI bindings for Haskell
-* [basvandijk/monad-control](https://github.com/basvandijk/monad-control) - Lift control operations, like exception catching, through monad transformers
-* [takenobu-hs/haskell-ethereum-assembly](https://github.com/takenobu-hs/haskell-ethereum-assembly) - EVM (Ethereum virtual machine) Assembly on Haskell DSL
-* [roman/Haskell-capataz](https://github.com/roman/Haskell-capataz) - OTP-like supervision trees in Haskell
-* [mrkkrp/zip](https://github.com/mrkkrp/zip) - Efficient library for manipulating zip archives
-* [lehins/hip](https://github.com/lehins/hip) - Haskell Image Processing Library
-* [ku-fpg/blank-canvas](https://github.com/ku-fpg/blank-canvas) - A Haskell API into HTML5 Canvas
-* [jhartikainen/hs-language-php](https://github.com/jhartikainen/hs-language-php) - Experimental Haskell PHP parser / evaluator / code generator
-* [jgoerzen/hsh](https://github.com/jgoerzen/hsh) - Shell Integration Library [Haskell]
-* [HeinrichApfelmus/frp-guides](https://github.com/HeinrichApfelmus/frp-guides) - A collection of tutorials, guidelines, examples, patterns and half-baked ideas on functional reactive programming (FRP).
-* [haskell-distributed/distributed-process-platform](https://github.com/haskell-distributed/distributed-process-platform) - DEPRECATED (Cloud Haskell Platform) in favor of distributed-process-extras, distributed-process-async, distributed-process-client-server, distributed-process-registry, distributed-process-supervisor, distributed-process-task and distributed-process-execution
-* [Erdwolf/prolog](https://github.com/Erdwolf/prolog) - A prolog interpreter written in Haskell.
-* [aristidb/http-types](https://github.com/aristidb/http-types) - Generic HTTP types for Haskell (for both client and server code)
-* [zepto-lang/zepto](https://github.com/zepto-lang/zepto) - A Schemy Lisp backed by Haskell
-* [vincenthz/hit](https://github.com/vincenthz/hit) - library to manipulate git repositories in haskell (no bindings)
-* [slyrz/hase](https://github.com/slyrz/hase) - Haskell bindings for the Senna NLP toolkit
-* [sdiehl/repline](https://github.com/sdiehl/repline) - Haskeline wrapper for GHCi-like REPL interfaces
-* [riak-haskell-client/riak-haskell-client](https://github.com/riak-haskell-client/riak-haskell-client) - A fast Haskell client library for the Riak decentralized data store
-* [puffnfresh/sonic2](https://github.com/puffnfresh/sonic2) - Sonic the Hedgehog 2 in Haskell
-* [parsonsmatt/rowdy](https://github.com/parsonsmatt/rowdy) - A convenient DSL for describing web routes
-* [ozataman/csv-conduit](https://github.com/ozataman/csv-conduit) - Flexible, fast and constant-space CSV library for Haskell using conduits
-* [maoe/influxdb-haskell](https://github.com/maoe/influxdb-haskell) - Haskell client library for InfluxDB
-* [keera-studios/keera-posture](https://github.com/keera-studios/keera-posture) - Alleviate your back pain using Haskell and a webcam
-* [jwiegley/putting-lenses-to-work](https://github.com/jwiegley/putting-lenses-to-work) - A presentation for BayHac 2017 on how I uses lenses at work
-* [jtdaugherty/tart](https://github.com/jtdaugherty/tart) - Tart - draw ASCII art in the terminal with your mouse!
-* [int-index/kalium](https://github.com/int-index/kalium) - Translate Pascal into Haskell
-* [haskell-lisp/liskell](https://github.com/haskell-lisp/liskell) - Haskell Semantics with Lisp Syntax
-* [dmjio/google-translate](https://github.com/dmjio/google-translate) - :secret: Google Translate API
-* [crabmusket/haskell-simple-concurrency](https://github.com/crabmusket/haskell-simple-concurrency) - Small examples of concurrency in Haskell.
-* [bartavelle/language-puppet](https://github.com/bartavelle/language-puppet) - A library to work with Puppet manifests, test them and eventually replace everything ruby.
-* [agrafix/users](https://github.com/agrafix/users) - A library simplifying user management for Haskell web applications
-* [tranma/shitty-complexity](https://github.com/tranma/shitty-complexity) - complexity testing for haskell
-* [tfausak/github-release](https://github.com/tfausak/github-release) - :octocat: Upload files to GitHub releases.
-* [m0ar/safe-streaming](https://github.com/m0ar/safe-streaming) - Adaptation of the streaming library for increased safety through linear types. Summer of Haskell 2017 project.
-* [jamesdabbs/pi-base.hs](https://github.com/jamesdabbs/pi-base.hs) - A Haskell-powered modernization of Counterexamples in Topology
-* [ilya-klyuchnikov/lambdapi](https://github.com/ilya-klyuchnikov/lambdapi) - Dependently Typed Lambda Calculus in Haskell
-* [haskell-opengl/GLUT](https://github.com/haskell-opengl/GLUT) - Haskell bindings to GLUT
-* [dstcruz/Write-Yourself-A-Scheme-In-48-Hours](https://github.com/dstcruz/Write-Yourself-A-Scheme-In-48-Hours) - My solutions to the popular Haskell tutorial
-* [bos/bloomfilter](https://github.com/bos/bloomfilter) - A fast Haskell Bloom filter library.
-* [bmillwood/stepeval](https://github.com/bmillwood/stepeval) - A program for evaluating a Haskell expression step-by-step
-* [bitemyapp/open-haskell](https://github.com/bitemyapp/open-haskell) - Community edited and directed course based on Spring '13 cis194.
-* [waivio/cl3](https://github.com/waivio/cl3) - Haskell Library implementing standard functions for the Algebra of Physical Space Cl(3,0)
-* [vincenthz/hs-connection](https://github.com/vincenthz/hs-connection) - simple client connection library in haskell with builtin features: SSL/TLS, SOCKS, session management.
-* [tmhedberg/here](https://github.com/tmhedberg/here) - Haskell here docs & interpolated strings via quasiquotation
-* [thephoeron/quipper-language](https://github.com/thephoeron/quipper-language) - Quipper: embedded, scalable functional programming language for quantum computing (unofficial fork)
-* [tfausak/blunt](https://github.com/tfausak/blunt) - :pencil2: Convert between pointfree and pointful Haskell expressions.
-* [purebred-mua/purebred](https://github.com/purebred-mua/purebred) - A terminal based mail user agent based on notmuch
-* [pa-ba/compdata](https://github.com/pa-ba/compdata) - Haskell library implementing "Data Types a la Carte"
-* [ocharles/assert-explainer](https://github.com/ocharles/assert-explainer) - Py.test style assertions in Haskell
-* [mrkkrp/facts](https://github.com/mrkkrp/facts) - Refined types
-* [mlite/hLLVM](https://github.com/mlite/hLLVM) - A Haskell library for analysing and transforming LLVM code
-* [JustusAdam/marvin](https://github.com/JustusAdam/marvin) - The paranoid bot (framework)
-* [jgoerzen/hpodder](https://github.com/jgoerzen/hpodder) - Podcatcher to download podcasts [Haskell] (unmaintained)
-* [input-output-hk/rscoin-haskell](https://github.com/input-output-hk/rscoin-haskell) - Haskell implementation of RSCoin
-* [ghulette/haskell-parser-examples](https://github.com/ghulette/haskell-parser-examples) - Examples of a simple parser written in both Parsec and Happy/Alex
-* [Gabriel439/Haskell-List-Transformer-Library](https://github.com/Gabriel439/Haskell-List-Transformer-Library) - List monad transformer
-* [exclipy/pdata](https://github.com/exclipy/pdata) - Purely functional, persistent and efficient vector and hash-map data structures for Haskell
-* [erikd/http-proxy](https://github.com/erikd/http-proxy) - A Haskell library for writing HTTP and HTTPS proxies.
-* [ekmett/unpacked-containers](https://github.com/ekmett/unpacked-containers) - Unpacked containers using backpack
-* [corsis/clock](https://github.com/corsis/clock) - High-resolution clock functions: monotonic, realtime, cputime.
-* [adjoint-io/double-ratchet](https://github.com/adjoint-io/double-ratchet) - An implementation of Double Ratchet Algorithm in Haskell
-* [winterland1989/stdio](https://github.com/winterland1989/stdio) - Haskell Standard Input and Output
-* [soimort/GrassMudHorse](https://github.com/soimort/GrassMudHorse) - An implementation of GrassMudHorse programming language in Haskell
-* [samtay/conway](https://github.com/samtay/conway) - A terminal interface for Conway's Game of Life
-* [rampion/kinder-functor](https://github.com/rampion/kinder-functor) - An alternate definition of Haskell's Functor typeclass
-* [ocharles/logging-effect](https://github.com/ocharles/logging-effect) - A very general logging effect for Haskell
-* [ninegua/lambda-viewer](https://github.com/ninegua/lambda-viewer) - Learn You a Lambda, a Haskell Tutorial
-* [mzero/barley](https://github.com/mzero/barley) - Get going with Haskell ASAP
-* [kaizhang/SciFlow](https://github.com/kaizhang/SciFlow) - Scientific workflow management
-* [HeinrichApfelmus/vault](https://github.com/HeinrichApfelmus/vault) - A typed, persistent store for values of arbitrary types
-* [giovanifss/Dumb](https://github.com/giovanifss/Dumb) - Dumain Bruteforcer - a fast and flexible domain bruteforcer
-* [bos/mwc-random](https://github.com/bos/mwc-random) - A very fast Haskell library for generating high quality pseudo-random numbers.
-* [alanz/ghc-exactprint](https://github.com/alanz/ghc-exactprint) - GHC version of haskell-src-exts exactPrint
-* [acfoltzer/Molog](https://github.com/acfoltzer/Molog) - A typed logic programming language embedded in Haskell
-* [ocharles/plhaskell](https://github.com/ocharles/plhaskell) - Write PostgreSQL functions in Haskell
-* [mmark-md/mmark](https://github.com/mmark-md/mmark) - Strict markdown processor for writers
-* [leventov/yarr](https://github.com/leventov/yarr) - Yer another array library
-* [kolmodin/herl](https://github.com/kolmodin/herl) - Erlang BEAM emulator in Haskell
-* [JoeyEremondi/haskelm](https://github.com/JoeyEremondi/haskelm) - Haskell to Elm translation using Template Haskell. Contains both a library and executable.
-* [jasonstolaruk/CurryMUD](https://github.com/jasonstolaruk/CurryMUD) - A Multi-User Dungeon server in Haskell.
-* [JakeWheat/simple-sql-parser](https://github.com/JakeWheat/simple-sql-parser) - SQL query parser in Haskell
-* [hauxir/haskell-tetris](https://github.com/hauxir/haskell-tetris) - Tetris game written in Haskell using ncurses
-* [erikd/haskell-big-integer-experiment](https://github.com/erikd/haskell-big-integer-experiment) - An experiment in re-implementing big integers in Haskell.
-* [blitzcode/hackage-diff](https://github.com/blitzcode/hackage-diff) - Compare the public API of different versions of a Hackage library
-* [beckyconning/haskell-snake](https://github.com/beckyconning/haskell-snake) - Simple and short implementation of a Snake game. Any pull requests which make it shorter or cleaner would be greatly appreciated : ).
-* [anton-k/processing-for-haskell](https://github.com/anton-k/processing-for-haskell) - Graphics for kids and artists. Processing implemented in Haskell
-* [aelve/guide](https://github.com/aelve/guide) - Wiki for the Haskell ecosystem
-* [vmchale/command-line-tweeter](https://github.com/vmchale/command-line-tweeter) - Tweets in from a pipe
-* [roman/Haskell-etc](https://github.com/roman/Haskell-etc) - Declarative configuration spec for Haskell projects
-* [RaminHAL9001/Dao](https://github.com/RaminHAL9001/Dao) - The Dao System, a Haskell package providing a domain-specific scripting language and knowledge base designed for artificial intelligence, specifically for understanding natural language.
-* [nh2/link-with-lld-example](https://github.com/nh2/link-with-lld-example) - Example how to link Haskell programs very quickly with lld
-* [ledger/ledger4](https://github.com/ledger/ledger4) - A rewrite of Ledger's core mathematical concepts in Haskell
-* [haskell-game/fungen](https://github.com/haskell-game/fungen) - A lightweight, cross-platform, OpenGL/GLUT-based 2D game engine in Haskell
-* [GaloisInc/avro](https://github.com/GaloisInc/avro) - Haskell Avro Encoding and Decoding Native Support  (no RPC)
-* [dorchard/type-level-sets](https://github.com/dorchard/type-level-sets) - Type-level sets for Haskell (with value-level counterparts and various operations)
-* [connermcd/sed](https://github.com/connermcd/sed) - Haskell implementation of sed
-* [btmura/b1](https://github.com/btmura/b1) - B1 is stock chart viewer written in Haskell using the OpenGL, GLFW, and FTGL bindings.
-* [beijaflor-io/haskell-libui](https://github.com/beijaflor-io/haskell-libui) - Haskell bindings to the libui C library.
-* [aisamanra/s-cargot](https://github.com/aisamanra/s-cargot) - Elaborate and expressive S-Expression library for Haskell
-* [vincenthz/hs-git](https://github.com/vincenthz/hs-git) - git protocol and storage in pure haskell
-* [roman/Haskell-Reactive-Extensions](https://github.com/roman/Haskell-Reactive-Extensions) - Implementation of Reactive Extensions in Haskell
-* [puffnfresh/haskell-buildpack-demo](https://github.com/puffnfresh/haskell-buildpack-demo) - Demo of the Heroku Haskell Buildpack
-* [Poincare/QLearn](https://github.com/Poincare/QLearn) - A fast, easy-to-use q-learning library for Haskell
-* [pasqu4le/clifm](https://github.com/pasqu4le/clifm) - Command Line Interface File Manager
-* [michaelschade/hs-stripe](https://github.com/michaelschade/hs-stripe) - A Haskell implementation of the Stripe API.
-* [haskell-works/hw-kafka-client](https://github.com/haskell-works/hw-kafka-client) - Kafka client for Haskell, including auto-rebalancing consumers
-* [goldfirere/effects](https://github.com/goldfirere/effects) - A Haskell translation of Idris's original algebraic effects library
-* [gergoerdi/metafun](https://github.com/gergoerdi/metafun) - Compile Haskell-like code into C++ template metaprograms
-* [beijaflor-io/ghcjs-commonjs](https://github.com/beijaflor-io/ghcjs-commonjs) - Seamless calls of Haskell code from JavaScript modules
-* [antonlogvinenko/javelin](https://github.com/antonlogvinenko/javelin) - JVM implementation in Haskell
-* [Soostone/cassy](https://github.com/Soostone/cassy) - High level Cassandra bindings for Haskell
-* [sdiehl/llvm-tutorial-standalone](https://github.com/sdiehl/llvm-tutorial-standalone) - DEPRECATED (Use: https://github.com/llvm-hs/llvm-hs-kaleidoscope )
-* [pedromartins/cuboid](https://github.com/pedromartins/cuboid) - 3D puzzle game written in Haskell with Yampa/GLUT
-* [neurocyte/foreign-jni](https://github.com/neurocyte/foreign-jni) - Haskell bindings to the Java Native Interface
-* [myfreeweb/pcre-heavy](https://github.com/myfreeweb/pcre-heavy) - A Haskell regular expressions library that doesn't suck
-* [mrkkrp/modern-uri](https://github.com/mrkkrp/modern-uri) - Modern library for working with URIs
-* [kazu-yamamoto/mighttpd](https://github.com/kazu-yamamoto/mighttpd) - A simple but practical HTTP server in Haskell. 'mighttpd' should be called 'mighty'.
-* [jputcu/serialport](https://github.com/jputcu/serialport) - Cross platform haskell library for using the serial port
-* [gibiansky/ghc-reskin](https://github.com/gibiansky/ghc-reskin) - A preprocessor for GHC for alternate Haskell syntaxes
-* [gazay/faker](https://github.com/gazay/faker) - Faker is pure Haskell library for generating fake data.
-* [facebookexperimental/hs-zstd](https://github.com/facebookexperimental/hs-zstd) - Bindings to the Zstandard library to make it usable from the Haskell programming language.
-* [Errorific/haskell-script-examples](https://github.com/Errorific/haskell-script-examples) - Examples of tools for use in basic utility scripts
-* [dmjio/hackernews](https://github.com/dmjio/hackernews) - :newspaper: HackerNews API
-* [cdepillabout/servant-checked-exceptions](https://github.com/cdepillabout/servant-checked-exceptions) - type-level errors for Servant APIs.
-* [barbuz/Husk](https://github.com/barbuz/Husk) - Functional golfing language inspired by Haskell.
-* [zalora/sproxy](https://github.com/zalora/sproxy) - See http://hackage.haskell.org/package/sproxy2
-* [tibbe/event](https://github.com/tibbe/event) - A Haskell event notification library
-* [tfausak/wuss](https://github.com/tfausak/wuss) - :lock: Secure WebSocket (WSS) clients in Haskell.
-* [styx/Raincat](https://github.com/styx/Raincat) - A puzzle game with a cat in lead role (Haskell)
-* [sebfisch/primes](https://github.com/sebfisch/primes) - Prime Numbers for Haskell
-* [nbouscal/poker.hs](https://github.com/nbouscal/poker.hs) - Texas Hold'em in Haskell
-* [mbeidler/cation](https://github.com/mbeidler/cation) - A full-stack Haskell web application starter project.
-* [lpeterse/haskell-socket](https://github.com/lpeterse/haskell-socket) - A Haskell binding to the POSIX sockets API
-* [llvm-hs/llvm-hs-examples](https://github.com/llvm-hs/llvm-hs-examples) - Examples for Haskell bindings to LLVM
-* [JustusAdam/language-haskell](https://github.com/JustusAdam/language-haskell) - Highlighting support for the Haskell language in visual studio code.
-* [JPMoresmau/BuildWrapper](https://github.com/JPMoresmau/BuildWrapper) - Utility to manage haskell projects for an IDE
-* [jaspervdj/psqueues](https://github.com/jaspervdj/psqueues) - Priority Search Queues in three different flavors for Haskell
-* [Hrothen/Hubert](https://github.com/Hrothen/Hubert) - Toy web rendering engine in haskell
-* [elaforge/fast-tags](https://github.com/elaforge/fast-tags) - Incremental vi and emacs tags for haskell.
-* [ekmett/profunctors](https://github.com/ekmett/profunctors) - Haskell 98 Profunctors
-* [conscell/hugs-android](https://github.com/conscell/hugs-android) - Port of HUGS Haskell interpreter to Android
-* [batterseapower/parallel-io](https://github.com/batterseapower/parallel-io) - Haskell combinators for executing IO actions in parallel on a thread pool
-* [abailly/hevents](https://github.com/abailly/hevents) - Event Sourcing library in Haskell
-* [yav/pretty-show](https://github.com/yav/pretty-show) - Tools for working with derived Show instances in Haskell.
-* [simonmichael/shelltestrunner](https://github.com/simonmichael/shelltestrunner) - Easy, repeatable testing of CLI programs/commands
-* [serokell/serokell-util](https://github.com/serokell/serokell-util) - Different functions which are used across multiple @serokell packages. Also contains style-guide.
-* [serokell/o-clock](https://github.com/serokell/o-clock) - :hourglass: Time-safe library.
-* [philopon/haddocset](https://github.com/philopon/haddocset) - Generate docset of Dash by Haddock haskell documentation tool
-* [patperry/hs-monte-carlo](https://github.com/patperry/hs-monte-carlo) - A Monte Carlo monad and transformer for Haskell.
-* [ondrap/json-stream](https://github.com/ondrap/json-stream) - Incremental applicative JSON Haskell parser
-* [ndmitchell/uniplate](https://github.com/ndmitchell/uniplate) - Haskell library for simple, concise and fast generic operations.
-* [kazu-yamamoto/iproute](https://github.com/kazu-yamamoto/iproute) - IP Routing Table in Haskell
-* [jaspervdj/dcpu16-hs](https://github.com/jaspervdj/dcpu16-hs) - Haskell implementation of Notch's dcpu-16 specification (assembler, emulator)
-* [iand675/hs-mesos](https://github.com/iand675/hs-mesos) - Mesos bindings for Haskell
-* [haskell-opengl/OpenGLRaw](https://github.com/haskell-opengl/OpenGLRaw) - Haskell bindings to OpenGL (direct C bindings)
-* [haskell/hackage-security](https://github.com/haskell/hackage-security) - Hackage security framework based on TUF (The Update Framework)
-* [fizruk/lxc](https://github.com/fizruk/lxc) - High level Haskell bindings to LXC (Linux containers).
-* [Euterpea/HSoM](https://github.com/Euterpea/HSoM) - Supporting Impelementation for Haskell School of Music
-* [ekmett/bifunctors](https://github.com/ekmett/bifunctors) - Haskell 98 bifunctors, bifoldables and bitraversables
-* [cjdev/monad-mock](https://github.com/cjdev/monad-mock) - A Haskell package that provides a monad transformer for mocking mtl-style typeclasses
-* [bramgg/99haskell](https://github.com/bramgg/99haskell) - Live Haskell coding problems
-* [basvandijk/scientific](https://github.com/basvandijk/scientific) - Arbitrary-precision floating-point numbers represented using scientific notation
-* [adamgundry/inch](https://github.com/adamgundry/inch) - A type-checker for Haskell with integer constraints
-* [vimus/libmpd-haskell](https://github.com/vimus/libmpd-haskell) - A client library for MPD, the Music Player Daemon
-* [tweag/inline-js](https://github.com/tweag/inline-js) - Execute Node.js scripts in Haskell.
-* [snoyberg/file-server-demo](https://github.com/snoyberg/file-server-demo) - Single-file example of a Haskell file server
-* [skogsbaer/HTF](https://github.com/skogsbaer/HTF) - Haskell Test Framework
-* [SFML-haskell/SFML](https://github.com/SFML-haskell/SFML) - Low level Haskell bindings for SFML 2.x
-* [paulgb/haskell_hadoop](https://github.com/paulgb/haskell_hadoop) - Haskell module for streaming hadoop MapReduce jobs
-* [mark-watson/haskell_tutorial_cookbook_examples](https://github.com/mark-watson/haskell_tutorial_cookbook_examples) - Code samples for my book "Haskell Tutorial and Cookbook"
-* [liqula/react-hs](https://github.com/liqula/react-hs) - A GHCJS binding to React based on the Flux design. The flux design pushes state and complicated logic out of the view, allowing the rendering functions and event handlers to be pure Haskell functions.
 * [korolr/korolr.github.io](https://github.com/korolr/korolr.github.io) - My site in powered with Hakyll
-* [kazu-yamamoto/cab](https://github.com/kazu-yamamoto/cab) - A maintenance command of Haskell cabal packages
-* [jwvg0425/HaskellStudy](https://github.com/jwvg0425/HaskellStudy) - HaskellStudy
-* [jaspervdj/planet-wars-haskell](https://github.com/jaspervdj/planet-wars-haskell) - Unofficial Haskell starter package for the Planet Wars AI contest
-* [intoverflow/Potential](https://github.com/intoverflow/Potential) - x86-64 assembly as a Haskell EDSL
-* [haskell-hvr/uuid](https://github.com/haskell-hvr/uuid) - A Haskell library for creating, printing and parsing UUIDs
-* [froozen/kademlia](https://github.com/froozen/kademlia) - A haskell library implementing the Kademlia DHT
-* [fgaz/shine](https://github.com/fgaz/shine) - Declarative graphics for the browser
-* [evansb/cis194-hw](https://github.com/evansb/cis194-hw) - Solution to UPenn's Haskell course homework
-* [etnt/Haskerl](https://github.com/etnt/Haskerl) - Haskell subset compiled to the Beam machine.
-* [bgamari/optimization](https://github.com/bgamari/optimization) - Some numerical optimization methods implemented in Haskell
-* [archhaskell/cblrepo](https://github.com/archhaskell/cblrepo) - Tool to simplify managing a consistent set of Haskell packages for distributions.
-* [aloiscochard/codec-jvm](https://github.com/aloiscochard/codec-jvm) - A JVM bytecode assembler written in Haskell.
-* [acowley/ffmpeg-light](https://github.com/acowley/ffmpeg-light) - Minimal Haskell bindings to the FFmpeg library
-* [ziocroc/Ombra](https://github.com/ziocroc/Ombra) - Graphics engine written in Haskell.
-* [vincenthz/hs-memory](https://github.com/vincenthz/hs-memory) - haskell memory
-* [vincenthz/hs-hourglass](https://github.com/vincenthz/hs-hourglass) - efficient and simpler time API for haskell
-* [tylerholien/milena](https://github.com/tylerholien/milena) - the (very humble) beginnings of a kafka client for haskell
-* [tonyday567/numhask](https://github.com/tonyday567/numhask) - A haskell numeric prelude, providing a clean structure for numbers and operations that combine them.
-* [spl/dlist](https://github.com/spl/dlist) - Difference lists in Haskell
-* [parsonsmatt/kale](https://github.com/parsonsmatt/kale) - A quick, easy, and declarative task runner for Haskell code to destroy your boiler plate!
-* [owainlewis/slack](https://github.com/owainlewis/slack) - Slack Web and RTM API
-* [nomeata/ghc-heap-view](https://github.com/nomeata/ghc-heap-view) - Extract the heap representation of Haskell values and thunks
-* [nbartlomiej/tfoo](https://github.com/nbartlomiej/tfoo) - Five-in-a-Row online with Haskell and Server-sent Events
-* [MaartenFaddegon/Hoed](https://github.com/MaartenFaddegon/Hoed) - Hoed - A Lightweight Haskell Tracer and Debugger
-* [llvm-hs/llvm-hs-kaleidoscope](https://github.com/llvm-hs/llvm-hs-kaleidoscope) - Kaleidoscope Tutorial using llvm-hs
-* [Gabriel439/Haskell-Pipes-Concurrency-Library](https://github.com/Gabriel439/Haskell-Pipes-Concurrency-Library) - Concurrency for the pipes ecosystem
-* [Gabriel439/Haskell-MMorph-Library](https://github.com/Gabriel439/Haskell-MMorph-Library) - Monad morphisms
-* [dmp1ce/DMSS](https://github.com/dmp1ce/DMSS) - Dead Man's Switch System
-* [cies/haskell-fractal](https://github.com/cies/haskell-fractal) - Haskell example: A simple fractal image renderer
-* [cchalmers/plots](https://github.com/cchalmers/plots) - Haskell plotting library
-* [bitemyapp/blacktip](https://github.com/bitemyapp/blacktip) - Haskell clone of Boundary's k-ordered unique id service
-* [arjunguha/haskell-couchdb](https://github.com/arjunguha/haskell-couchdb) - Haskell bindings for CouchDB
-* [andrewdougherty/svm](https://github.com/andrewdougherty/svm) - A support vector machine implemented in Haskell.
-* [alevy/simple](https://github.com/alevy/simple) - A minimal Haskell web-framework based on the WAI web server interface.
-* [zfoh/haskell-beginners-projects](https://github.com/zfoh/haskell-beginners-projects) - A couple of Haskell beginner projects, for ZuriHac 2016
-* [yamadapc/stack-run-auto](https://github.com/yamadapc/stack-run-auto) - Automatically finds dependencies and runs a Haskell file with stack (no cabal manifest, no stack.yaml, no project, no friction)
-* [WJWH/HPi](https://github.com/WJWH/HPi) - Library to access the GPIO pins on a Raspberry Pi from Haskell.
-* [utatti/line](https://github.com/utatti/line) - Haskell SDK for the LINE APIs
-* [tmishima/Hinecraft](https://github.com/tmishima/Hinecraft) - This is a simple Minecraft Clone (DEMO) written in Haskell.
-* [svenssonjoel/Obsidian](https://github.com/svenssonjoel/Obsidian) - Obsidian Language Repository
-* [stackbuilders/dotenv-hs](https://github.com/stackbuilders/dotenv-hs) - Load environment variables from dotenv files for Haskell
-* [soupi/pureli](https://github.com/soupi/pureli) - A purely functional, dynamically typed, parallel evaluated Lisp-like programming language
-* [SFTtech/openage-masterserver](https://github.com/SFTtech/openage-masterserver) - Lobby and matchmaking server for openage in Haskell
-* [sellout/yaya](https://github.com/sellout/yaya) - Yet another yet another recursion scheme library in Haskell.
-* [ryukinix/discrete-mathematics](https://github.com/ryukinix/discrete-mathematics) - A computational way to study discrete mathematics using Haskell
-* [rnons/HadouRex](https://github.com/rnons/HadouRex) - douban.fm CLI client in Haskell. You might be interested in https://github.com/rnons/lord
-* [potomak/haskell-player](https://github.com/potomak/haskell-player) - A terminal music player based on afplay
-* [mgajda/homplexity](https://github.com/mgajda/homplexity) - Haskell code complexity and quality measurement
-* [markandrus/twilio-haskell](https://github.com/markandrus/twilio-haskell) - Twilio library for Haskell
-* [liamoc/wizards](https://github.com/liamoc/wizards) - High level, generic library for interrogative user interfaces in Haskell
-* [kokuyouwind/haskell-exercises](https://github.com/kokuyouwind/haskell-exercises) - 「すごいHaskell楽しく学ぼう！」の社内勉強会のために作成した、章末ごとの演習問題集です。
-* [jystic/hadoop-tools](https://github.com/jystic/hadoop-tools) - Tools for working with Hadoop, written with performance in mind.
-* [jspahrsummers/RxHaskell](https://github.com/jspahrsummers/RxHaskell) - Reactive Extensions for Haskell (experimental)
-* [HaskellCNOrg/snap-web](https://github.com/HaskellCNOrg/snap-web) - Towards web with Snap in Haskell
-* [facebookarchive/futil](https://github.com/facebookarchive/futil) - utility library for haskell projects
-* [chicagohaskell/servant-presentation](https://github.com/chicagohaskell/servant-presentation) - Slides + TodoApp for Chicago Haskell Servant Presentation
-* [abooij/haskell-wayland](https://github.com/abooij/haskell-wayland) - DEPRECATED Haskell bindings for the Wayland library
-* [worksap-ate/aws-sdk](https://github.com/worksap-ate/aws-sdk) - AWS SDK for Haskell
-* [reflex-frp/reflex-examples](https://github.com/reflex-frp/reflex-examples) -  Reflex FRP is a composable, cross-platform functional reactive programming framework for Haskell. It allows you to build interactive components in pure functional style, working in harmony with established Haskell techniques and improving the quality and elegance of your applications.
-* [ocharles/rel8](https://github.com/ocharles/rel8) - Hey! Hey! Can u rel8?
-* [ndmitchell/extra](https://github.com/ndmitchell/extra) - Extra Haskell functions
-* [mvr/cf](https://github.com/mvr/cf) - "Exact" real arithmetic for Haskell using continued fractions (Not formally proven correct)
-* [mpickering/500-sql-haskell](https://github.com/mpickering/500-sql-haskell) - A Haskell implementation of "Functional pearl: a SQL to C compiler in 500 lines of code"
-* [mikeplus64/Level-0](https://github.com/mikeplus64/Level-0) - Haskell Snake clone.
-* [mikeizbicki/hmm](https://github.com/mikeizbicki/hmm) - hidden markov models in haskell
-* [lenguyenthedat/raptor](https://github.com/lenguyenthedat/raptor) - A lightweight product recommendation system (Item Based Collaborative Filtering) developed in Haskell.
-* [ivan-m/graphviz](https://github.com/ivan-m/graphviz) - Haskell bindings to the Graphviz toolkit
-* [GaloisInc/halfs](https://github.com/GaloisInc/halfs) - The Haskell File System: A file system implementation in Haskell
-* [ekmett/perhaps](https://github.com/ekmett/perhaps) - A monad, perhaps.
-* [egonSchiele/actionkid](https://github.com/egonSchiele/actionkid) - A video game framework for haskell
-* [dagit/nehe-tuts](https://github.com/dagit/nehe-tuts) - OpenGL NeHe tutorials converted to Haskell
-* [BardurArantsson/cqrs](https://github.com/BardurArantsson/cqrs) - CQRS Implementation for Haskell
-* [ajnsit/wai-routes](https://github.com/ajnsit/wai-routes) - Typesafe URLs for Haskell Wai applications
-* [acfoltzer/gitrev](https://github.com/acfoltzer/gitrev) - Compile git revision info into Haskell projects
-* [abhin4v/link](https://github.com/abhin4v/link) - A simple multithreded chat server in haskell
-* [uhc/uhc](https://github.com/uhc/uhc) - Utrecht Haskell Compiler
-* [tfausak/strive](https://github.com/tfausak/strive) - :bicyclist: A Haskell client for the Strava V3 API.
-* [PatrickMaier/HdpH](https://github.com/PatrickMaier/HdpH) - Haskell distributed parallel Haskell
-* [mrkkrp/text-metrics](https://github.com/mrkkrp/text-metrics) - Calculate various string metrics efficiently in Haskell
-* [mdibaiee/sibe](https://github.com/mdibaiee/sibe) - Experimental Haskell machine learning library
-* [luqui/data-memocombinators](https://github.com/luqui/data-memocombinators) - Pure memoization combinators for Haskell
-* [ivanperez-keera/dunai](https://github.com/ivanperez-keera/dunai) - Functional Reactive Programming using Monadic Stream Functions
-* [gcross/LogicGrowsOnTrees](https://github.com/gcross/LogicGrowsOnTrees) - A library and framework for massively parallelizing backtracking searches in Haskell.
-* [Fuuzetsu/aeson-schema](https://github.com/Fuuzetsu/aeson-schema) - Haskell JSON schema validator and parser generator
-* [fimad/prometheus-haskell](https://github.com/fimad/prometheus-haskell) - Haskell client library for exposing prometheus.io metrics.
-* [dvolk/hoodie](https://github.com/dvolk/hoodie) - A toy roguelike game in Haskell
-* [crooney/cinder](https://github.com/crooney/cinder) - Markup (HTML and SVG) and DOM manipulation DSL for the Fay subset of Haskell.
-* [arcticmatt/dino-brick](https://github.com/arcticmatt/dino-brick) - dino game, terminal edition
 * [YoEight/lambda-database-experiment](https://github.com/YoEight/lambda-database-experiment) - Experimental event store database entirely written in Haskell
-* [tekul/broch](https://github.com/tekul/broch) - OAuth2 and OpenID Connect in Haskell
-* [stepcut/plugins](https://github.com/stepcut/plugins) - Dynamic linking and runtime evaluation of Haskell, and C, including dependency chasing and package resolution.
-* [srp/mongoDB](https://github.com/srp/mongoDB) - A mongoDB driver for Haskell.
-* [soupi/chip-8](https://github.com/soupi/chip-8) - A CHIP-8 Emulator written in Haskell
-* [sebfisch/haskell-regexp](https://github.com/sebfisch/haskell-regexp) - Regular Expression Matching in Haskell
-* [nh2/hemokit](https://github.com/nh2/hemokit) - Haskell library for the Emotiv EEG, inspired by the Emokit code
-* [lpeterse/haskell-mqtt](https://github.com/lpeterse/haskell-mqtt) - An MQTT protocol implementation (client and server)
 * [leftaroundabout/manifolds](https://github.com/leftaroundabout/manifolds) - Coordinate-free hypersurfaces as Haskell types
-* [jhedev/todobackend-haskell](https://github.com/jhedev/todobackend-haskell) - Todobackend implementations in Haskell using various frameworks
-* [jaspervdj/number-six](https://github.com/jaspervdj/number-six) - Number Six is a sexy Haskell IRC bot.
-* [ivan-m/haskell-docs](https://github.com/ivan-m/haskell-docs) - Get the Haskell documentation of a name from a module
-* [hansonkd/Wheb-Framework](https://github.com/hansonkd/Wheb-Framework) - Haskell WAI Framework
-* [Gabriel439/Haskell-Server-Generic-Library](https://github.com/Gabriel439/Haskell-Server-Generic-Library) - Auto-generate a server for your datatype
-* [fpco/odbc](https://github.com/fpco/odbc) - Haskell ODBC binding with SQL Server support
-* [ekmett/transients](https://github.com/ekmett/transients) - Clojure-style transients for Haskell
-* [duckinator/haskell-examples](https://github.com/duckinator/haskell-examples) - Some haskell example code
-* [Daniel-Diaz/matrix](https://github.com/Daniel-Diaz/matrix) - A Haskell native implementation of matrices and their operations.
 * [idontgetoutmuch/NumMethHaskell](https://github.com/idontgetoutmuch/NumMethHaskell) - Numerical Methods in Haskell with Applications to Data Analysis, Finance and Physics
 * [chrisdone/freenect](https://github.com/chrisdone/freenect) - Haskell interface to Kinect.
 * [vincenthz/professor](https://github.com/vincenthz/professor) - haskell prof file CLI/Curses tool
 * [siddharthist/CoverTranslator](https://github.com/siddharthist/CoverTranslator) - A tool for formally verifying Haskell code in Agda
-* [mrkkrp/ghc-syntax-highlighter](https://github.com/mrkkrp/ghc-syntax-highlighter) - Syntax highlighter for Haskell using lexer of GHC itself
 * [luispedro/hex](https://github.com/luispedro/hex) - Reimplementation of TeX in Haskell: pre-alpha
 * [lucasdicioccio/http2-client](https://github.com/lucasdicioccio/http2-client) - A native HTTP2 client in Haskell
 * [jano017/Discord.hs](https://github.com/jano017/Discord.hs) - Have you heard of our lord and savior Haskell?
@@ -902,11 +908,9 @@ A curated list of awesome Haskell frameworks, libraries and software.
 * [Rydgel/flappy-haskell](https://github.com/Rydgel/flappy-haskell) - Flappy Bird Haskell Implementation
 * [jstolarek/haskell-testing-stub](https://github.com/jstolarek/haskell-testing-stub) - Stub project showing how to organize tests and benchmarks in Haskell
 * [fpco/haskell-ide](https://github.com/fpco/haskell-ide) - Repo for collaborating on various shared Haskell IDE components.
-* [dom96/SimpleIRC](https://github.com/dom96/SimpleIRC) - IRC Library for Haskell
 * [bos/rwh](https://github.com/bos/rwh) - Real World Haskell
 * [basile-henry/HaskellSweeper](https://github.com/basile-henry/HaskellSweeper) - A Minesweeper clone with infinite grid written in Haskell.
 * [adjoint-io/nanocoin](https://github.com/adjoint-io/nanocoin) - A simple cryptocurrency implementation, written to illustrate the basic components of a Proof-of-Work based, public distributed ledger.
-* [tweag/asterius](https://github.com/tweag/asterius) - A Haskell to WebAssembly compiler
 * [cosbynator/haskakafka](https://github.com/cosbynator/haskakafka) - Kafka bindings for Haskell
 * [kowainik/hs-init](https://github.com/kowainik/hs-init) - :wrench: Tool for creating completely configured production Haskell projects
 * [yogsototh/learn_haskell](https://github.com/yogsototh/learn_haskell) - An attemps to make a document to help learn Haskell
@@ -958,7 +962,6 @@ A curated list of awesome Haskell frameworks, libraries and software.
 * [sol/interpolate](https://github.com/sol/interpolate) - String interpolation for Haskell done right!
 * [quietfanatic/neskell](https://github.com/quietfanatic/neskell) - NES programming in Haskell?  No way!
 * [pbrisbin/devsite](https://github.com/pbrisbin/devsite) - pbrisbin.com source code, using the Yesod haskell web framework
-* [OlivierSohn/hamazed](https://github.com/OlivierSohn/hamazed) - A monorepo for Hamazed - a game with flying numbers
 * [michaelfeathers/vih](https://github.com/michaelfeathers/vih) - a simple vi clone written in Haskell
 * [MarcosPividori/push-notify](https://github.com/MarcosPividori/push-notify) - A server-side library in Haskell for sending push notifications to devices running different OS.
 * [kim/data-ringbuffer](https://github.com/kim/data-ringbuffer) - Haskell implementation of a Ringbuffer inspired by the "Disruptor Pattern"
