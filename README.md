@@ -1024,3 +1024,4 @@ A curated list of awesome Haskell frameworks, libraries and software.
 * [adscib/monad-bayes](https://github.com/adscib/monad-bayes) - A library for probabilistic programming in Haskell.
 * [Aearnus/cherchord](https://github.com/Aearnus/cherchord) - 🎸 Find chords for any string instrument quicky & easily 🎸
 * [JKTKops/Write-You-a-Haskell-2](https://github.com/JKTKops/Write-You-a-Haskell-2) - A continuation of Steven Diehl's Write You a Haskell
+* [HStreamDB](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing
