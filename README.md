@@ -2,6 +2,7 @@
 
 A curated list of awesome Haskell frameworks, libraries and software.
 
+* [aisk/request](https://github.com/aisk/request) - HTTP client for haskell, inpired by requests and http-dispatch.
 * [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 * [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 * [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
