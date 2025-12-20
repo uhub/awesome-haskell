@@ -1052,3 +1052,9 @@ A curated list of awesome Haskell frameworks, libraries and software.
 * [pkamenarsky/concur-static](https://github.com/pkamenarsky/concur-static) - Generate semi-dynamic UIs with Concur
 * [moonmaster9000/bird](https://github.com/moonmaster9000/bird) - A sinatra-ish framework written in haskell, riding on top of Hack
 * [davean/waldo](https://github.com/davean/waldo) - A small Haskell server for generating visual stories based on some ascertainable data about the requester.
+
+# Resources
+
+## Newsletters
+
+* [Haskell Weekly](https://discu.eu/weekly/haskell/) - each monday a recap of what's going on in the Haskell world
