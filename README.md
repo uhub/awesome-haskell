@@ -1068,3 +1068,5 @@ A curated list of awesome Haskell frameworks, libraries and software.
 * [pkamenarsky/concur-static](https://github.com/pkamenarsky/concur-static) - Generate semi-dynamic UIs with Concur
 * [moonmaster9000/bird](https://github.com/moonmaster9000/bird) - A sinatra-ish framework written in haskell, riding on top of Hack
 * [davean/waldo](https://github.com/davean/waldo) - A small Haskell server for generating visual stories based on some ascertainable data about the requester.
+
+* [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) - Ingest, store and query logs, traces and metrics using S3-compatible buckets. Query in natural language via LLMs. OpenTelemetry-native with 750+ integrations.
